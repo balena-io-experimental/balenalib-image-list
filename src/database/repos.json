@@ -1,0 +1,10856 @@
+[
+  {
+    "name": "aarch64"
+  },
+  {
+    "name": "aarch64-alpine"
+  },
+  {
+    "name": "aarch64-alpine-dotnet"
+  },
+  {
+    "name": "aarch64-alpine-golang"
+  },
+  {
+    "name": "aarch64-alpine-node"
+  },
+  {
+    "name": "aarch64-alpine-openjdk"
+  },
+  {
+    "name": "aarch64-alpine-python"
+  },
+  {
+    "name": "aarch64-alpine-supervisor-base"
+  },
+  {
+    "name": "aarch64-debian"
+  },
+  {
+    "name": "aarch64-debian-dotnet"
+  },
+  {
+    "name": "aarch64-debian-golang"
+  },
+  {
+    "name": "aarch64-debian-node"
+  },
+  {
+    "name": "aarch64-debian-openjdk"
+  },
+  {
+    "name": "aarch64-debian-python"
+  },
+  {
+    "name": "aarch64-dotnet"
+  },
+  {
+    "name": "aarch64-fedora"
+  },
+  {
+    "name": "aarch64-fedora-golang"
+  },
+  {
+    "name": "aarch64-fedora-node"
+  },
+  {
+    "name": "aarch64-fedora-openjdk"
+  },
+  {
+    "name": "aarch64-fedora-python"
+  },
+  {
+    "name": "aarch64-golang"
+  },
+  {
+    "name": "aarch64-node"
+  },
+  {
+    "name": "aarch64-openjdk"
+  },
+  {
+    "name": "aarch64-python"
+  },
+  {
+    "name": "aarch64-ubuntu"
+  },
+  {
+    "name": "aarch64-ubuntu-dotnet"
+  },
+  {
+    "name": "aarch64-ubuntu-golang"
+  },
+  {
+    "name": "aarch64-ubuntu-node"
+  },
+  {
+    "name": "aarch64-ubuntu-openjdk"
+  },
+  {
+    "name": "aarch64-ubuntu-python"
+  },
+  {
+    "name": "aio-3288c"
+  },
+  {
+    "name": "aio-3288c-alpine"
+  },
+  {
+    "name": "aio-3288c-alpine-dotnet"
+  },
+  {
+    "name": "aio-3288c-alpine-golang"
+  },
+  {
+    "name": "aio-3288c-alpine-node"
+  },
+  {
+    "name": "aio-3288c-alpine-openjdk"
+  },
+  {
+    "name": "aio-3288c-alpine-python"
+  },
+  {
+    "name": "aio-3288c-debian"
+  },
+  {
+    "name": "aio-3288c-debian-dotnet"
+  },
+  {
+    "name": "aio-3288c-debian-golang"
+  },
+  {
+    "name": "aio-3288c-debian-node"
+  },
+  {
+    "name": "aio-3288c-debian-openjdk"
+  },
+  {
+    "name": "aio-3288c-debian-python"
+  },
+  {
+    "name": "aio-3288c-dotnet"
+  },
+  {
+    "name": "aio-3288c-fedora"
+  },
+  {
+    "name": "aio-3288c-fedora-golang"
+  },
+  {
+    "name": "aio-3288c-fedora-node"
+  },
+  {
+    "name": "aio-3288c-fedora-openjdk"
+  },
+  {
+    "name": "aio-3288c-fedora-python"
+  },
+  {
+    "name": "aio-3288c-golang"
+  },
+  {
+    "name": "aio-3288c-node"
+  },
+  {
+    "name": "aio-3288c-openjdk"
+  },
+  {
+    "name": "aio-3288c-python"
+  },
+  {
+    "name": "aio-3288c-ubuntu"
+  },
+  {
+    "name": "aio-3288c-ubuntu-dotnet"
+  },
+  {
+    "name": "aio-3288c-ubuntu-golang"
+  },
+  {
+    "name": "aio-3288c-ubuntu-node"
+  },
+  {
+    "name": "aio-3288c-ubuntu-openjdk"
+  },
+  {
+    "name": "aio-3288c-ubuntu-python"
+  },
+  {
+    "name": "am571x-evm"
+  },
+  {
+    "name": "am571x-evm-alpine"
+  },
+  {
+    "name": "am571x-evm-alpine-dotnet"
+  },
+  {
+    "name": "am571x-evm-alpine-golang"
+  },
+  {
+    "name": "am571x-evm-alpine-node"
+  },
+  {
+    "name": "am571x-evm-alpine-openjdk"
+  },
+  {
+    "name": "am571x-evm-alpine-python"
+  },
+  {
+    "name": "am571x-evm-debian"
+  },
+  {
+    "name": "am571x-evm-debian-dotnet"
+  },
+  {
+    "name": "am571x-evm-debian-golang"
+  },
+  {
+    "name": "am571x-evm-debian-node"
+  },
+  {
+    "name": "am571x-evm-debian-openjdk"
+  },
+  {
+    "name": "am571x-evm-debian-python"
+  },
+  {
+    "name": "am571x-evm-dotnet"
+  },
+  {
+    "name": "am571x-evm-fedora"
+  },
+  {
+    "name": "am571x-evm-fedora-golang"
+  },
+  {
+    "name": "am571x-evm-fedora-node"
+  },
+  {
+    "name": "am571x-evm-fedora-openjdk"
+  },
+  {
+    "name": "am571x-evm-fedora-python"
+  },
+  {
+    "name": "am571x-evm-golang"
+  },
+  {
+    "name": "am571x-evm-node"
+  },
+  {
+    "name": "am571x-evm-openjdk"
+  },
+  {
+    "name": "am571x-evm-python"
+  },
+  {
+    "name": "am571x-evm-ubuntu"
+  },
+  {
+    "name": "am571x-evm-ubuntu-dotnet"
+  },
+  {
+    "name": "am571x-evm-ubuntu-golang"
+  },
+  {
+    "name": "am571x-evm-ubuntu-node"
+  },
+  {
+    "name": "am571x-evm-ubuntu-openjdk"
+  },
+  {
+    "name": "am571x-evm-ubuntu-python"
+  },
+  {
+    "name": "amd64"
+  },
+  {
+    "name": "amd64-alpine"
+  },
+  {
+    "name": "amd64-alpine-dotnet"
+  },
+  {
+    "name": "amd64-alpine-golang"
+  },
+  {
+    "name": "amd64-alpine-node"
+  },
+  {
+    "name": "amd64-alpine-openjdk"
+  },
+  {
+    "name": "amd64-alpine-python"
+  },
+  {
+    "name": "amd64-alpine-supervisor-base"
+  },
+  {
+    "name": "amd64-debian"
+  },
+  {
+    "name": "amd64-debian-dotnet"
+  },
+  {
+    "name": "amd64-debian-golang"
+  },
+  {
+    "name": "amd64-debian-node"
+  },
+  {
+    "name": "amd64-debian-openjdk"
+  },
+  {
+    "name": "amd64-debian-python"
+  },
+  {
+    "name": "amd64-dotnet"
+  },
+  {
+    "name": "amd64-fedora"
+  },
+  {
+    "name": "amd64-fedora-golang"
+  },
+  {
+    "name": "amd64-fedora-node"
+  },
+  {
+    "name": "amd64-fedora-openjdk"
+  },
+  {
+    "name": "amd64-fedora-python"
+  },
+  {
+    "name": "amd64-golang"
+  },
+  {
+    "name": "amd64-node"
+  },
+  {
+    "name": "amd64-openjdk"
+  },
+  {
+    "name": "amd64-python"
+  },
+  {
+    "name": "amd64-ubuntu"
+  },
+  {
+    "name": "amd64-ubuntu-dotnet"
+  },
+  {
+    "name": "amd64-ubuntu-golang"
+  },
+  {
+    "name": "amd64-ubuntu-node"
+  },
+  {
+    "name": "amd64-ubuntu-openjdk"
+  },
+  {
+    "name": "amd64-ubuntu-python"
+  },
+  {
+    "name": "apalis-imx6q"
+  },
+  {
+    "name": "apalis-imx6q-alpine"
+  },
+  {
+    "name": "apalis-imx6q-alpine-golang"
+  },
+  {
+    "name": "apalis-imx6q-alpine-node"
+  },
+  {
+    "name": "apalis-imx6q-alpine-openjdk"
+  },
+  {
+    "name": "apalis-imx6q-alpine-python"
+  },
+  {
+    "name": "apalis-imx6q-debian"
+  },
+  {
+    "name": "apalis-imx6q-debian-dotnet"
+  },
+  {
+    "name": "apalis-imx6q-debian-golang"
+  },
+  {
+    "name": "apalis-imx6q-debian-node"
+  },
+  {
+    "name": "apalis-imx6q-debian-openjdk"
+  },
+  {
+    "name": "apalis-imx6q-debian-python"
+  },
+  {
+    "name": "apalis-imx6q-dotnet"
+  },
+  {
+    "name": "apalis-imx6q-fedora"
+  },
+  {
+    "name": "apalis-imx6q-fedora-golang"
+  },
+  {
+    "name": "apalis-imx6q-fedora-node"
+  },
+  {
+    "name": "apalis-imx6q-fedora-openjdk"
+  },
+  {
+    "name": "apalis-imx6q-fedora-python"
+  },
+  {
+    "name": "apalis-imx6q-golang"
+  },
+  {
+    "name": "apalis-imx6q-node"
+  },
+  {
+    "name": "apalis-imx6q-openjdk"
+  },
+  {
+    "name": "apalis-imx6q-python"
+  },
+  {
+    "name": "apalis-imx6q-ubuntu"
+  },
+  {
+    "name": "apalis-imx6q-ubuntu-golang"
+  },
+  {
+    "name": "apalis-imx6q-ubuntu-node"
+  },
+  {
+    "name": "apalis-imx6q-ubuntu-openjdk"
+  },
+  {
+    "name": "apalis-imx6q-ubuntu-python"
+  },
+  {
+    "name": "armv5e"
+  },
+  {
+    "name": "armv5e-debian"
+  },
+  {
+    "name": "armv5e-debian-dotnet"
+  },
+  {
+    "name": "armv5e-debian-golang"
+  },
+  {
+    "name": "armv5e-debian-node"
+  },
+  {
+    "name": "armv5e-debian-openjdk"
+  },
+  {
+    "name": "armv5e-debian-python"
+  },
+  {
+    "name": "armv5e-dotnet"
+  },
+  {
+    "name": "armv5e-golang"
+  },
+  {
+    "name": "armv5e-node"
+  },
+  {
+    "name": "armv5e-openjdk"
+  },
+  {
+    "name": "armv5e-python"
+  },
+  {
+    "name": "armv7hf"
+  },
+  {
+    "name": "armv7hf-alpine"
+  },
+  {
+    "name": "armv7hf-alpine-dotnet"
+  },
+  {
+    "name": "armv7hf-alpine-golang"
+  },
+  {
+    "name": "armv7hf-alpine-node"
+  },
+  {
+    "name": "armv7hf-alpine-openjdk"
+  },
+  {
+    "name": "armv7hf-alpine-python"
+  },
+  {
+    "name": "armv7hf-alpine-supervisor-base"
+  },
+  {
+    "name": "armv7hf-debian"
+  },
+  {
+    "name": "armv7hf-debian-dotnet"
+  },
+  {
+    "name": "armv7hf-debian-golang"
+  },
+  {
+    "name": "armv7hf-debian-node"
+  },
+  {
+    "name": "armv7hf-debian-openjdk"
+  },
+  {
+    "name": "armv7hf-debian-python"
+  },
+  {
+    "name": "armv7hf-dotnet"
+  },
+  {
+    "name": "armv7hf-fedora"
+  },
+  {
+    "name": "armv7hf-fedora-golang"
+  },
+  {
+    "name": "armv7hf-fedora-node"
+  },
+  {
+    "name": "armv7hf-fedora-openjdk"
+  },
+  {
+    "name": "armv7hf-fedora-python"
+  },
+  {
+    "name": "armv7hf-golang"
+  },
+  {
+    "name": "armv7hf-node"
+  },
+  {
+    "name": "armv7hf-openjdk"
+  },
+  {
+    "name": "armv7hf-python"
+  },
+  {
+    "name": "armv7hf-ubuntu"
+  },
+  {
+    "name": "armv7hf-ubuntu-dotnet"
+  },
+  {
+    "name": "armv7hf-ubuntu-golang"
+  },
+  {
+    "name": "armv7hf-ubuntu-node"
+  },
+  {
+    "name": "armv7hf-ubuntu-openjdk"
+  },
+  {
+    "name": "armv7hf-ubuntu-python"
+  },
+  {
+    "name": "artik10"
+  },
+  {
+    "name": "artik10-alpine"
+  },
+  {
+    "name": "artik10-alpine-dotnet"
+  },
+  {
+    "name": "artik10-alpine-golang"
+  },
+  {
+    "name": "artik10-alpine-node"
+  },
+  {
+    "name": "artik10-alpine-openjdk"
+  },
+  {
+    "name": "artik10-alpine-python"
+  },
+  {
+    "name": "artik10-debian"
+  },
+  {
+    "name": "artik10-debian-dotnet"
+  },
+  {
+    "name": "artik10-debian-golang"
+  },
+  {
+    "name": "artik10-debian-node"
+  },
+  {
+    "name": "artik10-debian-openjdk"
+  },
+  {
+    "name": "artik10-debian-python"
+  },
+  {
+    "name": "artik10-dotnet"
+  },
+  {
+    "name": "artik10-fedora"
+  },
+  {
+    "name": "artik10-fedora-golang"
+  },
+  {
+    "name": "artik10-fedora-node"
+  },
+  {
+    "name": "artik10-fedora-openjdk"
+  },
+  {
+    "name": "artik10-fedora-python"
+  },
+  {
+    "name": "artik10-golang"
+  },
+  {
+    "name": "artik10-node"
+  },
+  {
+    "name": "artik10-openjdk"
+  },
+  {
+    "name": "artik10-python"
+  },
+  {
+    "name": "artik10-ubuntu"
+  },
+  {
+    "name": "artik10-ubuntu-dotnet"
+  },
+  {
+    "name": "artik10-ubuntu-golang"
+  },
+  {
+    "name": "artik10-ubuntu-node"
+  },
+  {
+    "name": "artik10-ubuntu-openjdk"
+  },
+  {
+    "name": "artik10-ubuntu-python"
+  },
+  {
+    "name": "artik5"
+  },
+  {
+    "name": "artik5-alpine"
+  },
+  {
+    "name": "artik5-alpine-dotnet"
+  },
+  {
+    "name": "artik5-alpine-golang"
+  },
+  {
+    "name": "artik5-alpine-node"
+  },
+  {
+    "name": "artik5-alpine-openjdk"
+  },
+  {
+    "name": "artik5-alpine-python"
+  },
+  {
+    "name": "artik5-debian"
+  },
+  {
+    "name": "artik5-debian-dotnet"
+  },
+  {
+    "name": "artik5-debian-golang"
+  },
+  {
+    "name": "artik5-debian-node"
+  },
+  {
+    "name": "artik5-debian-openjdk"
+  },
+  {
+    "name": "artik5-debian-python"
+  },
+  {
+    "name": "artik5-dotnet"
+  },
+  {
+    "name": "artik5-fedora"
+  },
+  {
+    "name": "artik5-fedora-golang"
+  },
+  {
+    "name": "artik5-fedora-node"
+  },
+  {
+    "name": "artik5-fedora-openjdk"
+  },
+  {
+    "name": "artik5-fedora-python"
+  },
+  {
+    "name": "artik5-golang"
+  },
+  {
+    "name": "artik5-node"
+  },
+  {
+    "name": "artik5-openjdk"
+  },
+  {
+    "name": "artik5-python"
+  },
+  {
+    "name": "artik5-ubuntu"
+  },
+  {
+    "name": "artik5-ubuntu-dotnet"
+  },
+  {
+    "name": "artik5-ubuntu-golang"
+  },
+  {
+    "name": "artik5-ubuntu-node"
+  },
+  {
+    "name": "artik5-ubuntu-openjdk"
+  },
+  {
+    "name": "artik5-ubuntu-python"
+  },
+  {
+    "name": "artik530"
+  },
+  {
+    "name": "artik530-alpine"
+  },
+  {
+    "name": "artik530-alpine-dotnet"
+  },
+  {
+    "name": "artik530-alpine-golang"
+  },
+  {
+    "name": "artik530-alpine-node"
+  },
+  {
+    "name": "artik530-alpine-openjdk"
+  },
+  {
+    "name": "artik530-alpine-python"
+  },
+  {
+    "name": "artik530-debian"
+  },
+  {
+    "name": "artik530-debian-dotnet"
+  },
+  {
+    "name": "artik530-debian-golang"
+  },
+  {
+    "name": "artik530-debian-node"
+  },
+  {
+    "name": "artik530-debian-openjdk"
+  },
+  {
+    "name": "artik530-debian-python"
+  },
+  {
+    "name": "artik530-dotnet"
+  },
+  {
+    "name": "artik530-fedora"
+  },
+  {
+    "name": "artik530-fedora-golang"
+  },
+  {
+    "name": "artik530-fedora-node"
+  },
+  {
+    "name": "artik530-fedora-openjdk"
+  },
+  {
+    "name": "artik530-fedora-python"
+  },
+  {
+    "name": "artik530-golang"
+  },
+  {
+    "name": "artik530-node"
+  },
+  {
+    "name": "artik530-openjdk"
+  },
+  {
+    "name": "artik530-python"
+  },
+  {
+    "name": "artik530-ubuntu"
+  },
+  {
+    "name": "artik530-ubuntu-dotnet"
+  },
+  {
+    "name": "artik530-ubuntu-golang"
+  },
+  {
+    "name": "artik530-ubuntu-node"
+  },
+  {
+    "name": "artik530-ubuntu-openjdk"
+  },
+  {
+    "name": "artik530-ubuntu-python"
+  },
+  {
+    "name": "artik533s"
+  },
+  {
+    "name": "artik533s-alpine"
+  },
+  {
+    "name": "artik533s-alpine-dotnet"
+  },
+  {
+    "name": "artik533s-alpine-golang"
+  },
+  {
+    "name": "artik533s-alpine-node"
+  },
+  {
+    "name": "artik533s-alpine-openjdk"
+  },
+  {
+    "name": "artik533s-alpine-python"
+  },
+  {
+    "name": "artik533s-debian"
+  },
+  {
+    "name": "artik533s-debian-dotnet"
+  },
+  {
+    "name": "artik533s-debian-golang"
+  },
+  {
+    "name": "artik533s-debian-node"
+  },
+  {
+    "name": "artik533s-debian-openjdk"
+  },
+  {
+    "name": "artik533s-debian-python"
+  },
+  {
+    "name": "artik533s-dotnet"
+  },
+  {
+    "name": "artik533s-fedora"
+  },
+  {
+    "name": "artik533s-fedora-golang"
+  },
+  {
+    "name": "artik533s-fedora-node"
+  },
+  {
+    "name": "artik533s-fedora-openjdk"
+  },
+  {
+    "name": "artik533s-fedora-python"
+  },
+  {
+    "name": "artik533s-golang"
+  },
+  {
+    "name": "artik533s-node"
+  },
+  {
+    "name": "artik533s-openjdk"
+  },
+  {
+    "name": "artik533s-python"
+  },
+  {
+    "name": "artik533s-ubuntu"
+  },
+  {
+    "name": "artik533s-ubuntu-dotnet"
+  },
+  {
+    "name": "artik533s-ubuntu-golang"
+  },
+  {
+    "name": "artik533s-ubuntu-node"
+  },
+  {
+    "name": "artik533s-ubuntu-openjdk"
+  },
+  {
+    "name": "artik533s-ubuntu-python"
+  },
+  {
+    "name": "artik710"
+  },
+  {
+    "name": "artik710-alpine"
+  },
+  {
+    "name": "artik710-alpine-dotnet"
+  },
+  {
+    "name": "artik710-alpine-golang"
+  },
+  {
+    "name": "artik710-alpine-node"
+  },
+  {
+    "name": "artik710-alpine-openjdk"
+  },
+  {
+    "name": "artik710-alpine-python"
+  },
+  {
+    "name": "artik710-debian"
+  },
+  {
+    "name": "artik710-debian-dotnet"
+  },
+  {
+    "name": "artik710-debian-golang"
+  },
+  {
+    "name": "artik710-debian-node"
+  },
+  {
+    "name": "artik710-debian-openjdk"
+  },
+  {
+    "name": "artik710-debian-python"
+  },
+  {
+    "name": "artik710-dotnet"
+  },
+  {
+    "name": "artik710-fedora"
+  },
+  {
+    "name": "artik710-fedora-golang"
+  },
+  {
+    "name": "artik710-fedora-node"
+  },
+  {
+    "name": "artik710-fedora-openjdk"
+  },
+  {
+    "name": "artik710-fedora-python"
+  },
+  {
+    "name": "artik710-golang"
+  },
+  {
+    "name": "artik710-node"
+  },
+  {
+    "name": "artik710-openjdk"
+  },
+  {
+    "name": "artik710-python"
+  },
+  {
+    "name": "artik710-ubuntu"
+  },
+  {
+    "name": "artik710-ubuntu-dotnet"
+  },
+  {
+    "name": "artik710-ubuntu-golang"
+  },
+  {
+    "name": "artik710-ubuntu-node"
+  },
+  {
+    "name": "artik710-ubuntu-openjdk"
+  },
+  {
+    "name": "artik710-ubuntu-python"
+  },
+  {
+    "name": "astro-tx2"
+  },
+  {
+    "name": "astro-tx2-alpine"
+  },
+  {
+    "name": "astro-tx2-alpine-dotnet"
+  },
+  {
+    "name": "astro-tx2-alpine-golang"
+  },
+  {
+    "name": "astro-tx2-alpine-node"
+  },
+  {
+    "name": "astro-tx2-alpine-openjdk"
+  },
+  {
+    "name": "astro-tx2-alpine-python"
+  },
+  {
+    "name": "astro-tx2-debian"
+  },
+  {
+    "name": "astro-tx2-debian-dotnet"
+  },
+  {
+    "name": "astro-tx2-debian-golang"
+  },
+  {
+    "name": "astro-tx2-debian-node"
+  },
+  {
+    "name": "astro-tx2-debian-openjdk"
+  },
+  {
+    "name": "astro-tx2-debian-python"
+  },
+  {
+    "name": "astro-tx2-dotnet"
+  },
+  {
+    "name": "astro-tx2-fedora"
+  },
+  {
+    "name": "astro-tx2-fedora-golang"
+  },
+  {
+    "name": "astro-tx2-fedora-node"
+  },
+  {
+    "name": "astro-tx2-fedora-openjdk"
+  },
+  {
+    "name": "astro-tx2-fedora-python"
+  },
+  {
+    "name": "astro-tx2-golang"
+  },
+  {
+    "name": "astro-tx2-node"
+  },
+  {
+    "name": "astro-tx2-openjdk"
+  },
+  {
+    "name": "astro-tx2-python"
+  },
+  {
+    "name": "astro-tx2-ubuntu"
+  },
+  {
+    "name": "astro-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "astro-tx2-ubuntu-golang"
+  },
+  {
+    "name": "astro-tx2-ubuntu-node"
+  },
+  {
+    "name": "astro-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "astro-tx2-ubuntu-python"
+  },
+  {
+    "name": "asus-tinker-board"
+  },
+  {
+    "name": "asus-tinker-board-alpine"
+  },
+  {
+    "name": "asus-tinker-board-alpine-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-alpine-golang"
+  },
+  {
+    "name": "asus-tinker-board-alpine-node"
+  },
+  {
+    "name": "asus-tinker-board-alpine-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-alpine-python"
+  },
+  {
+    "name": "asus-tinker-board-debian"
+  },
+  {
+    "name": "asus-tinker-board-debian-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-debian-golang"
+  },
+  {
+    "name": "asus-tinker-board-debian-node"
+  },
+  {
+    "name": "asus-tinker-board-debian-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-debian-python"
+  },
+  {
+    "name": "asus-tinker-board-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-fedora"
+  },
+  {
+    "name": "asus-tinker-board-fedora-golang"
+  },
+  {
+    "name": "asus-tinker-board-fedora-node"
+  },
+  {
+    "name": "asus-tinker-board-fedora-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-fedora-python"
+  },
+  {
+    "name": "asus-tinker-board-golang"
+  },
+  {
+    "name": "asus-tinker-board-node"
+  },
+  {
+    "name": "asus-tinker-board-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-python"
+  },
+  {
+    "name": "asus-tinker-board-s"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine-golang"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine-node"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-s-alpine-python"
+  },
+  {
+    "name": "asus-tinker-board-s-debian"
+  },
+  {
+    "name": "asus-tinker-board-s-debian-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-s-debian-golang"
+  },
+  {
+    "name": "asus-tinker-board-s-debian-node"
+  },
+  {
+    "name": "asus-tinker-board-s-debian-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-s-debian-python"
+  },
+  {
+    "name": "asus-tinker-board-s-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-s-fedora"
+  },
+  {
+    "name": "asus-tinker-board-s-fedora-golang"
+  },
+  {
+    "name": "asus-tinker-board-s-fedora-node"
+  },
+  {
+    "name": "asus-tinker-board-s-fedora-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-s-fedora-python"
+  },
+  {
+    "name": "asus-tinker-board-s-golang"
+  },
+  {
+    "name": "asus-tinker-board-s-node"
+  },
+  {
+    "name": "asus-tinker-board-s-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-s-python"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu-golang"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu-node"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-s-ubuntu-python"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu-dotnet"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu-golang"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu-node"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu-openjdk"
+  },
+  {
+    "name": "asus-tinker-board-ubuntu-python"
+  },
+  {
+    "name": "asus-tinker-edge-t"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine-dotnet"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine-golang"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine-node"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine-openjdk"
+  },
+  {
+    "name": "asus-tinker-edge-t-alpine-python"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian-dotnet"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian-golang"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian-node"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian-openjdk"
+  },
+  {
+    "name": "asus-tinker-edge-t-debian-python"
+  },
+  {
+    "name": "asus-tinker-edge-t-dotnet"
+  },
+  {
+    "name": "asus-tinker-edge-t-fedora"
+  },
+  {
+    "name": "asus-tinker-edge-t-fedora-golang"
+  },
+  {
+    "name": "asus-tinker-edge-t-fedora-node"
+  },
+  {
+    "name": "asus-tinker-edge-t-fedora-openjdk"
+  },
+  {
+    "name": "asus-tinker-edge-t-fedora-python"
+  },
+  {
+    "name": "asus-tinker-edge-t-golang"
+  },
+  {
+    "name": "asus-tinker-edge-t-node"
+  },
+  {
+    "name": "asus-tinker-edge-t-openjdk"
+  },
+  {
+    "name": "asus-tinker-edge-t-python"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu-dotnet"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu-golang"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu-node"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu-openjdk"
+  },
+  {
+    "name": "asus-tinker-edge-t-ubuntu-python"
+  },
+  {
+    "name": "bananapi-m1-plus"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine-dotnet"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine-golang"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine-node"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine-openjdk"
+  },
+  {
+    "name": "bananapi-m1-plus-alpine-python"
+  },
+  {
+    "name": "bananapi-m1-plus-debian"
+  },
+  {
+    "name": "bananapi-m1-plus-debian-dotnet"
+  },
+  {
+    "name": "bananapi-m1-plus-debian-golang"
+  },
+  {
+    "name": "bananapi-m1-plus-debian-node"
+  },
+  {
+    "name": "bananapi-m1-plus-debian-openjdk"
+  },
+  {
+    "name": "bananapi-m1-plus-debian-python"
+  },
+  {
+    "name": "bananapi-m1-plus-dotnet"
+  },
+  {
+    "name": "bananapi-m1-plus-fedora"
+  },
+  {
+    "name": "bananapi-m1-plus-fedora-golang"
+  },
+  {
+    "name": "bananapi-m1-plus-fedora-node"
+  },
+  {
+    "name": "bananapi-m1-plus-fedora-openjdk"
+  },
+  {
+    "name": "bananapi-m1-plus-fedora-python"
+  },
+  {
+    "name": "bananapi-m1-plus-golang"
+  },
+  {
+    "name": "bananapi-m1-plus-node"
+  },
+  {
+    "name": "bananapi-m1-plus-openjdk"
+  },
+  {
+    "name": "bananapi-m1-plus-python"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu-dotnet"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu-golang"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu-node"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu-openjdk"
+  },
+  {
+    "name": "bananapi-m1-plus-ubuntu-python"
+  },
+  {
+    "name": "beagleboard-xm"
+  },
+  {
+    "name": "beagleboard-xm-alpine"
+  },
+  {
+    "name": "beagleboard-xm-alpine-dotnet"
+  },
+  {
+    "name": "beagleboard-xm-alpine-golang"
+  },
+  {
+    "name": "beagleboard-xm-alpine-node"
+  },
+  {
+    "name": "beagleboard-xm-alpine-openjdk"
+  },
+  {
+    "name": "beagleboard-xm-alpine-python"
+  },
+  {
+    "name": "beagleboard-xm-debian"
+  },
+  {
+    "name": "beagleboard-xm-debian-dotnet"
+  },
+  {
+    "name": "beagleboard-xm-debian-golang"
+  },
+  {
+    "name": "beagleboard-xm-debian-node"
+  },
+  {
+    "name": "beagleboard-xm-debian-openjdk"
+  },
+  {
+    "name": "beagleboard-xm-debian-python"
+  },
+  {
+    "name": "beagleboard-xm-dotnet"
+  },
+  {
+    "name": "beagleboard-xm-fedora"
+  },
+  {
+    "name": "beagleboard-xm-fedora-golang"
+  },
+  {
+    "name": "beagleboard-xm-fedora-node"
+  },
+  {
+    "name": "beagleboard-xm-fedora-openjdk"
+  },
+  {
+    "name": "beagleboard-xm-fedora-python"
+  },
+  {
+    "name": "beagleboard-xm-golang"
+  },
+  {
+    "name": "beagleboard-xm-node"
+  },
+  {
+    "name": "beagleboard-xm-openjdk"
+  },
+  {
+    "name": "beagleboard-xm-python"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu-dotnet"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu-golang"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu-node"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu-openjdk"
+  },
+  {
+    "name": "beagleboard-xm-ubuntu-python"
+  },
+  {
+    "name": "beaglebone-black"
+  },
+  {
+    "name": "beaglebone-black-alpine"
+  },
+  {
+    "name": "beaglebone-black-alpine-dotnet"
+  },
+  {
+    "name": "beaglebone-black-alpine-golang"
+  },
+  {
+    "name": "beaglebone-black-alpine-node"
+  },
+  {
+    "name": "beaglebone-black-alpine-openjdk"
+  },
+  {
+    "name": "beaglebone-black-alpine-python"
+  },
+  {
+    "name": "beaglebone-black-debian"
+  },
+  {
+    "name": "beaglebone-black-debian-dotnet"
+  },
+  {
+    "name": "beaglebone-black-debian-golang"
+  },
+  {
+    "name": "beaglebone-black-debian-node"
+  },
+  {
+    "name": "beaglebone-black-debian-openjdk"
+  },
+  {
+    "name": "beaglebone-black-debian-python"
+  },
+  {
+    "name": "beaglebone-black-dotnet"
+  },
+  {
+    "name": "beaglebone-black-fedora"
+  },
+  {
+    "name": "beaglebone-black-fedora-golang"
+  },
+  {
+    "name": "beaglebone-black-fedora-node"
+  },
+  {
+    "name": "beaglebone-black-fedora-openjdk"
+  },
+  {
+    "name": "beaglebone-black-fedora-python"
+  },
+  {
+    "name": "beaglebone-black-golang"
+  },
+  {
+    "name": "beaglebone-black-node"
+  },
+  {
+    "name": "beaglebone-black-openjdk"
+  },
+  {
+    "name": "beaglebone-black-python"
+  },
+  {
+    "name": "beaglebone-black-ubuntu"
+  },
+  {
+    "name": "beaglebone-black-ubuntu-dotnet"
+  },
+  {
+    "name": "beaglebone-black-ubuntu-golang"
+  },
+  {
+    "name": "beaglebone-black-ubuntu-node"
+  },
+  {
+    "name": "beaglebone-black-ubuntu-openjdk"
+  },
+  {
+    "name": "beaglebone-black-ubuntu-python"
+  },
+  {
+    "name": "beaglebone-green"
+  },
+  {
+    "name": "beaglebone-green-alpine"
+  },
+  {
+    "name": "beaglebone-green-alpine-dotnet"
+  },
+  {
+    "name": "beaglebone-green-alpine-golang"
+  },
+  {
+    "name": "beaglebone-green-alpine-node"
+  },
+  {
+    "name": "beaglebone-green-alpine-openjdk"
+  },
+  {
+    "name": "beaglebone-green-alpine-python"
+  },
+  {
+    "name": "beaglebone-green-debian"
+  },
+  {
+    "name": "beaglebone-green-debian-dotnet"
+  },
+  {
+    "name": "beaglebone-green-debian-golang"
+  },
+  {
+    "name": "beaglebone-green-debian-node"
+  },
+  {
+    "name": "beaglebone-green-debian-openjdk"
+  },
+  {
+    "name": "beaglebone-green-debian-python"
+  },
+  {
+    "name": "beaglebone-green-dotnet"
+  },
+  {
+    "name": "beaglebone-green-fedora"
+  },
+  {
+    "name": "beaglebone-green-fedora-golang"
+  },
+  {
+    "name": "beaglebone-green-fedora-node"
+  },
+  {
+    "name": "beaglebone-green-fedora-openjdk"
+  },
+  {
+    "name": "beaglebone-green-fedora-python"
+  },
+  {
+    "name": "beaglebone-green-gateway"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine-dotnet"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine-golang"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine-node"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine-openjdk"
+  },
+  {
+    "name": "beaglebone-green-gateway-alpine-python"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian-dotnet"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian-golang"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian-node"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian-openjdk"
+  },
+  {
+    "name": "beaglebone-green-gateway-debian-python"
+  },
+  {
+    "name": "beaglebone-green-gateway-dotnet"
+  },
+  {
+    "name": "beaglebone-green-gateway-fedora"
+  },
+  {
+    "name": "beaglebone-green-gateway-fedora-golang"
+  },
+  {
+    "name": "beaglebone-green-gateway-fedora-node"
+  },
+  {
+    "name": "beaglebone-green-gateway-fedora-openjdk"
+  },
+  {
+    "name": "beaglebone-green-gateway-fedora-python"
+  },
+  {
+    "name": "beaglebone-green-gateway-golang"
+  },
+  {
+    "name": "beaglebone-green-gateway-node"
+  },
+  {
+    "name": "beaglebone-green-gateway-openjdk"
+  },
+  {
+    "name": "beaglebone-green-gateway-python"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu-dotnet"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu-golang"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu-node"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu-openjdk"
+  },
+  {
+    "name": "beaglebone-green-gateway-ubuntu-python"
+  },
+  {
+    "name": "beaglebone-green-golang"
+  },
+  {
+    "name": "beaglebone-green-node"
+  },
+  {
+    "name": "beaglebone-green-openjdk"
+  },
+  {
+    "name": "beaglebone-green-python"
+  },
+  {
+    "name": "beaglebone-green-ubuntu"
+  },
+  {
+    "name": "beaglebone-green-ubuntu-dotnet"
+  },
+  {
+    "name": "beaglebone-green-ubuntu-golang"
+  },
+  {
+    "name": "beaglebone-green-ubuntu-node"
+  },
+  {
+    "name": "beaglebone-green-ubuntu-openjdk"
+  },
+  {
+    "name": "beaglebone-green-ubuntu-python"
+  },
+  {
+    "name": "beaglebone-green-wifi"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine-dotnet"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine-golang"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine-node"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine-openjdk"
+  },
+  {
+    "name": "beaglebone-green-wifi-alpine-python"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian-dotnet"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian-golang"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian-node"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian-openjdk"
+  },
+  {
+    "name": "beaglebone-green-wifi-debian-python"
+  },
+  {
+    "name": "beaglebone-green-wifi-dotnet"
+  },
+  {
+    "name": "beaglebone-green-wifi-fedora"
+  },
+  {
+    "name": "beaglebone-green-wifi-fedora-golang"
+  },
+  {
+    "name": "beaglebone-green-wifi-fedora-node"
+  },
+  {
+    "name": "beaglebone-green-wifi-fedora-openjdk"
+  },
+  {
+    "name": "beaglebone-green-wifi-fedora-python"
+  },
+  {
+    "name": "beaglebone-green-wifi-golang"
+  },
+  {
+    "name": "beaglebone-green-wifi-node"
+  },
+  {
+    "name": "beaglebone-green-wifi-openjdk"
+  },
+  {
+    "name": "beaglebone-green-wifi-python"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu-dotnet"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu-golang"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu-node"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu-openjdk"
+  },
+  {
+    "name": "beaglebone-green-wifi-ubuntu-python"
+  },
+  {
+    "name": "beaglebone-pocket"
+  },
+  {
+    "name": "beaglebone-pocket-alpine"
+  },
+  {
+    "name": "beaglebone-pocket-alpine-dotnet"
+  },
+  {
+    "name": "beaglebone-pocket-alpine-golang"
+  },
+  {
+    "name": "beaglebone-pocket-alpine-node"
+  },
+  {
+    "name": "beaglebone-pocket-alpine-openjdk"
+  },
+  {
+    "name": "beaglebone-pocket-alpine-python"
+  },
+  {
+    "name": "beaglebone-pocket-debian"
+  },
+  {
+    "name": "beaglebone-pocket-debian-dotnet"
+  },
+  {
+    "name": "beaglebone-pocket-debian-golang"
+  },
+  {
+    "name": "beaglebone-pocket-debian-node"
+  },
+  {
+    "name": "beaglebone-pocket-debian-openjdk"
+  },
+  {
+    "name": "beaglebone-pocket-debian-python"
+  },
+  {
+    "name": "beaglebone-pocket-dotnet"
+  },
+  {
+    "name": "beaglebone-pocket-fedora"
+  },
+  {
+    "name": "beaglebone-pocket-fedora-golang"
+  },
+  {
+    "name": "beaglebone-pocket-fedora-node"
+  },
+  {
+    "name": "beaglebone-pocket-fedora-openjdk"
+  },
+  {
+    "name": "beaglebone-pocket-fedora-python"
+  },
+  {
+    "name": "beaglebone-pocket-golang"
+  },
+  {
+    "name": "beaglebone-pocket-node"
+  },
+  {
+    "name": "beaglebone-pocket-openjdk"
+  },
+  {
+    "name": "beaglebone-pocket-python"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu-dotnet"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu-golang"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu-node"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu-openjdk"
+  },
+  {
+    "name": "beaglebone-pocket-ubuntu-python"
+  },
+  {
+    "name": "blackboard-tx2"
+  },
+  {
+    "name": "blackboard-tx2-alpine"
+  },
+  {
+    "name": "blackboard-tx2-alpine-dotnet"
+  },
+  {
+    "name": "blackboard-tx2-alpine-golang"
+  },
+  {
+    "name": "blackboard-tx2-alpine-node"
+  },
+  {
+    "name": "blackboard-tx2-alpine-openjdk"
+  },
+  {
+    "name": "blackboard-tx2-alpine-python"
+  },
+  {
+    "name": "blackboard-tx2-debian"
+  },
+  {
+    "name": "blackboard-tx2-debian-dotnet"
+  },
+  {
+    "name": "blackboard-tx2-debian-golang"
+  },
+  {
+    "name": "blackboard-tx2-debian-node"
+  },
+  {
+    "name": "blackboard-tx2-debian-openjdk"
+  },
+  {
+    "name": "blackboard-tx2-debian-python"
+  },
+  {
+    "name": "blackboard-tx2-dotnet"
+  },
+  {
+    "name": "blackboard-tx2-fedora"
+  },
+  {
+    "name": "blackboard-tx2-fedora-golang"
+  },
+  {
+    "name": "blackboard-tx2-fedora-node"
+  },
+  {
+    "name": "blackboard-tx2-fedora-openjdk"
+  },
+  {
+    "name": "blackboard-tx2-fedora-python"
+  },
+  {
+    "name": "blackboard-tx2-golang"
+  },
+  {
+    "name": "blackboard-tx2-node"
+  },
+  {
+    "name": "blackboard-tx2-openjdk"
+  },
+  {
+    "name": "blackboard-tx2-python"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu-golang"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu-node"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "blackboard-tx2-ubuntu-python"
+  },
+  {
+    "name": "ccimx8x-sbc-pro"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine-dotnet"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine-golang"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine-node"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine-openjdk"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-alpine-python"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian-dotnet"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian-golang"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian-node"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian-openjdk"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-debian-python"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-dotnet"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-fedora"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-fedora-golang"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-fedora-node"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-fedora-openjdk"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-fedora-python"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-golang"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-node"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-openjdk"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-python"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu-dotnet"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu-golang"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu-node"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu-openjdk"
+  },
+  {
+    "name": "ccimx8x-sbc-pro-ubuntu-python"
+  },
+  {
+    "name": "cl-som-imx8"
+  },
+  {
+    "name": "cl-som-imx8-alpine"
+  },
+  {
+    "name": "cl-som-imx8-alpine-dotnet"
+  },
+  {
+    "name": "cl-som-imx8-alpine-golang"
+  },
+  {
+    "name": "cl-som-imx8-alpine-node"
+  },
+  {
+    "name": "cl-som-imx8-alpine-openjdk"
+  },
+  {
+    "name": "cl-som-imx8-alpine-python"
+  },
+  {
+    "name": "cl-som-imx8-debian"
+  },
+  {
+    "name": "cl-som-imx8-debian-dotnet"
+  },
+  {
+    "name": "cl-som-imx8-debian-golang"
+  },
+  {
+    "name": "cl-som-imx8-debian-node"
+  },
+  {
+    "name": "cl-som-imx8-debian-openjdk"
+  },
+  {
+    "name": "cl-som-imx8-debian-python"
+  },
+  {
+    "name": "cl-som-imx8-dotnet"
+  },
+  {
+    "name": "cl-som-imx8-fedora"
+  },
+  {
+    "name": "cl-som-imx8-fedora-golang"
+  },
+  {
+    "name": "cl-som-imx8-fedora-node"
+  },
+  {
+    "name": "cl-som-imx8-fedora-openjdk"
+  },
+  {
+    "name": "cl-som-imx8-fedora-python"
+  },
+  {
+    "name": "cl-som-imx8-golang"
+  },
+  {
+    "name": "cl-som-imx8-node"
+  },
+  {
+    "name": "cl-som-imx8-openjdk"
+  },
+  {
+    "name": "cl-som-imx8-python"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu-dotnet"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu-golang"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu-node"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu-openjdk"
+  },
+  {
+    "name": "cl-som-imx8-ubuntu-python"
+  },
+  {
+    "name": "cnx100-xavier-nx"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine-dotnet"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine-golang"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine-node"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine-openjdk"
+  },
+  {
+    "name": "cnx100-xavier-nx-alpine-python"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian-dotnet"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian-golang"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian-node"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian-openjdk"
+  },
+  {
+    "name": "cnx100-xavier-nx-debian-python"
+  },
+  {
+    "name": "cnx100-xavier-nx-dotnet"
+  },
+  {
+    "name": "cnx100-xavier-nx-fedora"
+  },
+  {
+    "name": "cnx100-xavier-nx-fedora-golang"
+  },
+  {
+    "name": "cnx100-xavier-nx-fedora-node"
+  },
+  {
+    "name": "cnx100-xavier-nx-fedora-openjdk"
+  },
+  {
+    "name": "cnx100-xavier-nx-fedora-python"
+  },
+  {
+    "name": "cnx100-xavier-nx-golang"
+  },
+  {
+    "name": "cnx100-xavier-nx-node"
+  },
+  {
+    "name": "cnx100-xavier-nx-openjdk"
+  },
+  {
+    "name": "cnx100-xavier-nx-python"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu-dotnet"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu-golang"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu-node"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu-openjdk"
+  },
+  {
+    "name": "cnx100-xavier-nx-ubuntu-python"
+  },
+  {
+    "name": "colibri-imx6dl"
+  },
+  {
+    "name": "colibri-imx6dl-alpine"
+  },
+  {
+    "name": "colibri-imx6dl-alpine-dotnet"
+  },
+  {
+    "name": "colibri-imx6dl-alpine-golang"
+  },
+  {
+    "name": "colibri-imx6dl-alpine-node"
+  },
+  {
+    "name": "colibri-imx6dl-alpine-openjdk"
+  },
+  {
+    "name": "colibri-imx6dl-alpine-python"
+  },
+  {
+    "name": "colibri-imx6dl-debian"
+  },
+  {
+    "name": "colibri-imx6dl-debian-dotnet"
+  },
+  {
+    "name": "colibri-imx6dl-debian-golang"
+  },
+  {
+    "name": "colibri-imx6dl-debian-node"
+  },
+  {
+    "name": "colibri-imx6dl-debian-openjdk"
+  },
+  {
+    "name": "colibri-imx6dl-debian-python"
+  },
+  {
+    "name": "colibri-imx6dl-dotnet"
+  },
+  {
+    "name": "colibri-imx6dl-fedora"
+  },
+  {
+    "name": "colibri-imx6dl-fedora-golang"
+  },
+  {
+    "name": "colibri-imx6dl-fedora-node"
+  },
+  {
+    "name": "colibri-imx6dl-fedora-openjdk"
+  },
+  {
+    "name": "colibri-imx6dl-fedora-python"
+  },
+  {
+    "name": "colibri-imx6dl-golang"
+  },
+  {
+    "name": "colibri-imx6dl-node"
+  },
+  {
+    "name": "colibri-imx6dl-openjdk"
+  },
+  {
+    "name": "colibri-imx6dl-python"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu-dotnet"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu-golang"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu-node"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu-openjdk"
+  },
+  {
+    "name": "colibri-imx6dl-ubuntu-python"
+  },
+  {
+    "name": "coral-dev"
+  },
+  {
+    "name": "coral-dev-alpine"
+  },
+  {
+    "name": "coral-dev-alpine-dotnet"
+  },
+  {
+    "name": "coral-dev-alpine-golang"
+  },
+  {
+    "name": "coral-dev-alpine-node"
+  },
+  {
+    "name": "coral-dev-alpine-openjdk"
+  },
+  {
+    "name": "coral-dev-alpine-python"
+  },
+  {
+    "name": "coral-dev-debian"
+  },
+  {
+    "name": "coral-dev-debian-dotnet"
+  },
+  {
+    "name": "coral-dev-debian-golang"
+  },
+  {
+    "name": "coral-dev-debian-node"
+  },
+  {
+    "name": "coral-dev-debian-openjdk"
+  },
+  {
+    "name": "coral-dev-debian-python"
+  },
+  {
+    "name": "coral-dev-dotnet"
+  },
+  {
+    "name": "coral-dev-fedora"
+  },
+  {
+    "name": "coral-dev-fedora-golang"
+  },
+  {
+    "name": "coral-dev-fedora-node"
+  },
+  {
+    "name": "coral-dev-fedora-openjdk"
+  },
+  {
+    "name": "coral-dev-fedora-python"
+  },
+  {
+    "name": "coral-dev-golang"
+  },
+  {
+    "name": "coral-dev-node"
+  },
+  {
+    "name": "coral-dev-openjdk"
+  },
+  {
+    "name": "coral-dev-python"
+  },
+  {
+    "name": "coral-dev-ubuntu"
+  },
+  {
+    "name": "coral-dev-ubuntu-dotnet"
+  },
+  {
+    "name": "coral-dev-ubuntu-golang"
+  },
+  {
+    "name": "coral-dev-ubuntu-node"
+  },
+  {
+    "name": "coral-dev-ubuntu-openjdk"
+  },
+  {
+    "name": "coral-dev-ubuntu-python"
+  },
+  {
+    "name": "cybertan-ze250"
+  },
+  {
+    "name": "cybertan-ze250-alpine"
+  },
+  {
+    "name": "cybertan-ze250-debian"
+  },
+  {
+    "name": "cybertan-ze250-debian-dotnet"
+  },
+  {
+    "name": "cybertan-ze250-debian-golang"
+  },
+  {
+    "name": "cybertan-ze250-debian-node"
+  },
+  {
+    "name": "cybertan-ze250-debian-openjdk"
+  },
+  {
+    "name": "cybertan-ze250-debian-python"
+  },
+  {
+    "name": "cybertan-ze250-dotnet"
+  },
+  {
+    "name": "cybertan-ze250-golang"
+  },
+  {
+    "name": "cybertan-ze250-node"
+  },
+  {
+    "name": "cybertan-ze250-openjdk"
+  },
+  {
+    "name": "cybertan-ze250-python"
+  },
+  {
+    "name": "cybertan-ze250-ubuntu"
+  },
+  {
+    "name": "cybertan-ze250-ubuntu-golang"
+  },
+  {
+    "name": "cybertan-ze250-ubuntu-node"
+  },
+  {
+    "name": "cybertan-ze250-ubuntu-openjdk"
+  },
+  {
+    "name": "cybertan-ze250-ubuntu-python"
+  },
+  {
+    "name": "dl-pm6x"
+  },
+  {
+    "name": "dl-pm6x-alpine"
+  },
+  {
+    "name": "dl-pm6x-alpine-golang"
+  },
+  {
+    "name": "dl-pm6x-alpine-node"
+  },
+  {
+    "name": "dl-pm6x-alpine-openjdk"
+  },
+  {
+    "name": "dl-pm6x-alpine-python"
+  },
+  {
+    "name": "dl-pm6x-debian"
+  },
+  {
+    "name": "dl-pm6x-debian-dotnet"
+  },
+  {
+    "name": "dl-pm6x-debian-golang"
+  },
+  {
+    "name": "dl-pm6x-debian-node"
+  },
+  {
+    "name": "dl-pm6x-debian-openjdk"
+  },
+  {
+    "name": "dl-pm6x-debian-python"
+  },
+  {
+    "name": "dl-pm6x-dotnet"
+  },
+  {
+    "name": "dl-pm6x-fedora"
+  },
+  {
+    "name": "dl-pm6x-fedora-golang"
+  },
+  {
+    "name": "dl-pm6x-fedora-node"
+  },
+  {
+    "name": "dl-pm6x-fedora-openjdk"
+  },
+  {
+    "name": "dl-pm6x-fedora-python"
+  },
+  {
+    "name": "dl-pm6x-golang"
+  },
+  {
+    "name": "dl-pm6x-node"
+  },
+  {
+    "name": "dl-pm6x-openjdk"
+  },
+  {
+    "name": "dl-pm6x-python"
+  },
+  {
+    "name": "dl-pm6x-ubuntu"
+  },
+  {
+    "name": "dl-pm6x-ubuntu-golang"
+  },
+  {
+    "name": "dl-pm6x-ubuntu-node"
+  },
+  {
+    "name": "dl-pm6x-ubuntu-openjdk"
+  },
+  {
+    "name": "dl-pm6x-ubuntu-python"
+  },
+  {
+    "name": "fincm3"
+  },
+  {
+    "name": "fincm3-alpine"
+  },
+  {
+    "name": "fincm3-alpine-dotnet"
+  },
+  {
+    "name": "fincm3-alpine-golang"
+  },
+  {
+    "name": "fincm3-alpine-node"
+  },
+  {
+    "name": "fincm3-alpine-openjdk"
+  },
+  {
+    "name": "fincm3-alpine-python"
+  },
+  {
+    "name": "fincm3-debian"
+  },
+  {
+    "name": "fincm3-debian-dotnet"
+  },
+  {
+    "name": "fincm3-debian-golang"
+  },
+  {
+    "name": "fincm3-debian-node"
+  },
+  {
+    "name": "fincm3-debian-openjdk"
+  },
+  {
+    "name": "fincm3-debian-python"
+  },
+  {
+    "name": "fincm3-dotnet"
+  },
+  {
+    "name": "fincm3-fedora"
+  },
+  {
+    "name": "fincm3-fedora-golang"
+  },
+  {
+    "name": "fincm3-fedora-node"
+  },
+  {
+    "name": "fincm3-fedora-openjdk"
+  },
+  {
+    "name": "fincm3-fedora-python"
+  },
+  {
+    "name": "fincm3-golang"
+  },
+  {
+    "name": "fincm3-node"
+  },
+  {
+    "name": "fincm3-openjdk"
+  },
+  {
+    "name": "fincm3-python"
+  },
+  {
+    "name": "fincm3-ubuntu"
+  },
+  {
+    "name": "fincm3-ubuntu-dotnet"
+  },
+  {
+    "name": "fincm3-ubuntu-golang"
+  },
+  {
+    "name": "fincm3-ubuntu-node"
+  },
+  {
+    "name": "fincm3-ubuntu-openjdk"
+  },
+  {
+    "name": "fincm3-ubuntu-python"
+  },
+  {
+    "name": "firefly-rk3288"
+  },
+  {
+    "name": "firefly-rk3288-alpine"
+  },
+  {
+    "name": "firefly-rk3288-alpine-dotnet"
+  },
+  {
+    "name": "firefly-rk3288-alpine-golang"
+  },
+  {
+    "name": "firefly-rk3288-alpine-node"
+  },
+  {
+    "name": "firefly-rk3288-alpine-openjdk"
+  },
+  {
+    "name": "firefly-rk3288-alpine-python"
+  },
+  {
+    "name": "firefly-rk3288-debian"
+  },
+  {
+    "name": "firefly-rk3288-debian-dotnet"
+  },
+  {
+    "name": "firefly-rk3288-debian-golang"
+  },
+  {
+    "name": "firefly-rk3288-debian-node"
+  },
+  {
+    "name": "firefly-rk3288-debian-openjdk"
+  },
+  {
+    "name": "firefly-rk3288-debian-python"
+  },
+  {
+    "name": "firefly-rk3288-dotnet"
+  },
+  {
+    "name": "firefly-rk3288-fedora"
+  },
+  {
+    "name": "firefly-rk3288-fedora-golang"
+  },
+  {
+    "name": "firefly-rk3288-fedora-node"
+  },
+  {
+    "name": "firefly-rk3288-fedora-openjdk"
+  },
+  {
+    "name": "firefly-rk3288-fedora-python"
+  },
+  {
+    "name": "firefly-rk3288-golang"
+  },
+  {
+    "name": "firefly-rk3288-node"
+  },
+  {
+    "name": "firefly-rk3288-openjdk"
+  },
+  {
+    "name": "firefly-rk3288-python"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu-dotnet"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu-golang"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu-node"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu-openjdk"
+  },
+  {
+    "name": "firefly-rk3288-ubuntu-python"
+  },
+  {
+    "name": "floyd-nano"
+  },
+  {
+    "name": "floyd-nano-alpine"
+  },
+  {
+    "name": "floyd-nano-alpine-dotnet"
+  },
+  {
+    "name": "floyd-nano-alpine-golang"
+  },
+  {
+    "name": "floyd-nano-alpine-node"
+  },
+  {
+    "name": "floyd-nano-alpine-openjdk"
+  },
+  {
+    "name": "floyd-nano-alpine-python"
+  },
+  {
+    "name": "floyd-nano-debian"
+  },
+  {
+    "name": "floyd-nano-debian-dotnet"
+  },
+  {
+    "name": "floyd-nano-debian-golang"
+  },
+  {
+    "name": "floyd-nano-debian-node"
+  },
+  {
+    "name": "floyd-nano-debian-openjdk"
+  },
+  {
+    "name": "floyd-nano-debian-python"
+  },
+  {
+    "name": "floyd-nano-dotnet"
+  },
+  {
+    "name": "floyd-nano-fedora"
+  },
+  {
+    "name": "floyd-nano-fedora-golang"
+  },
+  {
+    "name": "floyd-nano-fedora-node"
+  },
+  {
+    "name": "floyd-nano-fedora-openjdk"
+  },
+  {
+    "name": "floyd-nano-fedora-python"
+  },
+  {
+    "name": "floyd-nano-golang"
+  },
+  {
+    "name": "floyd-nano-node"
+  },
+  {
+    "name": "floyd-nano-openjdk"
+  },
+  {
+    "name": "floyd-nano-python"
+  },
+  {
+    "name": "floyd-nano-ubuntu"
+  },
+  {
+    "name": "floyd-nano-ubuntu-dotnet"
+  },
+  {
+    "name": "floyd-nano-ubuntu-golang"
+  },
+  {
+    "name": "floyd-nano-ubuntu-node"
+  },
+  {
+    "name": "floyd-nano-ubuntu-openjdk"
+  },
+  {
+    "name": "floyd-nano-ubuntu-python"
+  },
+  {
+    "name": "generic"
+  },
+  {
+    "name": "generic-aarch64"
+  },
+  {
+    "name": "generic-aarch64-alpine"
+  },
+  {
+    "name": "generic-aarch64-alpine-dotnet"
+  },
+  {
+    "name": "generic-aarch64-alpine-golang"
+  },
+  {
+    "name": "generic-aarch64-alpine-node"
+  },
+  {
+    "name": "generic-aarch64-alpine-openjdk"
+  },
+  {
+    "name": "generic-aarch64-alpine-python"
+  },
+  {
+    "name": "generic-aarch64-debian"
+  },
+  {
+    "name": "generic-aarch64-debian-dotnet"
+  },
+  {
+    "name": "generic-aarch64-debian-golang"
+  },
+  {
+    "name": "generic-aarch64-debian-node"
+  },
+  {
+    "name": "generic-aarch64-debian-openjdk"
+  },
+  {
+    "name": "generic-aarch64-debian-python"
+  },
+  {
+    "name": "generic-aarch64-dotnet"
+  },
+  {
+    "name": "generic-aarch64-fedora"
+  },
+  {
+    "name": "generic-aarch64-fedora-golang"
+  },
+  {
+    "name": "generic-aarch64-fedora-node"
+  },
+  {
+    "name": "generic-aarch64-fedora-openjdk"
+  },
+  {
+    "name": "generic-aarch64-fedora-python"
+  },
+  {
+    "name": "generic-aarch64-golang"
+  },
+  {
+    "name": "generic-aarch64-node"
+  },
+  {
+    "name": "generic-aarch64-openjdk"
+  },
+  {
+    "name": "generic-aarch64-python"
+  },
+  {
+    "name": "generic-aarch64-ubuntu"
+  },
+  {
+    "name": "generic-aarch64-ubuntu-dotnet"
+  },
+  {
+    "name": "generic-aarch64-ubuntu-golang"
+  },
+  {
+    "name": "generic-aarch64-ubuntu-node"
+  },
+  {
+    "name": "generic-aarch64-ubuntu-openjdk"
+  },
+  {
+    "name": "generic-aarch64-ubuntu-python"
+  },
+  {
+    "name": "generic-alpine"
+  },
+  {
+    "name": "generic-alpine-dotnet"
+  },
+  {
+    "name": "generic-alpine-golang"
+  },
+  {
+    "name": "generic-alpine-node"
+  },
+  {
+    "name": "generic-alpine-openjdk"
+  },
+  {
+    "name": "generic-alpine-python"
+  },
+  {
+    "name": "generic-amd64"
+  },
+  {
+    "name": "generic-amd64-alpine"
+  },
+  {
+    "name": "generic-amd64-alpine-golang"
+  },
+  {
+    "name": "generic-amd64-alpine-node"
+  },
+  {
+    "name": "generic-amd64-alpine-openjdk"
+  },
+  {
+    "name": "generic-amd64-alpine-python"
+  },
+  {
+    "name": "generic-amd64-debian"
+  },
+  {
+    "name": "generic-amd64-debian-dotnet"
+  },
+  {
+    "name": "generic-amd64-debian-golang"
+  },
+  {
+    "name": "generic-amd64-debian-node"
+  },
+  {
+    "name": "generic-amd64-debian-openjdk"
+  },
+  {
+    "name": "generic-amd64-debian-python"
+  },
+  {
+    "name": "generic-amd64-dotnet"
+  },
+  {
+    "name": "generic-amd64-fde"
+  },
+  {
+    "name": "generic-amd64-fde-alpine"
+  },
+  {
+    "name": "generic-amd64-fde-alpine-dotnet"
+  },
+  {
+    "name": "generic-amd64-fde-alpine-golang"
+  },
+  {
+    "name": "generic-amd64-fde-alpine-node"
+  },
+  {
+    "name": "generic-amd64-fde-alpine-openjdk"
+  },
+  {
+    "name": "generic-amd64-fde-alpine-python"
+  },
+  {
+    "name": "generic-amd64-fde-debian"
+  },
+  {
+    "name": "generic-amd64-fde-debian-dotnet"
+  },
+  {
+    "name": "generic-amd64-fde-debian-golang"
+  },
+  {
+    "name": "generic-amd64-fde-debian-node"
+  },
+  {
+    "name": "generic-amd64-fde-debian-openjdk"
+  },
+  {
+    "name": "generic-amd64-fde-debian-python"
+  },
+  {
+    "name": "generic-amd64-fde-dotnet"
+  },
+  {
+    "name": "generic-amd64-fde-fedora"
+  },
+  {
+    "name": "generic-amd64-fde-fedora-golang"
+  },
+  {
+    "name": "generic-amd64-fde-fedora-node"
+  },
+  {
+    "name": "generic-amd64-fde-fedora-openjdk"
+  },
+  {
+    "name": "generic-amd64-fde-fedora-python"
+  },
+  {
+    "name": "generic-amd64-fde-golang"
+  },
+  {
+    "name": "generic-amd64-fde-node"
+  },
+  {
+    "name": "generic-amd64-fde-openjdk"
+  },
+  {
+    "name": "generic-amd64-fde-python"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu-dotnet"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu-golang"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu-node"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu-openjdk"
+  },
+  {
+    "name": "generic-amd64-fde-ubuntu-python"
+  },
+  {
+    "name": "generic-amd64-fedora"
+  },
+  {
+    "name": "generic-amd64-fedora-golang"
+  },
+  {
+    "name": "generic-amd64-fedora-node"
+  },
+  {
+    "name": "generic-amd64-fedora-openjdk"
+  },
+  {
+    "name": "generic-amd64-fedora-python"
+  },
+  {
+    "name": "generic-amd64-golang"
+  },
+  {
+    "name": "generic-amd64-node"
+  },
+  {
+    "name": "generic-amd64-openjdk"
+  },
+  {
+    "name": "generic-amd64-python"
+  },
+  {
+    "name": "generic-amd64-ubuntu"
+  },
+  {
+    "name": "generic-amd64-ubuntu-golang"
+  },
+  {
+    "name": "generic-amd64-ubuntu-node"
+  },
+  {
+    "name": "generic-amd64-ubuntu-openjdk"
+  },
+  {
+    "name": "generic-amd64-ubuntu-python"
+  },
+  {
+    "name": "generic-armv7ahf"
+  },
+  {
+    "name": "generic-armv7ahf-alpine"
+  },
+  {
+    "name": "generic-armv7ahf-alpine-dotnet"
+  },
+  {
+    "name": "generic-armv7ahf-alpine-golang"
+  },
+  {
+    "name": "generic-armv7ahf-alpine-node"
+  },
+  {
+    "name": "generic-armv7ahf-alpine-openjdk"
+  },
+  {
+    "name": "generic-armv7ahf-alpine-python"
+  },
+  {
+    "name": "generic-armv7ahf-debian"
+  },
+  {
+    "name": "generic-armv7ahf-debian-dotnet"
+  },
+  {
+    "name": "generic-armv7ahf-debian-golang"
+  },
+  {
+    "name": "generic-armv7ahf-debian-node"
+  },
+  {
+    "name": "generic-armv7ahf-debian-openjdk"
+  },
+  {
+    "name": "generic-armv7ahf-debian-python"
+  },
+  {
+    "name": "generic-armv7ahf-dotnet"
+  },
+  {
+    "name": "generic-armv7ahf-fedora"
+  },
+  {
+    "name": "generic-armv7ahf-fedora-golang"
+  },
+  {
+    "name": "generic-armv7ahf-fedora-node"
+  },
+  {
+    "name": "generic-armv7ahf-fedora-openjdk"
+  },
+  {
+    "name": "generic-armv7ahf-fedora-python"
+  },
+  {
+    "name": "generic-armv7ahf-golang"
+  },
+  {
+    "name": "generic-armv7ahf-node"
+  },
+  {
+    "name": "generic-armv7ahf-openjdk"
+  },
+  {
+    "name": "generic-armv7ahf-python"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu-dotnet"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu-golang"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu-node"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu-openjdk"
+  },
+  {
+    "name": "generic-armv7ahf-ubuntu-python"
+  },
+  {
+    "name": "generic-debian"
+  },
+  {
+    "name": "generic-debian-dotnet"
+  },
+  {
+    "name": "generic-debian-golang"
+  },
+  {
+    "name": "generic-debian-node"
+  },
+  {
+    "name": "generic-debian-openjdk"
+  },
+  {
+    "name": "generic-debian-python"
+  },
+  {
+    "name": "generic-dotnet"
+  },
+  {
+    "name": "generic-fedora"
+  },
+  {
+    "name": "generic-fedora-golang"
+  },
+  {
+    "name": "generic-fedora-node"
+  },
+  {
+    "name": "generic-fedora-openjdk"
+  },
+  {
+    "name": "generic-fedora-python"
+  },
+  {
+    "name": "generic-golang"
+  },
+  {
+    "name": "generic-node"
+  },
+  {
+    "name": "generic-openjdk"
+  },
+  {
+    "name": "generic-python"
+  },
+  {
+    "name": "generic-ubuntu"
+  },
+  {
+    "name": "generic-ubuntu-dotnet"
+  },
+  {
+    "name": "generic-ubuntu-golang"
+  },
+  {
+    "name": "generic-ubuntu-node"
+  },
+  {
+    "name": "generic-ubuntu-openjdk"
+  },
+  {
+    "name": "generic-ubuntu-python"
+  },
+  {
+    "name": "genericx86-64-ext"
+  },
+  {
+    "name": "genericx86-64-ext-alpine"
+  },
+  {
+    "name": "genericx86-64-ext-alpine-dotnet"
+  },
+  {
+    "name": "genericx86-64-ext-alpine-golang"
+  },
+  {
+    "name": "genericx86-64-ext-alpine-node"
+  },
+  {
+    "name": "genericx86-64-ext-alpine-openjdk"
+  },
+  {
+    "name": "genericx86-64-ext-alpine-python"
+  },
+  {
+    "name": "genericx86-64-ext-debian"
+  },
+  {
+    "name": "genericx86-64-ext-debian-dotnet"
+  },
+  {
+    "name": "genericx86-64-ext-debian-golang"
+  },
+  {
+    "name": "genericx86-64-ext-debian-node"
+  },
+  {
+    "name": "genericx86-64-ext-debian-openjdk"
+  },
+  {
+    "name": "genericx86-64-ext-debian-python"
+  },
+  {
+    "name": "genericx86-64-ext-dotnet"
+  },
+  {
+    "name": "genericx86-64-ext-fedora"
+  },
+  {
+    "name": "genericx86-64-ext-fedora-golang"
+  },
+  {
+    "name": "genericx86-64-ext-fedora-node"
+  },
+  {
+    "name": "genericx86-64-ext-fedora-openjdk"
+  },
+  {
+    "name": "genericx86-64-ext-fedora-python"
+  },
+  {
+    "name": "genericx86-64-ext-golang"
+  },
+  {
+    "name": "genericx86-64-ext-node"
+  },
+  {
+    "name": "genericx86-64-ext-openjdk"
+  },
+  {
+    "name": "genericx86-64-ext-python"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu-dotnet"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu-golang"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu-node"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu-openjdk"
+  },
+  {
+    "name": "genericx86-64-ext-ubuntu-python"
+  },
+  {
+    "name": "hummingboard"
+  },
+  {
+    "name": "hummingboard-alpine"
+  },
+  {
+    "name": "hummingboard-alpine-dotnet"
+  },
+  {
+    "name": "hummingboard-alpine-golang"
+  },
+  {
+    "name": "hummingboard-alpine-node"
+  },
+  {
+    "name": "hummingboard-alpine-openjdk"
+  },
+  {
+    "name": "hummingboard-alpine-python"
+  },
+  {
+    "name": "hummingboard-debian"
+  },
+  {
+    "name": "hummingboard-debian-dotnet"
+  },
+  {
+    "name": "hummingboard-debian-golang"
+  },
+  {
+    "name": "hummingboard-debian-node"
+  },
+  {
+    "name": "hummingboard-debian-openjdk"
+  },
+  {
+    "name": "hummingboard-debian-python"
+  },
+  {
+    "name": "hummingboard-dotnet"
+  },
+  {
+    "name": "hummingboard-fedora"
+  },
+  {
+    "name": "hummingboard-fedora-golang"
+  },
+  {
+    "name": "hummingboard-fedora-node"
+  },
+  {
+    "name": "hummingboard-fedora-openjdk"
+  },
+  {
+    "name": "hummingboard-fedora-python"
+  },
+  {
+    "name": "hummingboard-golang"
+  },
+  {
+    "name": "hummingboard-node"
+  },
+  {
+    "name": "hummingboard-openjdk"
+  },
+  {
+    "name": "hummingboard-python"
+  },
+  {
+    "name": "hummingboard-ubuntu"
+  },
+  {
+    "name": "hummingboard-ubuntu-dotnet"
+  },
+  {
+    "name": "hummingboard-ubuntu-golang"
+  },
+  {
+    "name": "hummingboard-ubuntu-node"
+  },
+  {
+    "name": "hummingboard-ubuntu-openjdk"
+  },
+  {
+    "name": "hummingboard-ubuntu-python"
+  },
+  {
+    "name": "i386"
+  },
+  {
+    "name": "i386-alpine"
+  },
+  {
+    "name": "i386-alpine-golang"
+  },
+  {
+    "name": "i386-alpine-node"
+  },
+  {
+    "name": "i386-alpine-openjdk"
+  },
+  {
+    "name": "i386-alpine-python"
+  },
+  {
+    "name": "i386-alpine-supervisor-base"
+  },
+  {
+    "name": "i386-debian"
+  },
+  {
+    "name": "i386-debian-dotnet"
+  },
+  {
+    "name": "i386-debian-golang"
+  },
+  {
+    "name": "i386-debian-node"
+  },
+  {
+    "name": "i386-debian-openjdk"
+  },
+  {
+    "name": "i386-debian-python"
+  },
+  {
+    "name": "i386-dotnet"
+  },
+  {
+    "name": "i386-golang"
+  },
+  {
+    "name": "i386-nlp"
+  },
+  {
+    "name": "i386-nlp-alpine"
+  },
+  {
+    "name": "i386-nlp-alpine-golang"
+  },
+  {
+    "name": "i386-nlp-alpine-node"
+  },
+  {
+    "name": "i386-nlp-alpine-openjdk"
+  },
+  {
+    "name": "i386-nlp-alpine-python"
+  },
+  {
+    "name": "i386-nlp-debian"
+  },
+  {
+    "name": "i386-nlp-debian-dotnet"
+  },
+  {
+    "name": "i386-nlp-debian-golang"
+  },
+  {
+    "name": "i386-nlp-debian-node"
+  },
+  {
+    "name": "i386-nlp-debian-openjdk"
+  },
+  {
+    "name": "i386-nlp-debian-python"
+  },
+  {
+    "name": "i386-nlp-dotnet"
+  },
+  {
+    "name": "i386-nlp-golang"
+  },
+  {
+    "name": "i386-nlp-node"
+  },
+  {
+    "name": "i386-nlp-openjdk"
+  },
+  {
+    "name": "i386-nlp-python"
+  },
+  {
+    "name": "i386-nlp-ubuntu"
+  },
+  {
+    "name": "i386-nlp-ubuntu-golang"
+  },
+  {
+    "name": "i386-nlp-ubuntu-node"
+  },
+  {
+    "name": "i386-nlp-ubuntu-openjdk"
+  },
+  {
+    "name": "i386-nlp-ubuntu-python"
+  },
+  {
+    "name": "i386-node"
+  },
+  {
+    "name": "i386-openjdk"
+  },
+  {
+    "name": "i386-python"
+  },
+  {
+    "name": "i386-ubuntu"
+  },
+  {
+    "name": "i386-ubuntu-golang"
+  },
+  {
+    "name": "i386-ubuntu-node"
+  },
+  {
+    "name": "i386-ubuntu-openjdk"
+  },
+  {
+    "name": "i386-ubuntu-python"
+  },
+  {
+    "name": "imx6ul-var-dart"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine-dotnet"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine-golang"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine-node"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine-openjdk"
+  },
+  {
+    "name": "imx6ul-var-dart-alpine-python"
+  },
+  {
+    "name": "imx6ul-var-dart-debian"
+  },
+  {
+    "name": "imx6ul-var-dart-debian-dotnet"
+  },
+  {
+    "name": "imx6ul-var-dart-debian-golang"
+  },
+  {
+    "name": "imx6ul-var-dart-debian-node"
+  },
+  {
+    "name": "imx6ul-var-dart-debian-openjdk"
+  },
+  {
+    "name": "imx6ul-var-dart-debian-python"
+  },
+  {
+    "name": "imx6ul-var-dart-dotnet"
+  },
+  {
+    "name": "imx6ul-var-dart-fedora"
+  },
+  {
+    "name": "imx6ul-var-dart-fedora-golang"
+  },
+  {
+    "name": "imx6ul-var-dart-fedora-node"
+  },
+  {
+    "name": "imx6ul-var-dart-fedora-openjdk"
+  },
+  {
+    "name": "imx6ul-var-dart-fedora-python"
+  },
+  {
+    "name": "imx6ul-var-dart-golang"
+  },
+  {
+    "name": "imx6ul-var-dart-node"
+  },
+  {
+    "name": "imx6ul-var-dart-openjdk"
+  },
+  {
+    "name": "imx6ul-var-dart-python"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu-dotnet"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu-golang"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu-node"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu-openjdk"
+  },
+  {
+    "name": "imx6ul-var-dart-ubuntu-python"
+  },
+  {
+    "name": "imx7-var-som"
+  },
+  {
+    "name": "imx7-var-som-alpine"
+  },
+  {
+    "name": "imx7-var-som-alpine-dotnet"
+  },
+  {
+    "name": "imx7-var-som-alpine-golang"
+  },
+  {
+    "name": "imx7-var-som-alpine-node"
+  },
+  {
+    "name": "imx7-var-som-alpine-openjdk"
+  },
+  {
+    "name": "imx7-var-som-alpine-python"
+  },
+  {
+    "name": "imx7-var-som-debian"
+  },
+  {
+    "name": "imx7-var-som-debian-dotnet"
+  },
+  {
+    "name": "imx7-var-som-debian-golang"
+  },
+  {
+    "name": "imx7-var-som-debian-node"
+  },
+  {
+    "name": "imx7-var-som-debian-openjdk"
+  },
+  {
+    "name": "imx7-var-som-debian-python"
+  },
+  {
+    "name": "imx7-var-som-dotnet"
+  },
+  {
+    "name": "imx7-var-som-fedora"
+  },
+  {
+    "name": "imx7-var-som-fedora-golang"
+  },
+  {
+    "name": "imx7-var-som-fedora-node"
+  },
+  {
+    "name": "imx7-var-som-fedora-openjdk"
+  },
+  {
+    "name": "imx7-var-som-fedora-python"
+  },
+  {
+    "name": "imx7-var-som-golang"
+  },
+  {
+    "name": "imx7-var-som-node"
+  },
+  {
+    "name": "imx7-var-som-openjdk"
+  },
+  {
+    "name": "imx7-var-som-python"
+  },
+  {
+    "name": "imx7-var-som-ubuntu"
+  },
+  {
+    "name": "imx7-var-som-ubuntu-dotnet"
+  },
+  {
+    "name": "imx7-var-som-ubuntu-golang"
+  },
+  {
+    "name": "imx7-var-som-ubuntu-node"
+  },
+  {
+    "name": "imx7-var-som-ubuntu-openjdk"
+  },
+  {
+    "name": "imx7-var-som-ubuntu-python"
+  },
+  {
+    "name": "imx8m-var-dart"
+  },
+  {
+    "name": "imx8m-var-dart-alpine"
+  },
+  {
+    "name": "imx8m-var-dart-alpine-dotnet"
+  },
+  {
+    "name": "imx8m-var-dart-alpine-golang"
+  },
+  {
+    "name": "imx8m-var-dart-alpine-node"
+  },
+  {
+    "name": "imx8m-var-dart-alpine-openjdk"
+  },
+  {
+    "name": "imx8m-var-dart-alpine-python"
+  },
+  {
+    "name": "imx8m-var-dart-debian"
+  },
+  {
+    "name": "imx8m-var-dart-debian-dotnet"
+  },
+  {
+    "name": "imx8m-var-dart-debian-golang"
+  },
+  {
+    "name": "imx8m-var-dart-debian-node"
+  },
+  {
+    "name": "imx8m-var-dart-debian-openjdk"
+  },
+  {
+    "name": "imx8m-var-dart-debian-python"
+  },
+  {
+    "name": "imx8m-var-dart-dotnet"
+  },
+  {
+    "name": "imx8m-var-dart-fedora"
+  },
+  {
+    "name": "imx8m-var-dart-fedora-golang"
+  },
+  {
+    "name": "imx8m-var-dart-fedora-node"
+  },
+  {
+    "name": "imx8m-var-dart-fedora-openjdk"
+  },
+  {
+    "name": "imx8m-var-dart-fedora-python"
+  },
+  {
+    "name": "imx8m-var-dart-golang"
+  },
+  {
+    "name": "imx8m-var-dart-node"
+  },
+  {
+    "name": "imx8m-var-dart-openjdk"
+  },
+  {
+    "name": "imx8m-var-dart-python"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu-dotnet"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu-golang"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu-node"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu-openjdk"
+  },
+  {
+    "name": "imx8m-var-dart-ubuntu-python"
+  },
+  {
+    "name": "imx8mm-var-dart"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine-node"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-alpine-python"
+  },
+  {
+    "name": "imx8mm-var-dart-debian"
+  },
+  {
+    "name": "imx8mm-var-dart-debian-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-debian-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-debian-node"
+  },
+  {
+    "name": "imx8mm-var-dart-debian-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-debian-python"
+  },
+  {
+    "name": "imx8mm-var-dart-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-fedora"
+  },
+  {
+    "name": "imx8mm-var-dart-fedora-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-fedora-node"
+  },
+  {
+    "name": "imx8mm-var-dart-fedora-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-fedora-python"
+  },
+  {
+    "name": "imx8mm-var-dart-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-alpine-python"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-debian-python"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-fedora"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-fedora-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-fedora-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-fedora-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-fedora-python"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-python"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu-node"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-nrt-ubuntu-python"
+  },
+  {
+    "name": "imx8mm-var-dart-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine-node"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-alpine-python"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian-node"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-debian-python"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-fedora"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-fedora-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-fedora-node"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-fedora-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-fedora-python"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-node"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-python"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu-node"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-plt-ubuntu-python"
+  },
+  {
+    "name": "imx8mm-var-dart-python"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu-dotnet"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu-golang"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu-node"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu-openjdk"
+  },
+  {
+    "name": "imx8mm-var-dart-ubuntu-python"
+  },
+  {
+    "name": "imx8mm-var-som"
+  },
+  {
+    "name": "imx8mm-var-som-alpine"
+  },
+  {
+    "name": "imx8mm-var-som-alpine-golang"
+  },
+  {
+    "name": "imx8mm-var-som-alpine-node"
+  },
+  {
+    "name": "imx8mm-var-som-alpine-openjdk"
+  },
+  {
+    "name": "imx8mm-var-som-alpine-python"
+  },
+  {
+    "name": "imx8mm-var-som-debian"
+  },
+  {
+    "name": "imx8mm-var-som-debian-dotnet"
+  },
+  {
+    "name": "imx8mm-var-som-debian-golang"
+  },
+  {
+    "name": "imx8mm-var-som-debian-node"
+  },
+  {
+    "name": "imx8mm-var-som-debian-openjdk"
+  },
+  {
+    "name": "imx8mm-var-som-debian-python"
+  },
+  {
+    "name": "imx8mm-var-som-dotnet"
+  },
+  {
+    "name": "imx8mm-var-som-fedora"
+  },
+  {
+    "name": "imx8mm-var-som-fedora-golang"
+  },
+  {
+    "name": "imx8mm-var-som-fedora-node"
+  },
+  {
+    "name": "imx8mm-var-som-fedora-openjdk"
+  },
+  {
+    "name": "imx8mm-var-som-fedora-python"
+  },
+  {
+    "name": "imx8mm-var-som-golang"
+  },
+  {
+    "name": "imx8mm-var-som-node"
+  },
+  {
+    "name": "imx8mm-var-som-openjdk"
+  },
+  {
+    "name": "imx8mm-var-som-python"
+  },
+  {
+    "name": "imx8mm-var-som-ubuntu"
+  },
+  {
+    "name": "imx8mm-var-som-ubuntu-golang"
+  },
+  {
+    "name": "imx8mm-var-som-ubuntu-node"
+  },
+  {
+    "name": "imx8mm-var-som-ubuntu-openjdk"
+  },
+  {
+    "name": "imx8mm-var-som-ubuntu-python"
+  },
+  {
+    "name": "intel-edison"
+  },
+  {
+    "name": "intel-edison-alpine"
+  },
+  {
+    "name": "intel-edison-alpine-golang"
+  },
+  {
+    "name": "intel-edison-alpine-node"
+  },
+  {
+    "name": "intel-edison-alpine-openjdk"
+  },
+  {
+    "name": "intel-edison-alpine-python"
+  },
+  {
+    "name": "intel-edison-debian"
+  },
+  {
+    "name": "intel-edison-debian-dotnet"
+  },
+  {
+    "name": "intel-edison-debian-golang"
+  },
+  {
+    "name": "intel-edison-debian-node"
+  },
+  {
+    "name": "intel-edison-debian-openjdk"
+  },
+  {
+    "name": "intel-edison-debian-python"
+  },
+  {
+    "name": "intel-edison-dotnet"
+  },
+  {
+    "name": "intel-edison-golang"
+  },
+  {
+    "name": "intel-edison-node"
+  },
+  {
+    "name": "intel-edison-openjdk"
+  },
+  {
+    "name": "intel-edison-python"
+  },
+  {
+    "name": "intel-edison-ubuntu"
+  },
+  {
+    "name": "intel-edison-ubuntu-golang"
+  },
+  {
+    "name": "intel-edison-ubuntu-node"
+  },
+  {
+    "name": "intel-edison-ubuntu-openjdk"
+  },
+  {
+    "name": "intel-edison-ubuntu-python"
+  },
+  {
+    "name": "intel-nuc"
+  },
+  {
+    "name": "intel-nuc-alpine"
+  },
+  {
+    "name": "intel-nuc-alpine-dotnet"
+  },
+  {
+    "name": "intel-nuc-alpine-golang"
+  },
+  {
+    "name": "intel-nuc-alpine-node"
+  },
+  {
+    "name": "intel-nuc-alpine-openjdk"
+  },
+  {
+    "name": "intel-nuc-alpine-python"
+  },
+  {
+    "name": "intel-nuc-debian"
+  },
+  {
+    "name": "intel-nuc-debian-dotnet"
+  },
+  {
+    "name": "intel-nuc-debian-golang"
+  },
+  {
+    "name": "intel-nuc-debian-node"
+  },
+  {
+    "name": "intel-nuc-debian-openjdk"
+  },
+  {
+    "name": "intel-nuc-debian-python"
+  },
+  {
+    "name": "intel-nuc-dotnet"
+  },
+  {
+    "name": "intel-nuc-fedora"
+  },
+  {
+    "name": "intel-nuc-fedora-golang"
+  },
+  {
+    "name": "intel-nuc-fedora-node"
+  },
+  {
+    "name": "intel-nuc-fedora-openjdk"
+  },
+  {
+    "name": "intel-nuc-fedora-python"
+  },
+  {
+    "name": "intel-nuc-golang"
+  },
+  {
+    "name": "intel-nuc-node"
+  },
+  {
+    "name": "intel-nuc-openjdk"
+  },
+  {
+    "name": "intel-nuc-python"
+  },
+  {
+    "name": "intel-nuc-ubuntu"
+  },
+  {
+    "name": "intel-nuc-ubuntu-dotnet"
+  },
+  {
+    "name": "intel-nuc-ubuntu-golang"
+  },
+  {
+    "name": "intel-nuc-ubuntu-node"
+  },
+  {
+    "name": "intel-nuc-ubuntu-openjdk"
+  },
+  {
+    "name": "intel-nuc-ubuntu-python"
+  },
+  {
+    "name": "iot-gate-imx8"
+  },
+  {
+    "name": "iot-gate-imx8-alpine"
+  },
+  {
+    "name": "iot-gate-imx8-alpine-dotnet"
+  },
+  {
+    "name": "iot-gate-imx8-alpine-golang"
+  },
+  {
+    "name": "iot-gate-imx8-alpine-node"
+  },
+  {
+    "name": "iot-gate-imx8-alpine-openjdk"
+  },
+  {
+    "name": "iot-gate-imx8-alpine-python"
+  },
+  {
+    "name": "iot-gate-imx8-debian"
+  },
+  {
+    "name": "iot-gate-imx8-debian-dotnet"
+  },
+  {
+    "name": "iot-gate-imx8-debian-golang"
+  },
+  {
+    "name": "iot-gate-imx8-debian-node"
+  },
+  {
+    "name": "iot-gate-imx8-debian-openjdk"
+  },
+  {
+    "name": "iot-gate-imx8-debian-python"
+  },
+  {
+    "name": "iot-gate-imx8-dotnet"
+  },
+  {
+    "name": "iot-gate-imx8-fedora"
+  },
+  {
+    "name": "iot-gate-imx8-fedora-golang"
+  },
+  {
+    "name": "iot-gate-imx8-fedora-node"
+  },
+  {
+    "name": "iot-gate-imx8-fedora-openjdk"
+  },
+  {
+    "name": "iot-gate-imx8-fedora-python"
+  },
+  {
+    "name": "iot-gate-imx8-golang"
+  },
+  {
+    "name": "iot-gate-imx8-node"
+  },
+  {
+    "name": "iot-gate-imx8-openjdk"
+  },
+  {
+    "name": "iot-gate-imx8-python"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu-dotnet"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu-golang"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu-node"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu-openjdk"
+  },
+  {
+    "name": "iot-gate-imx8-ubuntu-python"
+  },
+  {
+    "name": "iot2000"
+  },
+  {
+    "name": "iot2000-alpine"
+  },
+  {
+    "name": "iot2000-debian"
+  },
+  {
+    "name": "iot2000-debian-dotnet"
+  },
+  {
+    "name": "iot2000-debian-golang"
+  },
+  {
+    "name": "iot2000-debian-node"
+  },
+  {
+    "name": "iot2000-debian-openjdk"
+  },
+  {
+    "name": "iot2000-debian-python"
+  },
+  {
+    "name": "iot2000-dotnet"
+  },
+  {
+    "name": "iot2000-golang"
+  },
+  {
+    "name": "iot2000-node"
+  },
+  {
+    "name": "iot2000-openjdk"
+  },
+  {
+    "name": "iot2000-python"
+  },
+  {
+    "name": "iot2000-ubuntu"
+  },
+  {
+    "name": "iot2000-ubuntu-golang"
+  },
+  {
+    "name": "iot2000-ubuntu-node"
+  },
+  {
+    "name": "iot2000-ubuntu-openjdk"
+  },
+  {
+    "name": "iot2000-ubuntu-python"
+  },
+  {
+    "name": "isg-503"
+  },
+  {
+    "name": "isg-503-alpine"
+  },
+  {
+    "name": "isg-503-alpine-dotnet"
+  },
+  {
+    "name": "isg-503-alpine-golang"
+  },
+  {
+    "name": "isg-503-alpine-node"
+  },
+  {
+    "name": "isg-503-alpine-openjdk"
+  },
+  {
+    "name": "isg-503-alpine-python"
+  },
+  {
+    "name": "isg-503-debian"
+  },
+  {
+    "name": "isg-503-debian-dotnet"
+  },
+  {
+    "name": "isg-503-debian-golang"
+  },
+  {
+    "name": "isg-503-debian-node"
+  },
+  {
+    "name": "isg-503-debian-openjdk"
+  },
+  {
+    "name": "isg-503-debian-python"
+  },
+  {
+    "name": "isg-503-dotnet"
+  },
+  {
+    "name": "isg-503-fedora"
+  },
+  {
+    "name": "isg-503-fedora-golang"
+  },
+  {
+    "name": "isg-503-fedora-node"
+  },
+  {
+    "name": "isg-503-fedora-openjdk"
+  },
+  {
+    "name": "isg-503-fedora-python"
+  },
+  {
+    "name": "isg-503-golang"
+  },
+  {
+    "name": "isg-503-node"
+  },
+  {
+    "name": "isg-503-openjdk"
+  },
+  {
+    "name": "isg-503-python"
+  },
+  {
+    "name": "isg-503-ubuntu"
+  },
+  {
+    "name": "isg-503-ubuntu-dotnet"
+  },
+  {
+    "name": "isg-503-ubuntu-golang"
+  },
+  {
+    "name": "isg-503-ubuntu-node"
+  },
+  {
+    "name": "isg-503-ubuntu-openjdk"
+  },
+  {
+    "name": "isg-503-ubuntu-python"
+  },
+  {
+    "name": "j120-tx2"
+  },
+  {
+    "name": "j120-tx2-alpine"
+  },
+  {
+    "name": "j120-tx2-alpine-dotnet"
+  },
+  {
+    "name": "j120-tx2-alpine-golang"
+  },
+  {
+    "name": "j120-tx2-alpine-node"
+  },
+  {
+    "name": "j120-tx2-alpine-openjdk"
+  },
+  {
+    "name": "j120-tx2-alpine-python"
+  },
+  {
+    "name": "j120-tx2-debian"
+  },
+  {
+    "name": "j120-tx2-debian-dotnet"
+  },
+  {
+    "name": "j120-tx2-debian-golang"
+  },
+  {
+    "name": "j120-tx2-debian-node"
+  },
+  {
+    "name": "j120-tx2-debian-openjdk"
+  },
+  {
+    "name": "j120-tx2-debian-python"
+  },
+  {
+    "name": "j120-tx2-dotnet"
+  },
+  {
+    "name": "j120-tx2-fedora"
+  },
+  {
+    "name": "j120-tx2-fedora-golang"
+  },
+  {
+    "name": "j120-tx2-fedora-node"
+  },
+  {
+    "name": "j120-tx2-fedora-openjdk"
+  },
+  {
+    "name": "j120-tx2-fedora-python"
+  },
+  {
+    "name": "j120-tx2-golang"
+  },
+  {
+    "name": "j120-tx2-node"
+  },
+  {
+    "name": "j120-tx2-openjdk"
+  },
+  {
+    "name": "j120-tx2-python"
+  },
+  {
+    "name": "j120-tx2-ubuntu"
+  },
+  {
+    "name": "j120-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "j120-tx2-ubuntu-golang"
+  },
+  {
+    "name": "j120-tx2-ubuntu-node"
+  },
+  {
+    "name": "j120-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "j120-tx2-ubuntu-python"
+  },
+  {
+    "name": "jetson-agx-orin-devkit"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-alpine"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-alpine-golang"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-alpine-node"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-alpine-openjdk"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-alpine-python"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian-dotnet"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian-golang"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian-node"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian-openjdk"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-debian-python"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-dotnet"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-fedora"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-fedora-golang"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-fedora-node"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-fedora-openjdk"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-fedora-python"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-golang"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-node"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-openjdk"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-python"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-ubuntu"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-ubuntu-golang"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-ubuntu-node"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-agx-orin-devkit-ubuntu-python"
+  },
+  {
+    "name": "jetson-nano"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine-dotnet"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine-golang"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine-node"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine-openjdk"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-alpine-python"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian-dotnet"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian-golang"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian-node"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian-openjdk"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-debian-python"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-dotnet"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-fedora"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-fedora-golang"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-fedora-node"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-fedora-openjdk"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-fedora-python"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-golang"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-node"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-openjdk"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-python"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu-golang"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu-node"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-nano-2gb-devkit-ubuntu-python"
+  },
+  {
+    "name": "jetson-nano-alpine"
+  },
+  {
+    "name": "jetson-nano-alpine-dotnet"
+  },
+  {
+    "name": "jetson-nano-alpine-golang"
+  },
+  {
+    "name": "jetson-nano-alpine-node"
+  },
+  {
+    "name": "jetson-nano-alpine-openjdk"
+  },
+  {
+    "name": "jetson-nano-alpine-python"
+  },
+  {
+    "name": "jetson-nano-debian"
+  },
+  {
+    "name": "jetson-nano-debian-dotnet"
+  },
+  {
+    "name": "jetson-nano-debian-golang"
+  },
+  {
+    "name": "jetson-nano-debian-node"
+  },
+  {
+    "name": "jetson-nano-debian-openjdk"
+  },
+  {
+    "name": "jetson-nano-debian-python"
+  },
+  {
+    "name": "jetson-nano-dotnet"
+  },
+  {
+    "name": "jetson-nano-emmc"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine-dotnet"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine-golang"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine-node"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine-openjdk"
+  },
+  {
+    "name": "jetson-nano-emmc-alpine-python"
+  },
+  {
+    "name": "jetson-nano-emmc-debian"
+  },
+  {
+    "name": "jetson-nano-emmc-debian-dotnet"
+  },
+  {
+    "name": "jetson-nano-emmc-debian-golang"
+  },
+  {
+    "name": "jetson-nano-emmc-debian-node"
+  },
+  {
+    "name": "jetson-nano-emmc-debian-openjdk"
+  },
+  {
+    "name": "jetson-nano-emmc-debian-python"
+  },
+  {
+    "name": "jetson-nano-emmc-dotnet"
+  },
+  {
+    "name": "jetson-nano-emmc-fedora"
+  },
+  {
+    "name": "jetson-nano-emmc-fedora-golang"
+  },
+  {
+    "name": "jetson-nano-emmc-fedora-node"
+  },
+  {
+    "name": "jetson-nano-emmc-fedora-openjdk"
+  },
+  {
+    "name": "jetson-nano-emmc-fedora-python"
+  },
+  {
+    "name": "jetson-nano-emmc-golang"
+  },
+  {
+    "name": "jetson-nano-emmc-node"
+  },
+  {
+    "name": "jetson-nano-emmc-openjdk"
+  },
+  {
+    "name": "jetson-nano-emmc-python"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu-golang"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu-node"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-nano-emmc-ubuntu-python"
+  },
+  {
+    "name": "jetson-nano-fedora"
+  },
+  {
+    "name": "jetson-nano-fedora-golang"
+  },
+  {
+    "name": "jetson-nano-fedora-node"
+  },
+  {
+    "name": "jetson-nano-fedora-openjdk"
+  },
+  {
+    "name": "jetson-nano-fedora-python"
+  },
+  {
+    "name": "jetson-nano-golang"
+  },
+  {
+    "name": "jetson-nano-node"
+  },
+  {
+    "name": "jetson-nano-openjdk"
+  },
+  {
+    "name": "jetson-nano-python"
+  },
+  {
+    "name": "jetson-nano-ubuntu"
+  },
+  {
+    "name": "jetson-nano-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-nano-ubuntu-golang"
+  },
+  {
+    "name": "jetson-nano-ubuntu-node"
+  },
+  {
+    "name": "jetson-nano-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-nano-ubuntu-python"
+  },
+  {
+    "name": "jetson-tx1"
+  },
+  {
+    "name": "jetson-tx1-alpine"
+  },
+  {
+    "name": "jetson-tx1-alpine-dotnet"
+  },
+  {
+    "name": "jetson-tx1-alpine-golang"
+  },
+  {
+    "name": "jetson-tx1-alpine-node"
+  },
+  {
+    "name": "jetson-tx1-alpine-openjdk"
+  },
+  {
+    "name": "jetson-tx1-alpine-python"
+  },
+  {
+    "name": "jetson-tx1-debian"
+  },
+  {
+    "name": "jetson-tx1-debian-dotnet"
+  },
+  {
+    "name": "jetson-tx1-debian-golang"
+  },
+  {
+    "name": "jetson-tx1-debian-node"
+  },
+  {
+    "name": "jetson-tx1-debian-openjdk"
+  },
+  {
+    "name": "jetson-tx1-debian-python"
+  },
+  {
+    "name": "jetson-tx1-dotnet"
+  },
+  {
+    "name": "jetson-tx1-fedora"
+  },
+  {
+    "name": "jetson-tx1-fedora-golang"
+  },
+  {
+    "name": "jetson-tx1-fedora-node"
+  },
+  {
+    "name": "jetson-tx1-fedora-openjdk"
+  },
+  {
+    "name": "jetson-tx1-fedora-python"
+  },
+  {
+    "name": "jetson-tx1-golang"
+  },
+  {
+    "name": "jetson-tx1-node"
+  },
+  {
+    "name": "jetson-tx1-openjdk"
+  },
+  {
+    "name": "jetson-tx1-python"
+  },
+  {
+    "name": "jetson-tx1-ubuntu"
+  },
+  {
+    "name": "jetson-tx1-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-tx1-ubuntu-golang"
+  },
+  {
+    "name": "jetson-tx1-ubuntu-node"
+  },
+  {
+    "name": "jetson-tx1-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-tx1-ubuntu-python"
+  },
+  {
+    "name": "jetson-tx2"
+  },
+  {
+    "name": "jetson-tx2-alpine"
+  },
+  {
+    "name": "jetson-tx2-alpine-dotnet"
+  },
+  {
+    "name": "jetson-tx2-alpine-golang"
+  },
+  {
+    "name": "jetson-tx2-alpine-node"
+  },
+  {
+    "name": "jetson-tx2-alpine-openjdk"
+  },
+  {
+    "name": "jetson-tx2-alpine-python"
+  },
+  {
+    "name": "jetson-tx2-debian"
+  },
+  {
+    "name": "jetson-tx2-debian-dotnet"
+  },
+  {
+    "name": "jetson-tx2-debian-golang"
+  },
+  {
+    "name": "jetson-tx2-debian-node"
+  },
+  {
+    "name": "jetson-tx2-debian-openjdk"
+  },
+  {
+    "name": "jetson-tx2-debian-python"
+  },
+  {
+    "name": "jetson-tx2-dotnet"
+  },
+  {
+    "name": "jetson-tx2-fedora"
+  },
+  {
+    "name": "jetson-tx2-fedora-golang"
+  },
+  {
+    "name": "jetson-tx2-fedora-node"
+  },
+  {
+    "name": "jetson-tx2-fedora-openjdk"
+  },
+  {
+    "name": "jetson-tx2-fedora-python"
+  },
+  {
+    "name": "jetson-tx2-golang"
+  },
+  {
+    "name": "jetson-tx2-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-alpine"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-alpine-golang"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-alpine-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-alpine-openjdk"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-alpine-python"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian-dotnet"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian-golang"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian-openjdk"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-debian-python"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-dotnet"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-fedora"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-fedora-golang"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-fedora-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-fedora-openjdk"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-fedora-python"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-golang"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-openjdk"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-python"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-ubuntu"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-ubuntu-golang"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-ubuntu-node"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-tx2-nx-devkit-ubuntu-python"
+  },
+  {
+    "name": "jetson-tx2-openjdk"
+  },
+  {
+    "name": "jetson-tx2-python"
+  },
+  {
+    "name": "jetson-tx2-ubuntu"
+  },
+  {
+    "name": "jetson-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-tx2-ubuntu-golang"
+  },
+  {
+    "name": "jetson-tx2-ubuntu-node"
+  },
+  {
+    "name": "jetson-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-tx2-ubuntu-python"
+  },
+  {
+    "name": "jetson-xavier"
+  },
+  {
+    "name": "jetson-xavier-alpine"
+  },
+  {
+    "name": "jetson-xavier-alpine-dotnet"
+  },
+  {
+    "name": "jetson-xavier-alpine-golang"
+  },
+  {
+    "name": "jetson-xavier-alpine-node"
+  },
+  {
+    "name": "jetson-xavier-alpine-openjdk"
+  },
+  {
+    "name": "jetson-xavier-alpine-python"
+  },
+  {
+    "name": "jetson-xavier-debian"
+  },
+  {
+    "name": "jetson-xavier-debian-dotnet"
+  },
+  {
+    "name": "jetson-xavier-debian-golang"
+  },
+  {
+    "name": "jetson-xavier-debian-node"
+  },
+  {
+    "name": "jetson-xavier-debian-openjdk"
+  },
+  {
+    "name": "jetson-xavier-debian-python"
+  },
+  {
+    "name": "jetson-xavier-dotnet"
+  },
+  {
+    "name": "jetson-xavier-fedora"
+  },
+  {
+    "name": "jetson-xavier-fedora-golang"
+  },
+  {
+    "name": "jetson-xavier-fedora-node"
+  },
+  {
+    "name": "jetson-xavier-fedora-openjdk"
+  },
+  {
+    "name": "jetson-xavier-fedora-python"
+  },
+  {
+    "name": "jetson-xavier-golang"
+  },
+  {
+    "name": "jetson-xavier-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-alpine-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-debian-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-alpine-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-debian-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-fedora"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-fedora-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-fedora-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-fedora-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-fedora-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-emmc-ubuntu-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-fedora"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-fedora-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-fedora-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-fedora-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-fedora-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-alpine-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-debian-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-fedora"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-fedora-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-fedora-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-fedora-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-fedora-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-seeed-2mic-hat-ubuntu-python"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu-golang"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu-node"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-xavier-nx-devkit-ubuntu-python"
+  },
+  {
+    "name": "jetson-xavier-openjdk"
+  },
+  {
+    "name": "jetson-xavier-python"
+  },
+  {
+    "name": "jetson-xavier-ubuntu"
+  },
+  {
+    "name": "jetson-xavier-ubuntu-dotnet"
+  },
+  {
+    "name": "jetson-xavier-ubuntu-golang"
+  },
+  {
+    "name": "jetson-xavier-ubuntu-node"
+  },
+  {
+    "name": "jetson-xavier-ubuntu-openjdk"
+  },
+  {
+    "name": "jetson-xavier-ubuntu-python"
+  },
+  {
+    "name": "jn30b-nano"
+  },
+  {
+    "name": "jn30b-nano-alpine"
+  },
+  {
+    "name": "jn30b-nano-alpine-dotnet"
+  },
+  {
+    "name": "jn30b-nano-alpine-golang"
+  },
+  {
+    "name": "jn30b-nano-alpine-node"
+  },
+  {
+    "name": "jn30b-nano-alpine-openjdk"
+  },
+  {
+    "name": "jn30b-nano-alpine-python"
+  },
+  {
+    "name": "jn30b-nano-debian"
+  },
+  {
+    "name": "jn30b-nano-debian-dotnet"
+  },
+  {
+    "name": "jn30b-nano-debian-golang"
+  },
+  {
+    "name": "jn30b-nano-debian-node"
+  },
+  {
+    "name": "jn30b-nano-debian-openjdk"
+  },
+  {
+    "name": "jn30b-nano-debian-python"
+  },
+  {
+    "name": "jn30b-nano-dotnet"
+  },
+  {
+    "name": "jn30b-nano-fedora"
+  },
+  {
+    "name": "jn30b-nano-fedora-golang"
+  },
+  {
+    "name": "jn30b-nano-fedora-node"
+  },
+  {
+    "name": "jn30b-nano-fedora-openjdk"
+  },
+  {
+    "name": "jn30b-nano-fedora-python"
+  },
+  {
+    "name": "jn30b-nano-golang"
+  },
+  {
+    "name": "jn30b-nano-node"
+  },
+  {
+    "name": "jn30b-nano-openjdk"
+  },
+  {
+    "name": "jn30b-nano-python"
+  },
+  {
+    "name": "jn30b-nano-ubuntu"
+  },
+  {
+    "name": "jn30b-nano-ubuntu-dotnet"
+  },
+  {
+    "name": "jn30b-nano-ubuntu-golang"
+  },
+  {
+    "name": "jn30b-nano-ubuntu-node"
+  },
+  {
+    "name": "jn30b-nano-ubuntu-openjdk"
+  },
+  {
+    "name": "jn30b-nano-ubuntu-python"
+  },
+  {
+    "name": "kitra520"
+  },
+  {
+    "name": "kitra520-alpine"
+  },
+  {
+    "name": "kitra520-alpine-dotnet"
+  },
+  {
+    "name": "kitra520-alpine-golang"
+  },
+  {
+    "name": "kitra520-alpine-node"
+  },
+  {
+    "name": "kitra520-alpine-openjdk"
+  },
+  {
+    "name": "kitra520-alpine-python"
+  },
+  {
+    "name": "kitra520-debian"
+  },
+  {
+    "name": "kitra520-debian-dotnet"
+  },
+  {
+    "name": "kitra520-debian-golang"
+  },
+  {
+    "name": "kitra520-debian-node"
+  },
+  {
+    "name": "kitra520-debian-openjdk"
+  },
+  {
+    "name": "kitra520-debian-python"
+  },
+  {
+    "name": "kitra520-dotnet"
+  },
+  {
+    "name": "kitra520-fedora"
+  },
+  {
+    "name": "kitra520-fedora-golang"
+  },
+  {
+    "name": "kitra520-fedora-node"
+  },
+  {
+    "name": "kitra520-fedora-openjdk"
+  },
+  {
+    "name": "kitra520-fedora-python"
+  },
+  {
+    "name": "kitra520-golang"
+  },
+  {
+    "name": "kitra520-node"
+  },
+  {
+    "name": "kitra520-openjdk"
+  },
+  {
+    "name": "kitra520-python"
+  },
+  {
+    "name": "kitra520-ubuntu"
+  },
+  {
+    "name": "kitra520-ubuntu-dotnet"
+  },
+  {
+    "name": "kitra520-ubuntu-golang"
+  },
+  {
+    "name": "kitra520-ubuntu-node"
+  },
+  {
+    "name": "kitra520-ubuntu-openjdk"
+  },
+  {
+    "name": "kitra520-ubuntu-python"
+  },
+  {
+    "name": "kitra710"
+  },
+  {
+    "name": "kitra710-alpine"
+  },
+  {
+    "name": "kitra710-alpine-dotnet"
+  },
+  {
+    "name": "kitra710-alpine-golang"
+  },
+  {
+    "name": "kitra710-alpine-node"
+  },
+  {
+    "name": "kitra710-alpine-openjdk"
+  },
+  {
+    "name": "kitra710-alpine-python"
+  },
+  {
+    "name": "kitra710-debian"
+  },
+  {
+    "name": "kitra710-debian-dotnet"
+  },
+  {
+    "name": "kitra710-debian-golang"
+  },
+  {
+    "name": "kitra710-debian-node"
+  },
+  {
+    "name": "kitra710-debian-openjdk"
+  },
+  {
+    "name": "kitra710-debian-python"
+  },
+  {
+    "name": "kitra710-dotnet"
+  },
+  {
+    "name": "kitra710-fedora"
+  },
+  {
+    "name": "kitra710-fedora-golang"
+  },
+  {
+    "name": "kitra710-fedora-node"
+  },
+  {
+    "name": "kitra710-fedora-openjdk"
+  },
+  {
+    "name": "kitra710-fedora-python"
+  },
+  {
+    "name": "kitra710-golang"
+  },
+  {
+    "name": "kitra710-node"
+  },
+  {
+    "name": "kitra710-openjdk"
+  },
+  {
+    "name": "kitra710-python"
+  },
+  {
+    "name": "kitra710-ubuntu"
+  },
+  {
+    "name": "kitra710-ubuntu-dotnet"
+  },
+  {
+    "name": "kitra710-ubuntu-golang"
+  },
+  {
+    "name": "kitra710-ubuntu-node"
+  },
+  {
+    "name": "kitra710-ubuntu-openjdk"
+  },
+  {
+    "name": "kitra710-ubuntu-python"
+  },
+  {
+    "name": "m2pcie-tx2"
+  },
+  {
+    "name": "m2pcie-tx2-alpine"
+  },
+  {
+    "name": "m2pcie-tx2-alpine-golang"
+  },
+  {
+    "name": "m2pcie-tx2-alpine-node"
+  },
+  {
+    "name": "m2pcie-tx2-alpine-openjdk"
+  },
+  {
+    "name": "m2pcie-tx2-alpine-python"
+  },
+  {
+    "name": "m2pcie-tx2-debian"
+  },
+  {
+    "name": "m2pcie-tx2-debian-dotnet"
+  },
+  {
+    "name": "m2pcie-tx2-debian-golang"
+  },
+  {
+    "name": "m2pcie-tx2-debian-node"
+  },
+  {
+    "name": "m2pcie-tx2-debian-openjdk"
+  },
+  {
+    "name": "m2pcie-tx2-debian-python"
+  },
+  {
+    "name": "m2pcie-tx2-dotnet"
+  },
+  {
+    "name": "m2pcie-tx2-fedora"
+  },
+  {
+    "name": "m2pcie-tx2-fedora-golang"
+  },
+  {
+    "name": "m2pcie-tx2-fedora-node"
+  },
+  {
+    "name": "m2pcie-tx2-fedora-openjdk"
+  },
+  {
+    "name": "m2pcie-tx2-fedora-python"
+  },
+  {
+    "name": "m2pcie-tx2-golang"
+  },
+  {
+    "name": "m2pcie-tx2-node"
+  },
+  {
+    "name": "m2pcie-tx2-openjdk"
+  },
+  {
+    "name": "m2pcie-tx2-python"
+  },
+  {
+    "name": "m2pcie-tx2-ubuntu"
+  },
+  {
+    "name": "m2pcie-tx2-ubuntu-golang"
+  },
+  {
+    "name": "m2pcie-tx2-ubuntu-node"
+  },
+  {
+    "name": "m2pcie-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "m2pcie-tx2-ubuntu-python"
+  },
+  {
+    "name": "n310-tx2"
+  },
+  {
+    "name": "n310-tx2-alpine"
+  },
+  {
+    "name": "n310-tx2-alpine-dotnet"
+  },
+  {
+    "name": "n310-tx2-alpine-golang"
+  },
+  {
+    "name": "n310-tx2-alpine-node"
+  },
+  {
+    "name": "n310-tx2-alpine-openjdk"
+  },
+  {
+    "name": "n310-tx2-alpine-python"
+  },
+  {
+    "name": "n310-tx2-debian"
+  },
+  {
+    "name": "n310-tx2-debian-dotnet"
+  },
+  {
+    "name": "n310-tx2-debian-golang"
+  },
+  {
+    "name": "n310-tx2-debian-node"
+  },
+  {
+    "name": "n310-tx2-debian-openjdk"
+  },
+  {
+    "name": "n310-tx2-debian-python"
+  },
+  {
+    "name": "n310-tx2-dotnet"
+  },
+  {
+    "name": "n310-tx2-fedora"
+  },
+  {
+    "name": "n310-tx2-fedora-golang"
+  },
+  {
+    "name": "n310-tx2-fedora-node"
+  },
+  {
+    "name": "n310-tx2-fedora-openjdk"
+  },
+  {
+    "name": "n310-tx2-fedora-python"
+  },
+  {
+    "name": "n310-tx2-golang"
+  },
+  {
+    "name": "n310-tx2-node"
+  },
+  {
+    "name": "n310-tx2-openjdk"
+  },
+  {
+    "name": "n310-tx2-python"
+  },
+  {
+    "name": "n310-tx2-ubuntu"
+  },
+  {
+    "name": "n310-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "n310-tx2-ubuntu-golang"
+  },
+  {
+    "name": "n310-tx2-ubuntu-node"
+  },
+  {
+    "name": "n310-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "n310-tx2-ubuntu-python"
+  },
+  {
+    "name": "n510-tx2"
+  },
+  {
+    "name": "n510-tx2-alpine"
+  },
+  {
+    "name": "n510-tx2-alpine-dotnet"
+  },
+  {
+    "name": "n510-tx2-alpine-golang"
+  },
+  {
+    "name": "n510-tx2-alpine-node"
+  },
+  {
+    "name": "n510-tx2-alpine-openjdk"
+  },
+  {
+    "name": "n510-tx2-alpine-python"
+  },
+  {
+    "name": "n510-tx2-debian"
+  },
+  {
+    "name": "n510-tx2-debian-dotnet"
+  },
+  {
+    "name": "n510-tx2-debian-golang"
+  },
+  {
+    "name": "n510-tx2-debian-node"
+  },
+  {
+    "name": "n510-tx2-debian-openjdk"
+  },
+  {
+    "name": "n510-tx2-debian-python"
+  },
+  {
+    "name": "n510-tx2-dotnet"
+  },
+  {
+    "name": "n510-tx2-fedora"
+  },
+  {
+    "name": "n510-tx2-fedora-golang"
+  },
+  {
+    "name": "n510-tx2-fedora-node"
+  },
+  {
+    "name": "n510-tx2-fedora-openjdk"
+  },
+  {
+    "name": "n510-tx2-fedora-python"
+  },
+  {
+    "name": "n510-tx2-golang"
+  },
+  {
+    "name": "n510-tx2-node"
+  },
+  {
+    "name": "n510-tx2-openjdk"
+  },
+  {
+    "name": "n510-tx2-python"
+  },
+  {
+    "name": "n510-tx2-ubuntu"
+  },
+  {
+    "name": "n510-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "n510-tx2-ubuntu-golang"
+  },
+  {
+    "name": "n510-tx2-ubuntu-node"
+  },
+  {
+    "name": "n510-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "n510-tx2-ubuntu-python"
+  },
+  {
+    "name": "nanapc-t4-debian-node"
+  },
+  {
+    "name": "nanapc-t4-node"
+  },
+  {
+    "name": "nanopc-t4"
+  },
+  {
+    "name": "nanopc-t4-alpine"
+  },
+  {
+    "name": "nanopc-t4-alpine-dotnet"
+  },
+  {
+    "name": "nanopc-t4-alpine-golang"
+  },
+  {
+    "name": "nanopc-t4-alpine-node"
+  },
+  {
+    "name": "nanopc-t4-alpine-openjdk"
+  },
+  {
+    "name": "nanopc-t4-alpine-python"
+  },
+  {
+    "name": "nanopc-t4-debian"
+  },
+  {
+    "name": "nanopc-t4-debian-dotnet"
+  },
+  {
+    "name": "nanopc-t4-debian-golang"
+  },
+  {
+    "name": "nanopc-t4-debian-node"
+  },
+  {
+    "name": "nanopc-t4-debian-openjdk"
+  },
+  {
+    "name": "nanopc-t4-debian-python"
+  },
+  {
+    "name": "nanopc-t4-dotnet"
+  },
+  {
+    "name": "nanopc-t4-fedora"
+  },
+  {
+    "name": "nanopc-t4-fedora-golang"
+  },
+  {
+    "name": "nanopc-t4-fedora-node"
+  },
+  {
+    "name": "nanopc-t4-fedora-openjdk"
+  },
+  {
+    "name": "nanopc-t4-fedora-python"
+  },
+  {
+    "name": "nanopc-t4-golang"
+  },
+  {
+    "name": "nanopc-t4-node"
+  },
+  {
+    "name": "nanopc-t4-openjdk"
+  },
+  {
+    "name": "nanopc-t4-python"
+  },
+  {
+    "name": "nanopc-t4-ubuntu"
+  },
+  {
+    "name": "nanopc-t4-ubuntu-dotnet"
+  },
+  {
+    "name": "nanopc-t4-ubuntu-golang"
+  },
+  {
+    "name": "nanopc-t4-ubuntu-node"
+  },
+  {
+    "name": "nanopc-t4-ubuntu-openjdk"
+  },
+  {
+    "name": "nanopc-t4-ubuntu-python"
+  },
+  {
+    "name": "nanopi-neo-air"
+  },
+  {
+    "name": "nanopi-neo-air-alpine"
+  },
+  {
+    "name": "nanopi-neo-air-alpine-dotnet"
+  },
+  {
+    "name": "nanopi-neo-air-alpine-golang"
+  },
+  {
+    "name": "nanopi-neo-air-alpine-node"
+  },
+  {
+    "name": "nanopi-neo-air-alpine-openjdk"
+  },
+  {
+    "name": "nanopi-neo-air-alpine-python"
+  },
+  {
+    "name": "nanopi-neo-air-debian"
+  },
+  {
+    "name": "nanopi-neo-air-debian-dotnet"
+  },
+  {
+    "name": "nanopi-neo-air-debian-golang"
+  },
+  {
+    "name": "nanopi-neo-air-debian-node"
+  },
+  {
+    "name": "nanopi-neo-air-debian-openjdk"
+  },
+  {
+    "name": "nanopi-neo-air-debian-python"
+  },
+  {
+    "name": "nanopi-neo-air-dotnet"
+  },
+  {
+    "name": "nanopi-neo-air-fedora"
+  },
+  {
+    "name": "nanopi-neo-air-fedora-golang"
+  },
+  {
+    "name": "nanopi-neo-air-fedora-node"
+  },
+  {
+    "name": "nanopi-neo-air-fedora-openjdk"
+  },
+  {
+    "name": "nanopi-neo-air-fedora-python"
+  },
+  {
+    "name": "nanopi-neo-air-golang"
+  },
+  {
+    "name": "nanopi-neo-air-node"
+  },
+  {
+    "name": "nanopi-neo-air-openjdk"
+  },
+  {
+    "name": "nanopi-neo-air-python"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu-dotnet"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu-golang"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu-node"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu-openjdk"
+  },
+  {
+    "name": "nanopi-neo-air-ubuntu-python"
+  },
+  {
+    "name": "nanopi-r2c"
+  },
+  {
+    "name": "nanopi-r2c-alpine"
+  },
+  {
+    "name": "nanopi-r2c-alpine-golang"
+  },
+  {
+    "name": "nanopi-r2c-alpine-node"
+  },
+  {
+    "name": "nanopi-r2c-alpine-openjdk"
+  },
+  {
+    "name": "nanopi-r2c-alpine-python"
+  },
+  {
+    "name": "nanopi-r2c-debian"
+  },
+  {
+    "name": "nanopi-r2c-debian-dotnet"
+  },
+  {
+    "name": "nanopi-r2c-debian-golang"
+  },
+  {
+    "name": "nanopi-r2c-debian-node"
+  },
+  {
+    "name": "nanopi-r2c-debian-openjdk"
+  },
+  {
+    "name": "nanopi-r2c-debian-python"
+  },
+  {
+    "name": "nanopi-r2c-dotnet"
+  },
+  {
+    "name": "nanopi-r2c-golang"
+  },
+  {
+    "name": "nanopi-r2c-node"
+  },
+  {
+    "name": "nanopi-r2c-openjdk"
+  },
+  {
+    "name": "nanopi-r2c-python"
+  },
+  {
+    "name": "nanopi-r2c-ubuntu"
+  },
+  {
+    "name": "nanopi-r2c-ubuntu-golang"
+  },
+  {
+    "name": "nanopi-r2c-ubuntu-node"
+  },
+  {
+    "name": "nanopi-r2c-ubuntu-openjdk"
+  },
+  {
+    "name": "nanopi-r2c-ubuntu-python"
+  },
+  {
+    "name": "nanopi-r2s"
+  },
+  {
+    "name": "nanopi-r2s-alpine"
+  },
+  {
+    "name": "nanopi-r2s-alpine-golang"
+  },
+  {
+    "name": "nanopi-r2s-alpine-node"
+  },
+  {
+    "name": "nanopi-r2s-alpine-openjdk"
+  },
+  {
+    "name": "nanopi-r2s-alpine-python"
+  },
+  {
+    "name": "nanopi-r2s-debian"
+  },
+  {
+    "name": "nanopi-r2s-debian-dotnet"
+  },
+  {
+    "name": "nanopi-r2s-debian-golang"
+  },
+  {
+    "name": "nanopi-r2s-debian-node"
+  },
+  {
+    "name": "nanopi-r2s-debian-openjdk"
+  },
+  {
+    "name": "nanopi-r2s-debian-python"
+  },
+  {
+    "name": "nanopi-r2s-dotnet"
+  },
+  {
+    "name": "nanopi-r2s-fedora"
+  },
+  {
+    "name": "nanopi-r2s-fedora-golang"
+  },
+  {
+    "name": "nanopi-r2s-fedora-node"
+  },
+  {
+    "name": "nanopi-r2s-fedora-openjdk"
+  },
+  {
+    "name": "nanopi-r2s-fedora-python"
+  },
+  {
+    "name": "nanopi-r2s-golang"
+  },
+  {
+    "name": "nanopi-r2s-node"
+  },
+  {
+    "name": "nanopi-r2s-openjdk"
+  },
+  {
+    "name": "nanopi-r2s-python"
+  },
+  {
+    "name": "nanopi-r2s-ubuntu"
+  },
+  {
+    "name": "nanopi-r2s-ubuntu-golang"
+  },
+  {
+    "name": "nanopi-r2s-ubuntu-node"
+  },
+  {
+    "name": "nanopi-r2s-ubuntu-openjdk"
+  },
+  {
+    "name": "nanopi-r2s-ubuntu-python"
+  },
+  {
+    "name": "nitrogen6x"
+  },
+  {
+    "name": "nitrogen6x-alpine"
+  },
+  {
+    "name": "nitrogen6x-alpine-dotnet"
+  },
+  {
+    "name": "nitrogen6x-alpine-golang"
+  },
+  {
+    "name": "nitrogen6x-alpine-node"
+  },
+  {
+    "name": "nitrogen6x-alpine-openjdk"
+  },
+  {
+    "name": "nitrogen6x-alpine-python"
+  },
+  {
+    "name": "nitrogen6x-debian"
+  },
+  {
+    "name": "nitrogen6x-debian-dotnet"
+  },
+  {
+    "name": "nitrogen6x-debian-golang"
+  },
+  {
+    "name": "nitrogen6x-debian-node"
+  },
+  {
+    "name": "nitrogen6x-debian-openjdk"
+  },
+  {
+    "name": "nitrogen6x-debian-python"
+  },
+  {
+    "name": "nitrogen6x-dotnet"
+  },
+  {
+    "name": "nitrogen6x-fedora"
+  },
+  {
+    "name": "nitrogen6x-fedora-golang"
+  },
+  {
+    "name": "nitrogen6x-fedora-node"
+  },
+  {
+    "name": "nitrogen6x-fedora-openjdk"
+  },
+  {
+    "name": "nitrogen6x-fedora-python"
+  },
+  {
+    "name": "nitrogen6x-golang"
+  },
+  {
+    "name": "nitrogen6x-node"
+  },
+  {
+    "name": "nitrogen6x-openjdk"
+  },
+  {
+    "name": "nitrogen6x-python"
+  },
+  {
+    "name": "nitrogen6x-ubuntu"
+  },
+  {
+    "name": "nitrogen6x-ubuntu-dotnet"
+  },
+  {
+    "name": "nitrogen6x-ubuntu-golang"
+  },
+  {
+    "name": "nitrogen6x-ubuntu-node"
+  },
+  {
+    "name": "nitrogen6x-ubuntu-openjdk"
+  },
+  {
+    "name": "nitrogen6x-ubuntu-python"
+  },
+  {
+    "name": "nitrogen6xq2g"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine-dotnet"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine-golang"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine-node"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine-openjdk"
+  },
+  {
+    "name": "nitrogen6xq2g-alpine-python"
+  },
+  {
+    "name": "nitrogen6xq2g-debian"
+  },
+  {
+    "name": "nitrogen6xq2g-debian-dotnet"
+  },
+  {
+    "name": "nitrogen6xq2g-debian-golang"
+  },
+  {
+    "name": "nitrogen6xq2g-debian-node"
+  },
+  {
+    "name": "nitrogen6xq2g-debian-openjdk"
+  },
+  {
+    "name": "nitrogen6xq2g-debian-python"
+  },
+  {
+    "name": "nitrogen6xq2g-dotnet"
+  },
+  {
+    "name": "nitrogen6xq2g-fedora"
+  },
+  {
+    "name": "nitrogen6xq2g-fedora-golang"
+  },
+  {
+    "name": "nitrogen6xq2g-fedora-node"
+  },
+  {
+    "name": "nitrogen6xq2g-fedora-openjdk"
+  },
+  {
+    "name": "nitrogen6xq2g-fedora-python"
+  },
+  {
+    "name": "nitrogen6xq2g-golang"
+  },
+  {
+    "name": "nitrogen6xq2g-node"
+  },
+  {
+    "name": "nitrogen6xq2g-openjdk"
+  },
+  {
+    "name": "nitrogen6xq2g-python"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu-dotnet"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu-golang"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu-node"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu-openjdk"
+  },
+  {
+    "name": "nitrogen6xq2g-ubuntu-python"
+  },
+  {
+    "name": "nitrogen8mm"
+  },
+  {
+    "name": "nitrogen8mm-alpine"
+  },
+  {
+    "name": "nitrogen8mm-alpine-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-alpine-golang"
+  },
+  {
+    "name": "nitrogen8mm-alpine-node"
+  },
+  {
+    "name": "nitrogen8mm-alpine-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-alpine-python"
+  },
+  {
+    "name": "nitrogen8mm-debian"
+  },
+  {
+    "name": "nitrogen8mm-debian-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-debian-golang"
+  },
+  {
+    "name": "nitrogen8mm-debian-node"
+  },
+  {
+    "name": "nitrogen8mm-debian-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-debian-python"
+  },
+  {
+    "name": "nitrogen8mm-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-dwe"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine-golang"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine-node"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-dwe-alpine-python"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian-golang"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian-node"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-dwe-debian-python"
+  },
+  {
+    "name": "nitrogen8mm-dwe-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-dwe-fedora"
+  },
+  {
+    "name": "nitrogen8mm-dwe-fedora-golang"
+  },
+  {
+    "name": "nitrogen8mm-dwe-fedora-node"
+  },
+  {
+    "name": "nitrogen8mm-dwe-fedora-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-dwe-fedora-python"
+  },
+  {
+    "name": "nitrogen8mm-dwe-golang"
+  },
+  {
+    "name": "nitrogen8mm-dwe-node"
+  },
+  {
+    "name": "nitrogen8mm-dwe-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-dwe-python"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu-golang"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu-node"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-dwe-ubuntu-python"
+  },
+  {
+    "name": "nitrogen8mm-fedora"
+  },
+  {
+    "name": "nitrogen8mm-fedora-golang"
+  },
+  {
+    "name": "nitrogen8mm-fedora-node"
+  },
+  {
+    "name": "nitrogen8mm-fedora-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-fedora-python"
+  },
+  {
+    "name": "nitrogen8mm-golang"
+  },
+  {
+    "name": "nitrogen8mm-node"
+  },
+  {
+    "name": "nitrogen8mm-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-python"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu-dotnet"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu-golang"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu-node"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu-openjdk"
+  },
+  {
+    "name": "nitrogen8mm-ubuntu-python"
+  },
+  {
+    "name": "npe-x500-m3"
+  },
+  {
+    "name": "npe-x500-m3-alpine"
+  },
+  {
+    "name": "npe-x500-m3-alpine-dotnet"
+  },
+  {
+    "name": "npe-x500-m3-alpine-golang"
+  },
+  {
+    "name": "npe-x500-m3-alpine-node"
+  },
+  {
+    "name": "npe-x500-m3-alpine-openjdk"
+  },
+  {
+    "name": "npe-x500-m3-alpine-python"
+  },
+  {
+    "name": "npe-x500-m3-debian"
+  },
+  {
+    "name": "npe-x500-m3-debian-dotnet"
+  },
+  {
+    "name": "npe-x500-m3-debian-golang"
+  },
+  {
+    "name": "npe-x500-m3-debian-node"
+  },
+  {
+    "name": "npe-x500-m3-debian-openjdk"
+  },
+  {
+    "name": "npe-x500-m3-debian-python"
+  },
+  {
+    "name": "npe-x500-m3-dotnet"
+  },
+  {
+    "name": "npe-x500-m3-fedora"
+  },
+  {
+    "name": "npe-x500-m3-fedora-golang"
+  },
+  {
+    "name": "npe-x500-m3-fedora-node"
+  },
+  {
+    "name": "npe-x500-m3-fedora-openjdk"
+  },
+  {
+    "name": "npe-x500-m3-fedora-python"
+  },
+  {
+    "name": "npe-x500-m3-golang"
+  },
+  {
+    "name": "npe-x500-m3-node"
+  },
+  {
+    "name": "npe-x500-m3-openjdk"
+  },
+  {
+    "name": "npe-x500-m3-python"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu-dotnet"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu-golang"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu-node"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu-openjdk"
+  },
+  {
+    "name": "npe-x500-m3-ubuntu-python"
+  },
+  {
+    "name": "odroid-c1"
+  },
+  {
+    "name": "odroid-c1-alpine"
+  },
+  {
+    "name": "odroid-c1-alpine-dotnet"
+  },
+  {
+    "name": "odroid-c1-alpine-golang"
+  },
+  {
+    "name": "odroid-c1-alpine-node"
+  },
+  {
+    "name": "odroid-c1-alpine-openjdk"
+  },
+  {
+    "name": "odroid-c1-alpine-python"
+  },
+  {
+    "name": "odroid-c1-debian"
+  },
+  {
+    "name": "odroid-c1-debian-dotnet"
+  },
+  {
+    "name": "odroid-c1-debian-golang"
+  },
+  {
+    "name": "odroid-c1-debian-node"
+  },
+  {
+    "name": "odroid-c1-debian-openjdk"
+  },
+  {
+    "name": "odroid-c1-debian-python"
+  },
+  {
+    "name": "odroid-c1-dotnet"
+  },
+  {
+    "name": "odroid-c1-fedora"
+  },
+  {
+    "name": "odroid-c1-fedora-golang"
+  },
+  {
+    "name": "odroid-c1-fedora-node"
+  },
+  {
+    "name": "odroid-c1-fedora-openjdk"
+  },
+  {
+    "name": "odroid-c1-fedora-python"
+  },
+  {
+    "name": "odroid-c1-golang"
+  },
+  {
+    "name": "odroid-c1-node"
+  },
+  {
+    "name": "odroid-c1-openjdk"
+  },
+  {
+    "name": "odroid-c1-python"
+  },
+  {
+    "name": "odroid-c1-ubuntu"
+  },
+  {
+    "name": "odroid-c1-ubuntu-dotnet"
+  },
+  {
+    "name": "odroid-c1-ubuntu-golang"
+  },
+  {
+    "name": "odroid-c1-ubuntu-node"
+  },
+  {
+    "name": "odroid-c1-ubuntu-openjdk"
+  },
+  {
+    "name": "odroid-c1-ubuntu-python"
+  },
+  {
+    "name": "odroid-xu4"
+  },
+  {
+    "name": "odroid-xu4-alpine"
+  },
+  {
+    "name": "odroid-xu4-alpine-dotnet"
+  },
+  {
+    "name": "odroid-xu4-alpine-golang"
+  },
+  {
+    "name": "odroid-xu4-alpine-node"
+  },
+  {
+    "name": "odroid-xu4-alpine-openjdk"
+  },
+  {
+    "name": "odroid-xu4-alpine-python"
+  },
+  {
+    "name": "odroid-xu4-debian"
+  },
+  {
+    "name": "odroid-xu4-debian-dotnet"
+  },
+  {
+    "name": "odroid-xu4-debian-golang"
+  },
+  {
+    "name": "odroid-xu4-debian-node"
+  },
+  {
+    "name": "odroid-xu4-debian-openjdk"
+  },
+  {
+    "name": "odroid-xu4-debian-python"
+  },
+  {
+    "name": "odroid-xu4-dotnet"
+  },
+  {
+    "name": "odroid-xu4-fedora"
+  },
+  {
+    "name": "odroid-xu4-fedora-golang"
+  },
+  {
+    "name": "odroid-xu4-fedora-node"
+  },
+  {
+    "name": "odroid-xu4-fedora-openjdk"
+  },
+  {
+    "name": "odroid-xu4-fedora-python"
+  },
+  {
+    "name": "odroid-xu4-golang"
+  },
+  {
+    "name": "odroid-xu4-node"
+  },
+  {
+    "name": "odroid-xu4-openjdk"
+  },
+  {
+    "name": "odroid-xu4-python"
+  },
+  {
+    "name": "odroid-xu4-ubuntu"
+  },
+  {
+    "name": "odroid-xu4-ubuntu-dotnet"
+  },
+  {
+    "name": "odroid-xu4-ubuntu-golang"
+  },
+  {
+    "name": "odroid-xu4-ubuntu-node"
+  },
+  {
+    "name": "odroid-xu4-ubuntu-openjdk"
+  },
+  {
+    "name": "odroid-xu4-ubuntu-python"
+  },
+  {
+    "name": "odyssey-x86"
+  },
+  {
+    "name": "odyssey-x86-alpine"
+  },
+  {
+    "name": "odyssey-x86-alpine-golang"
+  },
+  {
+    "name": "odyssey-x86-alpine-node"
+  },
+  {
+    "name": "odyssey-x86-alpine-openjdk"
+  },
+  {
+    "name": "odyssey-x86-alpine-python"
+  },
+  {
+    "name": "odyssey-x86-debian"
+  },
+  {
+    "name": "odyssey-x86-debian-dotnet"
+  },
+  {
+    "name": "odyssey-x86-debian-golang"
+  },
+  {
+    "name": "odyssey-x86-debian-node"
+  },
+  {
+    "name": "odyssey-x86-debian-openjdk"
+  },
+  {
+    "name": "odyssey-x86-debian-python"
+  },
+  {
+    "name": "odyssey-x86-dotnet"
+  },
+  {
+    "name": "odyssey-x86-golang"
+  },
+  {
+    "name": "odyssey-x86-node"
+  },
+  {
+    "name": "odyssey-x86-openjdk"
+  },
+  {
+    "name": "odyssey-x86-python"
+  },
+  {
+    "name": "odyssey-x86-ubuntu"
+  },
+  {
+    "name": "odyssey-x86-ubuntu-golang"
+  },
+  {
+    "name": "odyssey-x86-ubuntu-node"
+  },
+  {
+    "name": "odyssey-x86-ubuntu-openjdk"
+  },
+  {
+    "name": "odyssey-x86-ubuntu-python"
+  },
+  {
+    "name": "orange-pi-lite"
+  },
+  {
+    "name": "orange-pi-lite-alpine"
+  },
+  {
+    "name": "orange-pi-lite-alpine-dotnet"
+  },
+  {
+    "name": "orange-pi-lite-alpine-golang"
+  },
+  {
+    "name": "orange-pi-lite-alpine-node"
+  },
+  {
+    "name": "orange-pi-lite-alpine-openjdk"
+  },
+  {
+    "name": "orange-pi-lite-alpine-python"
+  },
+  {
+    "name": "orange-pi-lite-debian"
+  },
+  {
+    "name": "orange-pi-lite-debian-dotnet"
+  },
+  {
+    "name": "orange-pi-lite-debian-golang"
+  },
+  {
+    "name": "orange-pi-lite-debian-node"
+  },
+  {
+    "name": "orange-pi-lite-debian-openjdk"
+  },
+  {
+    "name": "orange-pi-lite-debian-python"
+  },
+  {
+    "name": "orange-pi-lite-dotnet"
+  },
+  {
+    "name": "orange-pi-lite-fedora"
+  },
+  {
+    "name": "orange-pi-lite-fedora-golang"
+  },
+  {
+    "name": "orange-pi-lite-fedora-node"
+  },
+  {
+    "name": "orange-pi-lite-fedora-openjdk"
+  },
+  {
+    "name": "orange-pi-lite-fedora-python"
+  },
+  {
+    "name": "orange-pi-lite-golang"
+  },
+  {
+    "name": "orange-pi-lite-node"
+  },
+  {
+    "name": "orange-pi-lite-openjdk"
+  },
+  {
+    "name": "orange-pi-lite-python"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu-dotnet"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu-golang"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu-node"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu-openjdk"
+  },
+  {
+    "name": "orange-pi-lite-ubuntu-python"
+  },
+  {
+    "name": "orange-pi-one"
+  },
+  {
+    "name": "orange-pi-one-alpine"
+  },
+  {
+    "name": "orange-pi-one-alpine-dotnet"
+  },
+  {
+    "name": "orange-pi-one-alpine-golang"
+  },
+  {
+    "name": "orange-pi-one-alpine-node"
+  },
+  {
+    "name": "orange-pi-one-alpine-openjdk"
+  },
+  {
+    "name": "orange-pi-one-alpine-python"
+  },
+  {
+    "name": "orange-pi-one-debian"
+  },
+  {
+    "name": "orange-pi-one-debian-dotnet"
+  },
+  {
+    "name": "orange-pi-one-debian-golang"
+  },
+  {
+    "name": "orange-pi-one-debian-node"
+  },
+  {
+    "name": "orange-pi-one-debian-openjdk"
+  },
+  {
+    "name": "orange-pi-one-debian-python"
+  },
+  {
+    "name": "orange-pi-one-dotnet"
+  },
+  {
+    "name": "orange-pi-one-fedora"
+  },
+  {
+    "name": "orange-pi-one-fedora-golang"
+  },
+  {
+    "name": "orange-pi-one-fedora-node"
+  },
+  {
+    "name": "orange-pi-one-fedora-openjdk"
+  },
+  {
+    "name": "orange-pi-one-fedora-python"
+  },
+  {
+    "name": "orange-pi-one-golang"
+  },
+  {
+    "name": "orange-pi-one-node"
+  },
+  {
+    "name": "orange-pi-one-openjdk"
+  },
+  {
+    "name": "orange-pi-one-python"
+  },
+  {
+    "name": "orange-pi-one-ubuntu"
+  },
+  {
+    "name": "orange-pi-one-ubuntu-dotnet"
+  },
+  {
+    "name": "orange-pi-one-ubuntu-golang"
+  },
+  {
+    "name": "orange-pi-one-ubuntu-node"
+  },
+  {
+    "name": "orange-pi-one-ubuntu-openjdk"
+  },
+  {
+    "name": "orange-pi-one-ubuntu-python"
+  },
+  {
+    "name": "orange-pi-zero"
+  },
+  {
+    "name": "orange-pi-zero-alpine"
+  },
+  {
+    "name": "orange-pi-zero-alpine-dotnet"
+  },
+  {
+    "name": "orange-pi-zero-alpine-golang"
+  },
+  {
+    "name": "orange-pi-zero-alpine-node"
+  },
+  {
+    "name": "orange-pi-zero-alpine-openjdk"
+  },
+  {
+    "name": "orange-pi-zero-alpine-python"
+  },
+  {
+    "name": "orange-pi-zero-debian"
+  },
+  {
+    "name": "orange-pi-zero-debian-dotnet"
+  },
+  {
+    "name": "orange-pi-zero-debian-golang"
+  },
+  {
+    "name": "orange-pi-zero-debian-node"
+  },
+  {
+    "name": "orange-pi-zero-debian-openjdk"
+  },
+  {
+    "name": "orange-pi-zero-debian-python"
+  },
+  {
+    "name": "orange-pi-zero-dotnet"
+  },
+  {
+    "name": "orange-pi-zero-fedora"
+  },
+  {
+    "name": "orange-pi-zero-fedora-golang"
+  },
+  {
+    "name": "orange-pi-zero-fedora-node"
+  },
+  {
+    "name": "orange-pi-zero-fedora-openjdk"
+  },
+  {
+    "name": "orange-pi-zero-fedora-python"
+  },
+  {
+    "name": "orange-pi-zero-golang"
+  },
+  {
+    "name": "orange-pi-zero-node"
+  },
+  {
+    "name": "orange-pi-zero-openjdk"
+  },
+  {
+    "name": "orange-pi-zero-python"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu-dotnet"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu-golang"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu-node"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu-openjdk"
+  },
+  {
+    "name": "orange-pi-zero-ubuntu-python"
+  },
+  {
+    "name": "orangepi-plus2"
+  },
+  {
+    "name": "orangepi-plus2-alpine"
+  },
+  {
+    "name": "orangepi-plus2-alpine-dotnet"
+  },
+  {
+    "name": "orangepi-plus2-alpine-golang"
+  },
+  {
+    "name": "orangepi-plus2-alpine-node"
+  },
+  {
+    "name": "orangepi-plus2-alpine-openjdk"
+  },
+  {
+    "name": "orangepi-plus2-alpine-python"
+  },
+  {
+    "name": "orangepi-plus2-debian"
+  },
+  {
+    "name": "orangepi-plus2-debian-dotnet"
+  },
+  {
+    "name": "orangepi-plus2-debian-golang"
+  },
+  {
+    "name": "orangepi-plus2-debian-node"
+  },
+  {
+    "name": "orangepi-plus2-debian-openjdk"
+  },
+  {
+    "name": "orangepi-plus2-debian-python"
+  },
+  {
+    "name": "orangepi-plus2-dotnet"
+  },
+  {
+    "name": "orangepi-plus2-fedora"
+  },
+  {
+    "name": "orangepi-plus2-fedora-golang"
+  },
+  {
+    "name": "orangepi-plus2-fedora-node"
+  },
+  {
+    "name": "orangepi-plus2-fedora-openjdk"
+  },
+  {
+    "name": "orangepi-plus2-fedora-python"
+  },
+  {
+    "name": "orangepi-plus2-golang"
+  },
+  {
+    "name": "orangepi-plus2-node"
+  },
+  {
+    "name": "orangepi-plus2-openjdk"
+  },
+  {
+    "name": "orangepi-plus2-python"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu-dotnet"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu-golang"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu-node"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu-openjdk"
+  },
+  {
+    "name": "orangepi-plus2-ubuntu-python"
+  },
+  {
+    "name": "orbitty-tx2"
+  },
+  {
+    "name": "orbitty-tx2-alpine"
+  },
+  {
+    "name": "orbitty-tx2-alpine-dotnet"
+  },
+  {
+    "name": "orbitty-tx2-alpine-golang"
+  },
+  {
+    "name": "orbitty-tx2-alpine-node"
+  },
+  {
+    "name": "orbitty-tx2-alpine-openjdk"
+  },
+  {
+    "name": "orbitty-tx2-alpine-python"
+  },
+  {
+    "name": "orbitty-tx2-debian"
+  },
+  {
+    "name": "orbitty-tx2-debian-dotnet"
+  },
+  {
+    "name": "orbitty-tx2-debian-golang"
+  },
+  {
+    "name": "orbitty-tx2-debian-node"
+  },
+  {
+    "name": "orbitty-tx2-debian-openjdk"
+  },
+  {
+    "name": "orbitty-tx2-debian-python"
+  },
+  {
+    "name": "orbitty-tx2-dotnet"
+  },
+  {
+    "name": "orbitty-tx2-fedora"
+  },
+  {
+    "name": "orbitty-tx2-fedora-golang"
+  },
+  {
+    "name": "orbitty-tx2-fedora-node"
+  },
+  {
+    "name": "orbitty-tx2-fedora-openjdk"
+  },
+  {
+    "name": "orbitty-tx2-fedora-python"
+  },
+  {
+    "name": "orbitty-tx2-golang"
+  },
+  {
+    "name": "orbitty-tx2-node"
+  },
+  {
+    "name": "orbitty-tx2-openjdk"
+  },
+  {
+    "name": "orbitty-tx2-python"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu-golang"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu-node"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "orbitty-tx2-ubuntu-python"
+  },
+  {
+    "name": "owa5x"
+  },
+  {
+    "name": "owa5x-alpine"
+  },
+  {
+    "name": "owa5x-alpine-golang"
+  },
+  {
+    "name": "owa5x-alpine-node"
+  },
+  {
+    "name": "owa5x-alpine-openjdk"
+  },
+  {
+    "name": "owa5x-alpine-python"
+  },
+  {
+    "name": "owa5x-debian"
+  },
+  {
+    "name": "owa5x-debian-dotnet"
+  },
+  {
+    "name": "owa5x-debian-golang"
+  },
+  {
+    "name": "owa5x-debian-node"
+  },
+  {
+    "name": "owa5x-debian-openjdk"
+  },
+  {
+    "name": "owa5x-debian-python"
+  },
+  {
+    "name": "owa5x-dotnet"
+  },
+  {
+    "name": "owa5x-fedora"
+  },
+  {
+    "name": "owa5x-fedora-golang"
+  },
+  {
+    "name": "owa5x-fedora-node"
+  },
+  {
+    "name": "owa5x-fedora-openjdk"
+  },
+  {
+    "name": "owa5x-fedora-python"
+  },
+  {
+    "name": "owa5x-golang"
+  },
+  {
+    "name": "owa5x-node"
+  },
+  {
+    "name": "owa5x-openjdk"
+  },
+  {
+    "name": "owa5x-python"
+  },
+  {
+    "name": "owa5x-ubuntu"
+  },
+  {
+    "name": "owa5x-ubuntu-golang"
+  },
+  {
+    "name": "owa5x-ubuntu-node"
+  },
+  {
+    "name": "owa5x-ubuntu-openjdk"
+  },
+  {
+    "name": "owa5x-ubuntu-python"
+  },
+  {
+    "name": "parallella"
+  },
+  {
+    "name": "parallella-alpine"
+  },
+  {
+    "name": "parallella-alpine-dotnet"
+  },
+  {
+    "name": "parallella-alpine-golang"
+  },
+  {
+    "name": "parallella-alpine-node"
+  },
+  {
+    "name": "parallella-alpine-openjdk"
+  },
+  {
+    "name": "parallella-alpine-python"
+  },
+  {
+    "name": "parallella-debian"
+  },
+  {
+    "name": "parallella-debian-dotnet"
+  },
+  {
+    "name": "parallella-debian-golang"
+  },
+  {
+    "name": "parallella-debian-node"
+  },
+  {
+    "name": "parallella-debian-openjdk"
+  },
+  {
+    "name": "parallella-debian-python"
+  },
+  {
+    "name": "parallella-dotnet"
+  },
+  {
+    "name": "parallella-fedora"
+  },
+  {
+    "name": "parallella-fedora-golang"
+  },
+  {
+    "name": "parallella-fedora-node"
+  },
+  {
+    "name": "parallella-fedora-openjdk"
+  },
+  {
+    "name": "parallella-fedora-python"
+  },
+  {
+    "name": "parallella-golang"
+  },
+  {
+    "name": "parallella-node"
+  },
+  {
+    "name": "parallella-openjdk"
+  },
+  {
+    "name": "parallella-python"
+  },
+  {
+    "name": "parallella-ubuntu"
+  },
+  {
+    "name": "parallella-ubuntu-dotnet"
+  },
+  {
+    "name": "parallella-ubuntu-golang"
+  },
+  {
+    "name": "parallella-ubuntu-node"
+  },
+  {
+    "name": "parallella-ubuntu-openjdk"
+  },
+  {
+    "name": "parallella-ubuntu-python"
+  },
+  {
+    "name": "photon-nano"
+  },
+  {
+    "name": "photon-nano-alpine"
+  },
+  {
+    "name": "photon-nano-alpine-dotnet"
+  },
+  {
+    "name": "photon-nano-alpine-golang"
+  },
+  {
+    "name": "photon-nano-alpine-node"
+  },
+  {
+    "name": "photon-nano-alpine-openjdk"
+  },
+  {
+    "name": "photon-nano-alpine-python"
+  },
+  {
+    "name": "photon-nano-debian"
+  },
+  {
+    "name": "photon-nano-debian-dotnet"
+  },
+  {
+    "name": "photon-nano-debian-golang"
+  },
+  {
+    "name": "photon-nano-debian-node"
+  },
+  {
+    "name": "photon-nano-debian-openjdk"
+  },
+  {
+    "name": "photon-nano-debian-python"
+  },
+  {
+    "name": "photon-nano-dotnet"
+  },
+  {
+    "name": "photon-nano-fedora"
+  },
+  {
+    "name": "photon-nano-fedora-golang"
+  },
+  {
+    "name": "photon-nano-fedora-node"
+  },
+  {
+    "name": "photon-nano-fedora-openjdk"
+  },
+  {
+    "name": "photon-nano-fedora-python"
+  },
+  {
+    "name": "photon-nano-golang"
+  },
+  {
+    "name": "photon-nano-node"
+  },
+  {
+    "name": "photon-nano-openjdk"
+  },
+  {
+    "name": "photon-nano-python"
+  },
+  {
+    "name": "photon-nano-ubuntu"
+  },
+  {
+    "name": "photon-nano-ubuntu-dotnet"
+  },
+  {
+    "name": "photon-nano-ubuntu-golang"
+  },
+  {
+    "name": "photon-nano-ubuntu-node"
+  },
+  {
+    "name": "photon-nano-ubuntu-openjdk"
+  },
+  {
+    "name": "photon-nano-ubuntu-python"
+  },
+  {
+    "name": "photon-tx2-nx"
+  },
+  {
+    "name": "photon-tx2-nx-alpine"
+  },
+  {
+    "name": "photon-tx2-nx-alpine-dotnet"
+  },
+  {
+    "name": "photon-tx2-nx-alpine-golang"
+  },
+  {
+    "name": "photon-tx2-nx-alpine-node"
+  },
+  {
+    "name": "photon-tx2-nx-alpine-openjdk"
+  },
+  {
+    "name": "photon-tx2-nx-alpine-python"
+  },
+  {
+    "name": "photon-tx2-nx-debian"
+  },
+  {
+    "name": "photon-tx2-nx-debian-dotnet"
+  },
+  {
+    "name": "photon-tx2-nx-debian-golang"
+  },
+  {
+    "name": "photon-tx2-nx-debian-node"
+  },
+  {
+    "name": "photon-tx2-nx-debian-openjdk"
+  },
+  {
+    "name": "photon-tx2-nx-debian-python"
+  },
+  {
+    "name": "photon-tx2-nx-dotnet"
+  },
+  {
+    "name": "photon-tx2-nx-fedora"
+  },
+  {
+    "name": "photon-tx2-nx-fedora-golang"
+  },
+  {
+    "name": "photon-tx2-nx-fedora-node"
+  },
+  {
+    "name": "photon-tx2-nx-fedora-openjdk"
+  },
+  {
+    "name": "photon-tx2-nx-fedora-python"
+  },
+  {
+    "name": "photon-tx2-nx-golang"
+  },
+  {
+    "name": "photon-tx2-nx-node"
+  },
+  {
+    "name": "photon-tx2-nx-openjdk"
+  },
+  {
+    "name": "photon-tx2-nx-python"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu-dotnet"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu-golang"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu-node"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu-openjdk"
+  },
+  {
+    "name": "photon-tx2-nx-ubuntu-python"
+  },
+  {
+    "name": "photon-xavier-nx"
+  },
+  {
+    "name": "photon-xavier-nx-alpine"
+  },
+  {
+    "name": "photon-xavier-nx-alpine-dotnet"
+  },
+  {
+    "name": "photon-xavier-nx-alpine-golang"
+  },
+  {
+    "name": "photon-xavier-nx-alpine-node"
+  },
+  {
+    "name": "photon-xavier-nx-alpine-openjdk"
+  },
+  {
+    "name": "photon-xavier-nx-alpine-python"
+  },
+  {
+    "name": "photon-xavier-nx-debian"
+  },
+  {
+    "name": "photon-xavier-nx-debian-dotnet"
+  },
+  {
+    "name": "photon-xavier-nx-debian-golang"
+  },
+  {
+    "name": "photon-xavier-nx-debian-node"
+  },
+  {
+    "name": "photon-xavier-nx-debian-openjdk"
+  },
+  {
+    "name": "photon-xavier-nx-debian-python"
+  },
+  {
+    "name": "photon-xavier-nx-dotnet"
+  },
+  {
+    "name": "photon-xavier-nx-fedora"
+  },
+  {
+    "name": "photon-xavier-nx-fedora-golang"
+  },
+  {
+    "name": "photon-xavier-nx-fedora-node"
+  },
+  {
+    "name": "photon-xavier-nx-fedora-openjdk"
+  },
+  {
+    "name": "photon-xavier-nx-fedora-python"
+  },
+  {
+    "name": "photon-xavier-nx-golang"
+  },
+  {
+    "name": "photon-xavier-nx-node"
+  },
+  {
+    "name": "photon-xavier-nx-openjdk"
+  },
+  {
+    "name": "photon-xavier-nx-python"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu-dotnet"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu-golang"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu-node"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu-openjdk"
+  },
+  {
+    "name": "photon-xavier-nx-ubuntu-python"
+  },
+  {
+    "name": "qemux86"
+  },
+  {
+    "name": "qemux86-64"
+  },
+  {
+    "name": "qemux86-64-alpine"
+  },
+  {
+    "name": "qemux86-64-alpine-dotnet"
+  },
+  {
+    "name": "qemux86-64-alpine-golang"
+  },
+  {
+    "name": "qemux86-64-alpine-node"
+  },
+  {
+    "name": "qemux86-64-alpine-openjdk"
+  },
+  {
+    "name": "qemux86-64-alpine-python"
+  },
+  {
+    "name": "qemux86-64-debian"
+  },
+  {
+    "name": "qemux86-64-debian-dotnet"
+  },
+  {
+    "name": "qemux86-64-debian-golang"
+  },
+  {
+    "name": "qemux86-64-debian-node"
+  },
+  {
+    "name": "qemux86-64-debian-openjdk"
+  },
+  {
+    "name": "qemux86-64-debian-python"
+  },
+  {
+    "name": "qemux86-64-dotnet"
+  },
+  {
+    "name": "qemux86-64-fedora"
+  },
+  {
+    "name": "qemux86-64-fedora-golang"
+  },
+  {
+    "name": "qemux86-64-fedora-node"
+  },
+  {
+    "name": "qemux86-64-fedora-openjdk"
+  },
+  {
+    "name": "qemux86-64-fedora-python"
+  },
+  {
+    "name": "qemux86-64-golang"
+  },
+  {
+    "name": "qemux86-64-node"
+  },
+  {
+    "name": "qemux86-64-openjdk"
+  },
+  {
+    "name": "qemux86-64-python"
+  },
+  {
+    "name": "qemux86-64-ubuntu"
+  },
+  {
+    "name": "qemux86-64-ubuntu-dotnet"
+  },
+  {
+    "name": "qemux86-64-ubuntu-golang"
+  },
+  {
+    "name": "qemux86-64-ubuntu-node"
+  },
+  {
+    "name": "qemux86-64-ubuntu-openjdk"
+  },
+  {
+    "name": "qemux86-64-ubuntu-python"
+  },
+  {
+    "name": "qemux86-alpine"
+  },
+  {
+    "name": "qemux86-alpine-golang"
+  },
+  {
+    "name": "qemux86-alpine-node"
+  },
+  {
+    "name": "qemux86-alpine-openjdk"
+  },
+  {
+    "name": "qemux86-alpine-python"
+  },
+  {
+    "name": "qemux86-debian"
+  },
+  {
+    "name": "qemux86-debian-dotnet"
+  },
+  {
+    "name": "qemux86-debian-golang"
+  },
+  {
+    "name": "qemux86-debian-node"
+  },
+  {
+    "name": "qemux86-debian-openjdk"
+  },
+  {
+    "name": "qemux86-debian-python"
+  },
+  {
+    "name": "qemux86-dotnet"
+  },
+  {
+    "name": "qemux86-golang"
+  },
+  {
+    "name": "qemux86-node"
+  },
+  {
+    "name": "qemux86-openjdk"
+  },
+  {
+    "name": "qemux86-python"
+  },
+  {
+    "name": "qemux86-ubuntu"
+  },
+  {
+    "name": "qemux86-ubuntu-golang"
+  },
+  {
+    "name": "qemux86-ubuntu-node"
+  },
+  {
+    "name": "qemux86-ubuntu-openjdk"
+  },
+  {
+    "name": "qemux86-ubuntu-python"
+  },
+  {
+    "name": "radxa-zero"
+  },
+  {
+    "name": "radxa-zero-alpine"
+  },
+  {
+    "name": "radxa-zero-alpine-golang"
+  },
+  {
+    "name": "radxa-zero-alpine-node"
+  },
+  {
+    "name": "radxa-zero-alpine-openjdk"
+  },
+  {
+    "name": "radxa-zero-alpine-python"
+  },
+  {
+    "name": "radxa-zero-debian"
+  },
+  {
+    "name": "radxa-zero-debian-dotnet"
+  },
+  {
+    "name": "radxa-zero-debian-golang"
+  },
+  {
+    "name": "radxa-zero-debian-node"
+  },
+  {
+    "name": "radxa-zero-debian-openjdk"
+  },
+  {
+    "name": "radxa-zero-debian-python"
+  },
+  {
+    "name": "radxa-zero-dotnet"
+  },
+  {
+    "name": "radxa-zero-fedora"
+  },
+  {
+    "name": "radxa-zero-fedora-golang"
+  },
+  {
+    "name": "radxa-zero-fedora-node"
+  },
+  {
+    "name": "radxa-zero-fedora-openjdk"
+  },
+  {
+    "name": "radxa-zero-fedora-python"
+  },
+  {
+    "name": "radxa-zero-golang"
+  },
+  {
+    "name": "radxa-zero-node"
+  },
+  {
+    "name": "radxa-zero-openjdk"
+  },
+  {
+    "name": "radxa-zero-python"
+  },
+  {
+    "name": "radxa-zero-ubuntu"
+  },
+  {
+    "name": "radxa-zero-ubuntu-golang"
+  },
+  {
+    "name": "radxa-zero-ubuntu-node"
+  },
+  {
+    "name": "radxa-zero-ubuntu-openjdk"
+  },
+  {
+    "name": "radxa-zero-ubuntu-python"
+  },
+  {
+    "name": "raspberry-pi"
+  },
+  {
+    "name": "raspberry-pi-alpine"
+  },
+  {
+    "name": "raspberry-pi-alpine-golang"
+  },
+  {
+    "name": "raspberry-pi-alpine-node"
+  },
+  {
+    "name": "raspberry-pi-alpine-openjdk"
+  },
+  {
+    "name": "raspberry-pi-alpine-python"
+  },
+  {
+    "name": "raspberry-pi-debian"
+  },
+  {
+    "name": "raspberry-pi-debian-dotnet"
+  },
+  {
+    "name": "raspberry-pi-debian-golang"
+  },
+  {
+    "name": "raspberry-pi-debian-node"
+  },
+  {
+    "name": "raspberry-pi-debian-openjdk"
+  },
+  {
+    "name": "raspberry-pi-debian-python"
+  },
+  {
+    "name": "raspberry-pi-dotnet"
+  },
+  {
+    "name": "raspberry-pi-golang"
+  },
+  {
+    "name": "raspberry-pi-node"
+  },
+  {
+    "name": "raspberry-pi-openjdk"
+  },
+  {
+    "name": "raspberry-pi-python"
+  },
+  {
+    "name": "raspberry-pi2"
+  },
+  {
+    "name": "raspberry-pi2-alpine"
+  },
+  {
+    "name": "raspberry-pi2-alpine-dotnet"
+  },
+  {
+    "name": "raspberry-pi2-alpine-golang"
+  },
+  {
+    "name": "raspberry-pi2-alpine-node"
+  },
+  {
+    "name": "raspberry-pi2-alpine-openjdk"
+  },
+  {
+    "name": "raspberry-pi2-alpine-python"
+  },
+  {
+    "name": "raspberry-pi2-debian"
+  },
+  {
+    "name": "raspberry-pi2-debian-dotnet"
+  },
+  {
+    "name": "raspberry-pi2-debian-golang"
+  },
+  {
+    "name": "raspberry-pi2-debian-node"
+  },
+  {
+    "name": "raspberry-pi2-debian-openjdk"
+  },
+  {
+    "name": "raspberry-pi2-debian-python"
+  },
+  {
+    "name": "raspberry-pi2-dotnet"
+  },
+  {
+    "name": "raspberry-pi2-fedora"
+  },
+  {
+    "name": "raspberry-pi2-fedora-golang"
+  },
+  {
+    "name": "raspberry-pi2-fedora-node"
+  },
+  {
+    "name": "raspberry-pi2-fedora-openjdk"
+  },
+  {
+    "name": "raspberry-pi2-fedora-python"
+  },
+  {
+    "name": "raspberry-pi2-golang"
+  },
+  {
+    "name": "raspberry-pi2-node"
+  },
+  {
+    "name": "raspberry-pi2-openjdk"
+  },
+  {
+    "name": "raspberry-pi2-python"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu-golang"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu-node"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberry-pi2-ubuntu-python"
+  },
+  {
+    "name": "raspberrypi0-2w-64"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine-golang"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine-node"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypi0-2w-64-alpine-python"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian-dotnet"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian-golang"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian-node"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian-openjdk"
+  },
+  {
+    "name": "raspberrypi0-2w-64-debian-python"
+  },
+  {
+    "name": "raspberrypi0-2w-64-dotnet"
+  },
+  {
+    "name": "raspberrypi0-2w-64-fedora"
+  },
+  {
+    "name": "raspberrypi0-2w-64-fedora-golang"
+  },
+  {
+    "name": "raspberrypi0-2w-64-fedora-node"
+  },
+  {
+    "name": "raspberrypi0-2w-64-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypi0-2w-64-fedora-python"
+  },
+  {
+    "name": "raspberrypi0-2w-64-golang"
+  },
+  {
+    "name": "raspberrypi0-2w-64-node"
+  },
+  {
+    "name": "raspberrypi0-2w-64-openjdk"
+  },
+  {
+    "name": "raspberrypi0-2w-64-python"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu-node"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypi0-2w-64-ubuntu-python"
+  },
+  {
+    "name": "raspberrypi3"
+  },
+  {
+    "name": "raspberrypi3-64"
+  },
+  {
+    "name": "raspberrypi3-64-alpine"
+  },
+  {
+    "name": "raspberrypi3-64-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypi3-64-alpine-golang"
+  },
+  {
+    "name": "raspberrypi3-64-alpine-node"
+  },
+  {
+    "name": "raspberrypi3-64-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypi3-64-alpine-python"
+  },
+  {
+    "name": "raspberrypi3-64-debian"
+  },
+  {
+    "name": "raspberrypi3-64-debian-dotnet"
+  },
+  {
+    "name": "raspberrypi3-64-debian-golang"
+  },
+  {
+    "name": "raspberrypi3-64-debian-node"
+  },
+  {
+    "name": "raspberrypi3-64-debian-openjdk"
+  },
+  {
+    "name": "raspberrypi3-64-debian-python"
+  },
+  {
+    "name": "raspberrypi3-64-dotnet"
+  },
+  {
+    "name": "raspberrypi3-64-fedora"
+  },
+  {
+    "name": "raspberrypi3-64-fedora-golang"
+  },
+  {
+    "name": "raspberrypi3-64-fedora-node"
+  },
+  {
+    "name": "raspberrypi3-64-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypi3-64-fedora-python"
+  },
+  {
+    "name": "raspberrypi3-64-golang"
+  },
+  {
+    "name": "raspberrypi3-64-node"
+  },
+  {
+    "name": "raspberrypi3-64-openjdk"
+  },
+  {
+    "name": "raspberrypi3-64-python"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu-node"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypi3-64-ubuntu-python"
+  },
+  {
+    "name": "raspberrypi3-alpine"
+  },
+  {
+    "name": "raspberrypi3-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypi3-alpine-golang"
+  },
+  {
+    "name": "raspberrypi3-alpine-node"
+  },
+  {
+    "name": "raspberrypi3-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypi3-alpine-python"
+  },
+  {
+    "name": "raspberrypi3-debian"
+  },
+  {
+    "name": "raspberrypi3-debian-dotnet"
+  },
+  {
+    "name": "raspberrypi3-debian-golang"
+  },
+  {
+    "name": "raspberrypi3-debian-node"
+  },
+  {
+    "name": "raspberrypi3-debian-openjdk"
+  },
+  {
+    "name": "raspberrypi3-debian-python"
+  },
+  {
+    "name": "raspberrypi3-dotnet"
+  },
+  {
+    "name": "raspberrypi3-fedora"
+  },
+  {
+    "name": "raspberrypi3-fedora-golang"
+  },
+  {
+    "name": "raspberrypi3-fedora-node"
+  },
+  {
+    "name": "raspberrypi3-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypi3-fedora-python"
+  },
+  {
+    "name": "raspberrypi3-golang"
+  },
+  {
+    "name": "raspberrypi3-node"
+  },
+  {
+    "name": "raspberrypi3-openjdk"
+  },
+  {
+    "name": "raspberrypi3-python"
+  },
+  {
+    "name": "raspberrypi3-ubuntu"
+  },
+  {
+    "name": "raspberrypi3-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypi3-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypi3-ubuntu-node"
+  },
+  {
+    "name": "raspberrypi3-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypi3-ubuntu-python"
+  },
+  {
+    "name": "raspberrypi4-64"
+  },
+  {
+    "name": "raspberrypi4-64-alpine"
+  },
+  {
+    "name": "raspberrypi4-64-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypi4-64-alpine-golang"
+  },
+  {
+    "name": "raspberrypi4-64-alpine-node"
+  },
+  {
+    "name": "raspberrypi4-64-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypi4-64-alpine-python"
+  },
+  {
+    "name": "raspberrypi4-64-debian"
+  },
+  {
+    "name": "raspberrypi4-64-debian-dotnet"
+  },
+  {
+    "name": "raspberrypi4-64-debian-golang"
+  },
+  {
+    "name": "raspberrypi4-64-debian-node"
+  },
+  {
+    "name": "raspberrypi4-64-debian-openjdk"
+  },
+  {
+    "name": "raspberrypi4-64-debian-python"
+  },
+  {
+    "name": "raspberrypi4-64-dotnet"
+  },
+  {
+    "name": "raspberrypi4-64-fedora"
+  },
+  {
+    "name": "raspberrypi4-64-fedora-golang"
+  },
+  {
+    "name": "raspberrypi4-64-fedora-node"
+  },
+  {
+    "name": "raspberrypi4-64-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypi4-64-fedora-python"
+  },
+  {
+    "name": "raspberrypi4-64-golang"
+  },
+  {
+    "name": "raspberrypi4-64-node"
+  },
+  {
+    "name": "raspberrypi4-64-openjdk"
+  },
+  {
+    "name": "raspberrypi4-64-python"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu-node"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypi4-64-ubuntu-python"
+  },
+  {
+    "name": "raspberrypi400-64"
+  },
+  {
+    "name": "raspberrypi400-64-alpine"
+  },
+  {
+    "name": "raspberrypi400-64-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypi400-64-alpine-golang"
+  },
+  {
+    "name": "raspberrypi400-64-alpine-node"
+  },
+  {
+    "name": "raspberrypi400-64-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypi400-64-alpine-python"
+  },
+  {
+    "name": "raspberrypi400-64-debian"
+  },
+  {
+    "name": "raspberrypi400-64-debian-dotnet"
+  },
+  {
+    "name": "raspberrypi400-64-debian-golang"
+  },
+  {
+    "name": "raspberrypi400-64-debian-node"
+  },
+  {
+    "name": "raspberrypi400-64-debian-openjdk"
+  },
+  {
+    "name": "raspberrypi400-64-debian-python"
+  },
+  {
+    "name": "raspberrypi400-64-dotnet"
+  },
+  {
+    "name": "raspberrypi400-64-fedora"
+  },
+  {
+    "name": "raspberrypi400-64-fedora-golang"
+  },
+  {
+    "name": "raspberrypi400-64-fedora-node"
+  },
+  {
+    "name": "raspberrypi400-64-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypi400-64-fedora-python"
+  },
+  {
+    "name": "raspberrypi400-64-golang"
+  },
+  {
+    "name": "raspberrypi400-64-node"
+  },
+  {
+    "name": "raspberrypi400-64-openjdk"
+  },
+  {
+    "name": "raspberrypi400-64-python"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu-node"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypi400-64-ubuntu-python"
+  },
+  {
+    "name": "raspberrypicm4-ioboard"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine-dotnet"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine-golang"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine-node"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine-openjdk"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-alpine-python"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian-dotnet"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian-golang"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian-node"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian-openjdk"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-debian-python"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-dotnet"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-fedora"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-fedora-golang"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-fedora-node"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-fedora-openjdk"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-fedora-python"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-golang"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-node"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-openjdk"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-python"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu-dotnet"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu-golang"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu-node"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu-openjdk"
+  },
+  {
+    "name": "raspberrypicm4-ioboard-ubuntu-python"
+  },
+  {
+    "name": "revpi-connect"
+  },
+  {
+    "name": "revpi-connect-alpine"
+  },
+  {
+    "name": "revpi-connect-alpine-dotnet"
+  },
+  {
+    "name": "revpi-connect-alpine-golang"
+  },
+  {
+    "name": "revpi-connect-alpine-node"
+  },
+  {
+    "name": "revpi-connect-alpine-openjdk"
+  },
+  {
+    "name": "revpi-connect-alpine-python"
+  },
+  {
+    "name": "revpi-connect-debian"
+  },
+  {
+    "name": "revpi-connect-debian-dotnet"
+  },
+  {
+    "name": "revpi-connect-debian-golang"
+  },
+  {
+    "name": "revpi-connect-debian-node"
+  },
+  {
+    "name": "revpi-connect-debian-openjdk"
+  },
+  {
+    "name": "revpi-connect-debian-python"
+  },
+  {
+    "name": "revpi-connect-dotnet"
+  },
+  {
+    "name": "revpi-connect-fedora"
+  },
+  {
+    "name": "revpi-connect-fedora-golang"
+  },
+  {
+    "name": "revpi-connect-fedora-node"
+  },
+  {
+    "name": "revpi-connect-fedora-openjdk"
+  },
+  {
+    "name": "revpi-connect-fedora-python"
+  },
+  {
+    "name": "revpi-connect-golang"
+  },
+  {
+    "name": "revpi-connect-node"
+  },
+  {
+    "name": "revpi-connect-openjdk"
+  },
+  {
+    "name": "revpi-connect-python"
+  },
+  {
+    "name": "revpi-connect-ubuntu"
+  },
+  {
+    "name": "revpi-connect-ubuntu-dotnet"
+  },
+  {
+    "name": "revpi-connect-ubuntu-golang"
+  },
+  {
+    "name": "revpi-connect-ubuntu-node"
+  },
+  {
+    "name": "revpi-connect-ubuntu-openjdk"
+  },
+  {
+    "name": "revpi-connect-ubuntu-python"
+  },
+  {
+    "name": "revpi-core-3"
+  },
+  {
+    "name": "revpi-core-3-alpine"
+  },
+  {
+    "name": "revpi-core-3-alpine-dotnet"
+  },
+  {
+    "name": "revpi-core-3-alpine-golang"
+  },
+  {
+    "name": "revpi-core-3-alpine-node"
+  },
+  {
+    "name": "revpi-core-3-alpine-openjdk"
+  },
+  {
+    "name": "revpi-core-3-alpine-python"
+  },
+  {
+    "name": "revpi-core-3-debian"
+  },
+  {
+    "name": "revpi-core-3-debian-dotnet"
+  },
+  {
+    "name": "revpi-core-3-debian-golang"
+  },
+  {
+    "name": "revpi-core-3-debian-node"
+  },
+  {
+    "name": "revpi-core-3-debian-openjdk"
+  },
+  {
+    "name": "revpi-core-3-debian-python"
+  },
+  {
+    "name": "revpi-core-3-dotnet"
+  },
+  {
+    "name": "revpi-core-3-fedora"
+  },
+  {
+    "name": "revpi-core-3-fedora-golang"
+  },
+  {
+    "name": "revpi-core-3-fedora-node"
+  },
+  {
+    "name": "revpi-core-3-fedora-openjdk"
+  },
+  {
+    "name": "revpi-core-3-fedora-python"
+  },
+  {
+    "name": "revpi-core-3-golang"
+  },
+  {
+    "name": "revpi-core-3-node"
+  },
+  {
+    "name": "revpi-core-3-openjdk"
+  },
+  {
+    "name": "revpi-core-3-python"
+  },
+  {
+    "name": "revpi-core-3-ubuntu"
+  },
+  {
+    "name": "revpi-core-3-ubuntu-dotnet"
+  },
+  {
+    "name": "revpi-core-3-ubuntu-golang"
+  },
+  {
+    "name": "revpi-core-3-ubuntu-node"
+  },
+  {
+    "name": "revpi-core-3-ubuntu-openjdk"
+  },
+  {
+    "name": "revpi-core-3-ubuntu-python"
+  },
+  {
+    "name": "rockpi-4b-rk3399"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine-dotnet"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine-golang"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine-node"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine-openjdk"
+  },
+  {
+    "name": "rockpi-4b-rk3399-alpine-python"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian-dotnet"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian-golang"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian-node"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian-openjdk"
+  },
+  {
+    "name": "rockpi-4b-rk3399-debian-python"
+  },
+  {
+    "name": "rockpi-4b-rk3399-dotnet"
+  },
+  {
+    "name": "rockpi-4b-rk3399-fedora"
+  },
+  {
+    "name": "rockpi-4b-rk3399-fedora-golang"
+  },
+  {
+    "name": "rockpi-4b-rk3399-fedora-node"
+  },
+  {
+    "name": "rockpi-4b-rk3399-fedora-openjdk"
+  },
+  {
+    "name": "rockpi-4b-rk3399-fedora-python"
+  },
+  {
+    "name": "rockpi-4b-rk3399-golang"
+  },
+  {
+    "name": "rockpi-4b-rk3399-node"
+  },
+  {
+    "name": "rockpi-4b-rk3399-openjdk"
+  },
+  {
+    "name": "rockpi-4b-rk3399-python"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu-dotnet"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu-golang"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu-node"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu-openjdk"
+  },
+  {
+    "name": "rockpi-4b-rk3399-ubuntu-python"
+  },
+  {
+    "name": "rockpro64"
+  },
+  {
+    "name": "rockpro64-alpine"
+  },
+  {
+    "name": "rockpro64-alpine-golang"
+  },
+  {
+    "name": "rockpro64-alpine-node"
+  },
+  {
+    "name": "rockpro64-alpine-openjdk"
+  },
+  {
+    "name": "rockpro64-alpine-python"
+  },
+  {
+    "name": "rockpro64-debian"
+  },
+  {
+    "name": "rockpro64-debian-dotnet"
+  },
+  {
+    "name": "rockpro64-debian-golang"
+  },
+  {
+    "name": "rockpro64-debian-node"
+  },
+  {
+    "name": "rockpro64-debian-openjdk"
+  },
+  {
+    "name": "rockpro64-debian-python"
+  },
+  {
+    "name": "rockpro64-dotnet"
+  },
+  {
+    "name": "rockpro64-fedora"
+  },
+  {
+    "name": "rockpro64-fedora-golang"
+  },
+  {
+    "name": "rockpro64-fedora-node"
+  },
+  {
+    "name": "rockpro64-fedora-openjdk"
+  },
+  {
+    "name": "rockpro64-fedora-python"
+  },
+  {
+    "name": "rockpro64-golang"
+  },
+  {
+    "name": "rockpro64-node"
+  },
+  {
+    "name": "rockpro64-openjdk"
+  },
+  {
+    "name": "rockpro64-python"
+  },
+  {
+    "name": "rockpro64-ubuntu"
+  },
+  {
+    "name": "rockpro64-ubuntu-golang"
+  },
+  {
+    "name": "rockpro64-ubuntu-node"
+  },
+  {
+    "name": "rockpro64-ubuntu-openjdk"
+  },
+  {
+    "name": "rockpro64-ubuntu-python"
+  },
+  {
+    "name": "rpi"
+  },
+  {
+    "name": "rpi-alpine"
+  },
+  {
+    "name": "rpi-alpine-golang"
+  },
+  {
+    "name": "rpi-alpine-node"
+  },
+  {
+    "name": "rpi-alpine-openjdk"
+  },
+  {
+    "name": "rpi-alpine-python"
+  },
+  {
+    "name": "rpi-alpine-supervisor-base"
+  },
+  {
+    "name": "rpi-debian"
+  },
+  {
+    "name": "rpi-debian-dotnet"
+  },
+  {
+    "name": "rpi-debian-golang"
+  },
+  {
+    "name": "rpi-debian-node"
+  },
+  {
+    "name": "rpi-debian-openjdk"
+  },
+  {
+    "name": "rpi-debian-python"
+  },
+  {
+    "name": "rpi-dotnet"
+  },
+  {
+    "name": "rpi-golang"
+  },
+  {
+    "name": "rpi-node"
+  },
+  {
+    "name": "rpi-openjdk"
+  },
+  {
+    "name": "rpi-python"
+  },
+  {
+    "name": "rpi-raspbian"
+  },
+  {
+    "name": "skx2"
+  },
+  {
+    "name": "skx2-alpine"
+  },
+  {
+    "name": "skx2-alpine-dotnet"
+  },
+  {
+    "name": "skx2-alpine-golang"
+  },
+  {
+    "name": "skx2-alpine-node"
+  },
+  {
+    "name": "skx2-alpine-openjdk"
+  },
+  {
+    "name": "skx2-alpine-python"
+  },
+  {
+    "name": "skx2-debian"
+  },
+  {
+    "name": "skx2-debian-dotnet"
+  },
+  {
+    "name": "skx2-debian-golang"
+  },
+  {
+    "name": "skx2-debian-node"
+  },
+  {
+    "name": "skx2-debian-openjdk"
+  },
+  {
+    "name": "skx2-debian-python"
+  },
+  {
+    "name": "skx2-dotnet"
+  },
+  {
+    "name": "skx2-fedora"
+  },
+  {
+    "name": "skx2-fedora-golang"
+  },
+  {
+    "name": "skx2-fedora-node"
+  },
+  {
+    "name": "skx2-fedora-openjdk"
+  },
+  {
+    "name": "skx2-fedora-python"
+  },
+  {
+    "name": "skx2-golang"
+  },
+  {
+    "name": "skx2-node"
+  },
+  {
+    "name": "skx2-openjdk"
+  },
+  {
+    "name": "skx2-python"
+  },
+  {
+    "name": "skx2-ubuntu"
+  },
+  {
+    "name": "skx2-ubuntu-dotnet"
+  },
+  {
+    "name": "skx2-ubuntu-golang"
+  },
+  {
+    "name": "skx2-ubuntu-node"
+  },
+  {
+    "name": "skx2-ubuntu-openjdk"
+  },
+  {
+    "name": "skx2-ubuntu-python"
+  },
+  {
+    "name": "smarc-px30"
+  },
+  {
+    "name": "smarc-px30-alpine"
+  },
+  {
+    "name": "smarc-px30-alpine-dotnet"
+  },
+  {
+    "name": "smarc-px30-alpine-golang"
+  },
+  {
+    "name": "smarc-px30-alpine-node"
+  },
+  {
+    "name": "smarc-px30-alpine-openjdk"
+  },
+  {
+    "name": "smarc-px30-alpine-python"
+  },
+  {
+    "name": "smarc-px30-debian"
+  },
+  {
+    "name": "smarc-px30-debian-dotnet"
+  },
+  {
+    "name": "smarc-px30-debian-golang"
+  },
+  {
+    "name": "smarc-px30-debian-node"
+  },
+  {
+    "name": "smarc-px30-debian-openjdk"
+  },
+  {
+    "name": "smarc-px30-debian-python"
+  },
+  {
+    "name": "smarc-px30-dotnet"
+  },
+  {
+    "name": "smarc-px30-fedora"
+  },
+  {
+    "name": "smarc-px30-fedora-golang"
+  },
+  {
+    "name": "smarc-px30-fedora-node"
+  },
+  {
+    "name": "smarc-px30-fedora-openjdk"
+  },
+  {
+    "name": "smarc-px30-fedora-python"
+  },
+  {
+    "name": "smarc-px30-golang"
+  },
+  {
+    "name": "smarc-px30-node"
+  },
+  {
+    "name": "smarc-px30-openjdk"
+  },
+  {
+    "name": "smarc-px30-python"
+  },
+  {
+    "name": "smarc-px30-ubuntu"
+  },
+  {
+    "name": "smarc-px30-ubuntu-dotnet"
+  },
+  {
+    "name": "smarc-px30-ubuntu-golang"
+  },
+  {
+    "name": "smarc-px30-ubuntu-node"
+  },
+  {
+    "name": "smarc-px30-ubuntu-openjdk"
+  },
+  {
+    "name": "smarc-px30-ubuntu-python"
+  },
+  {
+    "name": "solidrun-n6g"
+  },
+  {
+    "name": "solidrun-n6g-alpine"
+  },
+  {
+    "name": "solidrun-n6g-alpine-golang"
+  },
+  {
+    "name": "solidrun-n6g-alpine-node"
+  },
+  {
+    "name": "solidrun-n6g-alpine-openjdk"
+  },
+  {
+    "name": "solidrun-n6g-alpine-python"
+  },
+  {
+    "name": "solidrun-n6g-debian"
+  },
+  {
+    "name": "solidrun-n6g-debian-dotnet"
+  },
+  {
+    "name": "solidrun-n6g-debian-golang"
+  },
+  {
+    "name": "solidrun-n6g-debian-node"
+  },
+  {
+    "name": "solidrun-n6g-debian-openjdk"
+  },
+  {
+    "name": "solidrun-n6g-debian-python"
+  },
+  {
+    "name": "solidrun-n6g-dotnet"
+  },
+  {
+    "name": "solidrun-n6g-fedora"
+  },
+  {
+    "name": "solidrun-n6g-fedora-golang"
+  },
+  {
+    "name": "solidrun-n6g-fedora-node"
+  },
+  {
+    "name": "solidrun-n6g-fedora-openjdk"
+  },
+  {
+    "name": "solidrun-n6g-fedora-python"
+  },
+  {
+    "name": "solidrun-n6g-golang"
+  },
+  {
+    "name": "solidrun-n6g-node"
+  },
+  {
+    "name": "solidrun-n6g-openjdk"
+  },
+  {
+    "name": "solidrun-n6g-python"
+  },
+  {
+    "name": "solidrun-n6g-ubuntu"
+  },
+  {
+    "name": "solidrun-n6g-ubuntu-golang"
+  },
+  {
+    "name": "solidrun-n6g-ubuntu-node"
+  },
+  {
+    "name": "solidrun-n6g-ubuntu-openjdk"
+  },
+  {
+    "name": "solidrun-n6g-ubuntu-python"
+  },
+  {
+    "name": "spacely-tx2"
+  },
+  {
+    "name": "spacely-tx2-alpine"
+  },
+  {
+    "name": "spacely-tx2-alpine-dotnet"
+  },
+  {
+    "name": "spacely-tx2-alpine-golang"
+  },
+  {
+    "name": "spacely-tx2-alpine-node"
+  },
+  {
+    "name": "spacely-tx2-alpine-openjdk"
+  },
+  {
+    "name": "spacely-tx2-alpine-python"
+  },
+  {
+    "name": "spacely-tx2-debian"
+  },
+  {
+    "name": "spacely-tx2-debian-dotnet"
+  },
+  {
+    "name": "spacely-tx2-debian-golang"
+  },
+  {
+    "name": "spacely-tx2-debian-node"
+  },
+  {
+    "name": "spacely-tx2-debian-openjdk"
+  },
+  {
+    "name": "spacely-tx2-debian-python"
+  },
+  {
+    "name": "spacely-tx2-dotnet"
+  },
+  {
+    "name": "spacely-tx2-fedora"
+  },
+  {
+    "name": "spacely-tx2-fedora-golang"
+  },
+  {
+    "name": "spacely-tx2-fedora-node"
+  },
+  {
+    "name": "spacely-tx2-fedora-openjdk"
+  },
+  {
+    "name": "spacely-tx2-fedora-python"
+  },
+  {
+    "name": "spacely-tx2-golang"
+  },
+  {
+    "name": "spacely-tx2-node"
+  },
+  {
+    "name": "spacely-tx2-openjdk"
+  },
+  {
+    "name": "spacely-tx2-python"
+  },
+  {
+    "name": "spacely-tx2-ubuntu"
+  },
+  {
+    "name": "spacely-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "spacely-tx2-ubuntu-golang"
+  },
+  {
+    "name": "spacely-tx2-ubuntu-node"
+  },
+  {
+    "name": "spacely-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "spacely-tx2-ubuntu-python"
+  },
+  {
+    "name": "srd3-tx2"
+  },
+  {
+    "name": "srd3-tx2-alpine"
+  },
+  {
+    "name": "srd3-tx2-alpine-dotnet"
+  },
+  {
+    "name": "srd3-tx2-alpine-golang"
+  },
+  {
+    "name": "srd3-tx2-alpine-node"
+  },
+  {
+    "name": "srd3-tx2-alpine-openjdk"
+  },
+  {
+    "name": "srd3-tx2-alpine-python"
+  },
+  {
+    "name": "srd3-tx2-debian"
+  },
+  {
+    "name": "srd3-tx2-debian-dotnet"
+  },
+  {
+    "name": "srd3-tx2-debian-golang"
+  },
+  {
+    "name": "srd3-tx2-debian-node"
+  },
+  {
+    "name": "srd3-tx2-debian-openjdk"
+  },
+  {
+    "name": "srd3-tx2-debian-python"
+  },
+  {
+    "name": "srd3-tx2-dotnet"
+  },
+  {
+    "name": "srd3-tx2-fedora"
+  },
+  {
+    "name": "srd3-tx2-fedora-golang"
+  },
+  {
+    "name": "srd3-tx2-fedora-node"
+  },
+  {
+    "name": "srd3-tx2-fedora-openjdk"
+  },
+  {
+    "name": "srd3-tx2-fedora-python"
+  },
+  {
+    "name": "srd3-tx2-golang"
+  },
+  {
+    "name": "srd3-tx2-node"
+  },
+  {
+    "name": "srd3-tx2-openjdk"
+  },
+  {
+    "name": "srd3-tx2-python"
+  },
+  {
+    "name": "srd3-tx2-ubuntu"
+  },
+  {
+    "name": "srd3-tx2-ubuntu-dotnet"
+  },
+  {
+    "name": "srd3-tx2-ubuntu-golang"
+  },
+  {
+    "name": "srd3-tx2-ubuntu-node"
+  },
+  {
+    "name": "srd3-tx2-ubuntu-openjdk"
+  },
+  {
+    "name": "srd3-tx2-ubuntu-python"
+  },
+  {
+    "name": "stem-x86-32"
+  },
+  {
+    "name": "stem-x86-32-alpine"
+  },
+  {
+    "name": "stem-x86-32-alpine-golang"
+  },
+  {
+    "name": "stem-x86-32-alpine-node"
+  },
+  {
+    "name": "stem-x86-32-alpine-openjdk"
+  },
+  {
+    "name": "stem-x86-32-alpine-python"
+  },
+  {
+    "name": "stem-x86-32-debian"
+  },
+  {
+    "name": "stem-x86-32-debian-dotnet"
+  },
+  {
+    "name": "stem-x86-32-debian-golang"
+  },
+  {
+    "name": "stem-x86-32-debian-node"
+  },
+  {
+    "name": "stem-x86-32-debian-openjdk"
+  },
+  {
+    "name": "stem-x86-32-debian-python"
+  },
+  {
+    "name": "stem-x86-32-dotnet"
+  },
+  {
+    "name": "stem-x86-32-fedora-golang"
+  },
+  {
+    "name": "stem-x86-32-golang"
+  },
+  {
+    "name": "stem-x86-32-node"
+  },
+  {
+    "name": "stem-x86-32-openjdk"
+  },
+  {
+    "name": "stem-x86-32-python"
+  },
+  {
+    "name": "stem-x86-32-ubuntu"
+  },
+  {
+    "name": "stem-x86-32-ubuntu-golang"
+  },
+  {
+    "name": "stem-x86-32-ubuntu-node"
+  },
+  {
+    "name": "stem-x86-32-ubuntu-openjdk"
+  },
+  {
+    "name": "stem-x86-32-ubuntu-python"
+  },
+  {
+    "name": "surface-go"
+  },
+  {
+    "name": "surface-go-alpine"
+  },
+  {
+    "name": "surface-go-alpine-dotnet"
+  },
+  {
+    "name": "surface-go-alpine-golang"
+  },
+  {
+    "name": "surface-go-alpine-node"
+  },
+  {
+    "name": "surface-go-alpine-openjdk"
+  },
+  {
+    "name": "surface-go-alpine-python"
+  },
+  {
+    "name": "surface-go-debian"
+  },
+  {
+    "name": "surface-go-debian-dotnet"
+  },
+  {
+    "name": "surface-go-debian-golang"
+  },
+  {
+    "name": "surface-go-debian-node"
+  },
+  {
+    "name": "surface-go-debian-openjdk"
+  },
+  {
+    "name": "surface-go-debian-python"
+  },
+  {
+    "name": "surface-go-dotnet"
+  },
+  {
+    "name": "surface-go-fedora"
+  },
+  {
+    "name": "surface-go-fedora-golang"
+  },
+  {
+    "name": "surface-go-fedora-node"
+  },
+  {
+    "name": "surface-go-fedora-openjdk"
+  },
+  {
+    "name": "surface-go-fedora-python"
+  },
+  {
+    "name": "surface-go-golang"
+  },
+  {
+    "name": "surface-go-node"
+  },
+  {
+    "name": "surface-go-openjdk"
+  },
+  {
+    "name": "surface-go-python"
+  },
+  {
+    "name": "surface-go-ubuntu"
+  },
+  {
+    "name": "surface-go-ubuntu-dotnet"
+  },
+  {
+    "name": "surface-go-ubuntu-golang"
+  },
+  {
+    "name": "surface-go-ubuntu-node"
+  },
+  {
+    "name": "surface-go-ubuntu-openjdk"
+  },
+  {
+    "name": "surface-go-ubuntu-python"
+  },
+  {
+    "name": "surface-pro-6"
+  },
+  {
+    "name": "surface-pro-6-alpine"
+  },
+  {
+    "name": "surface-pro-6-alpine-dotnet"
+  },
+  {
+    "name": "surface-pro-6-alpine-golang"
+  },
+  {
+    "name": "surface-pro-6-alpine-node"
+  },
+  {
+    "name": "surface-pro-6-alpine-openjdk"
+  },
+  {
+    "name": "surface-pro-6-alpine-python"
+  },
+  {
+    "name": "surface-pro-6-debian"
+  },
+  {
+    "name": "surface-pro-6-debian-dotnet"
+  },
+  {
+    "name": "surface-pro-6-debian-golang"
+  },
+  {
+    "name": "surface-pro-6-debian-node"
+  },
+  {
+    "name": "surface-pro-6-debian-openjdk"
+  },
+  {
+    "name": "surface-pro-6-debian-python"
+  },
+  {
+    "name": "surface-pro-6-dotnet"
+  },
+  {
+    "name": "surface-pro-6-fedora"
+  },
+  {
+    "name": "surface-pro-6-fedora-golang"
+  },
+  {
+    "name": "surface-pro-6-fedora-node"
+  },
+  {
+    "name": "surface-pro-6-fedora-openjdk"
+  },
+  {
+    "name": "surface-pro-6-fedora-python"
+  },
+  {
+    "name": "surface-pro-6-golang"
+  },
+  {
+    "name": "surface-pro-6-node"
+  },
+  {
+    "name": "surface-pro-6-openjdk"
+  },
+  {
+    "name": "surface-pro-6-python"
+  },
+  {
+    "name": "surface-pro-6-ubuntu"
+  },
+  {
+    "name": "surface-pro-6-ubuntu-dotnet"
+  },
+  {
+    "name": "surface-pro-6-ubuntu-golang"
+  },
+  {
+    "name": "surface-pro-6-ubuntu-node"
+  },
+  {
+    "name": "surface-pro-6-ubuntu-openjdk"
+  },
+  {
+    "name": "surface-pro-6-ubuntu-python"
+  },
+  {
+    "name": "tdpzu9"
+  },
+  {
+    "name": "tdpzu9-alpine"
+  },
+  {
+    "name": "tdpzu9-alpine-golang"
+  },
+  {
+    "name": "tdpzu9-alpine-node"
+  },
+  {
+    "name": "tdpzu9-alpine-openjdk"
+  },
+  {
+    "name": "tdpzu9-alpine-python"
+  },
+  {
+    "name": "tdpzu9-debian"
+  },
+  {
+    "name": "tdpzu9-debian-dotnet"
+  },
+  {
+    "name": "tdpzu9-debian-golang"
+  },
+  {
+    "name": "tdpzu9-debian-node"
+  },
+  {
+    "name": "tdpzu9-debian-openjdk"
+  },
+  {
+    "name": "tdpzu9-debian-python"
+  },
+  {
+    "name": "tdpzu9-dotnet"
+  },
+  {
+    "name": "tdpzu9-fedora"
+  },
+  {
+    "name": "tdpzu9-fedora-golang"
+  },
+  {
+    "name": "tdpzu9-fedora-node"
+  },
+  {
+    "name": "tdpzu9-fedora-openjdk"
+  },
+  {
+    "name": "tdpzu9-fedora-python"
+  },
+  {
+    "name": "tdpzu9-golang"
+  },
+  {
+    "name": "tdpzu9-node"
+  },
+  {
+    "name": "tdpzu9-openjdk"
+  },
+  {
+    "name": "tdpzu9-python"
+  },
+  {
+    "name": "tdpzu9-ubuntu"
+  },
+  {
+    "name": "tdpzu9-ubuntu-golang"
+  },
+  {
+    "name": "tdpzu9-ubuntu-node"
+  },
+  {
+    "name": "tdpzu9-ubuntu-openjdk"
+  },
+  {
+    "name": "tdpzu9-ubuntu-python"
+  },
+  {
+    "name": "ts4900"
+  },
+  {
+    "name": "ts4900-alpine"
+  },
+  {
+    "name": "ts4900-alpine-dotnet"
+  },
+  {
+    "name": "ts4900-alpine-golang"
+  },
+  {
+    "name": "ts4900-alpine-node"
+  },
+  {
+    "name": "ts4900-alpine-openjdk"
+  },
+  {
+    "name": "ts4900-alpine-python"
+  },
+  {
+    "name": "ts4900-debian"
+  },
+  {
+    "name": "ts4900-debian-dotnet"
+  },
+  {
+    "name": "ts4900-debian-golang"
+  },
+  {
+    "name": "ts4900-debian-node"
+  },
+  {
+    "name": "ts4900-debian-openjdk"
+  },
+  {
+    "name": "ts4900-debian-python"
+  },
+  {
+    "name": "ts4900-dotnet"
+  },
+  {
+    "name": "ts4900-fedora"
+  },
+  {
+    "name": "ts4900-fedora-golang"
+  },
+  {
+    "name": "ts4900-fedora-node"
+  },
+  {
+    "name": "ts4900-fedora-openjdk"
+  },
+  {
+    "name": "ts4900-fedora-python"
+  },
+  {
+    "name": "ts4900-golang"
+  },
+  {
+    "name": "ts4900-node"
+  },
+  {
+    "name": "ts4900-openjdk"
+  },
+  {
+    "name": "ts4900-python"
+  },
+  {
+    "name": "ts4900-ubuntu"
+  },
+  {
+    "name": "ts4900-ubuntu-dotnet"
+  },
+  {
+    "name": "ts4900-ubuntu-golang"
+  },
+  {
+    "name": "ts4900-ubuntu-node"
+  },
+  {
+    "name": "ts4900-ubuntu-openjdk"
+  },
+  {
+    "name": "ts4900-ubuntu-python"
+  },
+  {
+    "name": "ts7700"
+  },
+  {
+    "name": "ts7700-debian"
+  },
+  {
+    "name": "ts7700-debian-dotnet"
+  },
+  {
+    "name": "ts7700-debian-golang"
+  },
+  {
+    "name": "ts7700-debian-node"
+  },
+  {
+    "name": "ts7700-debian-openjdk"
+  },
+  {
+    "name": "ts7700-debian-python"
+  },
+  {
+    "name": "ts7700-dotnet"
+  },
+  {
+    "name": "ts7700-golang"
+  },
+  {
+    "name": "ts7700-node"
+  },
+  {
+    "name": "ts7700-openjdk"
+  },
+  {
+    "name": "ts7700-python"
+  },
+  {
+    "name": "up-board"
+  },
+  {
+    "name": "up-board-alpine"
+  },
+  {
+    "name": "up-board-alpine-golang"
+  },
+  {
+    "name": "up-board-alpine-node"
+  },
+  {
+    "name": "up-board-alpine-openjdk"
+  },
+  {
+    "name": "up-board-alpine-python"
+  },
+  {
+    "name": "up-board-debian"
+  },
+  {
+    "name": "up-board-debian-dotnet"
+  },
+  {
+    "name": "up-board-debian-golang"
+  },
+  {
+    "name": "up-board-debian-node"
+  },
+  {
+    "name": "up-board-debian-openjdk"
+  },
+  {
+    "name": "up-board-debian-python"
+  },
+  {
+    "name": "up-board-dotnet"
+  },
+  {
+    "name": "up-board-fedora"
+  },
+  {
+    "name": "up-board-fedora-golang"
+  },
+  {
+    "name": "up-board-fedora-node"
+  },
+  {
+    "name": "up-board-fedora-openjdk"
+  },
+  {
+    "name": "up-board-fedora-python"
+  },
+  {
+    "name": "up-board-golang"
+  },
+  {
+    "name": "up-board-node"
+  },
+  {
+    "name": "up-board-openjdk"
+  },
+  {
+    "name": "up-board-python"
+  },
+  {
+    "name": "up-board-ubuntu"
+  },
+  {
+    "name": "up-board-ubuntu-golang"
+  },
+  {
+    "name": "up-board-ubuntu-node"
+  },
+  {
+    "name": "up-board-ubuntu-openjdk"
+  },
+  {
+    "name": "up-board-ubuntu-python"
+  },
+  {
+    "name": "up-core"
+  },
+  {
+    "name": "up-core-alpine"
+  },
+  {
+    "name": "up-core-alpine-dotnet"
+  },
+  {
+    "name": "up-core-alpine-golang"
+  },
+  {
+    "name": "up-core-alpine-node"
+  },
+  {
+    "name": "up-core-alpine-openjdk"
+  },
+  {
+    "name": "up-core-alpine-python"
+  },
+  {
+    "name": "up-core-debian"
+  },
+  {
+    "name": "up-core-debian-dotnet"
+  },
+  {
+    "name": "up-core-debian-golang"
+  },
+  {
+    "name": "up-core-debian-node"
+  },
+  {
+    "name": "up-core-debian-openjdk"
+  },
+  {
+    "name": "up-core-debian-python"
+  },
+  {
+    "name": "up-core-dotnet"
+  },
+  {
+    "name": "up-core-fedora"
+  },
+  {
+    "name": "up-core-fedora-golang"
+  },
+  {
+    "name": "up-core-fedora-node"
+  },
+  {
+    "name": "up-core-fedora-openjdk"
+  },
+  {
+    "name": "up-core-fedora-python"
+  },
+  {
+    "name": "up-core-golang"
+  },
+  {
+    "name": "up-core-node"
+  },
+  {
+    "name": "up-core-openjdk"
+  },
+  {
+    "name": "up-core-plus"
+  },
+  {
+    "name": "up-core-plus-alpine"
+  },
+  {
+    "name": "up-core-plus-alpine-dotnet"
+  },
+  {
+    "name": "up-core-plus-alpine-golang"
+  },
+  {
+    "name": "up-core-plus-alpine-node"
+  },
+  {
+    "name": "up-core-plus-alpine-openjdk"
+  },
+  {
+    "name": "up-core-plus-alpine-python"
+  },
+  {
+    "name": "up-core-plus-debian"
+  },
+  {
+    "name": "up-core-plus-debian-dotnet"
+  },
+  {
+    "name": "up-core-plus-debian-golang"
+  },
+  {
+    "name": "up-core-plus-debian-node"
+  },
+  {
+    "name": "up-core-plus-debian-openjdk"
+  },
+  {
+    "name": "up-core-plus-debian-python"
+  },
+  {
+    "name": "up-core-plus-dotnet"
+  },
+  {
+    "name": "up-core-plus-fedora"
+  },
+  {
+    "name": "up-core-plus-fedora-golang"
+  },
+  {
+    "name": "up-core-plus-fedora-node"
+  },
+  {
+    "name": "up-core-plus-fedora-openjdk"
+  },
+  {
+    "name": "up-core-plus-fedora-python"
+  },
+  {
+    "name": "up-core-plus-golang"
+  },
+  {
+    "name": "up-core-plus-node"
+  },
+  {
+    "name": "up-core-plus-openjdk"
+  },
+  {
+    "name": "up-core-plus-python"
+  },
+  {
+    "name": "up-core-plus-ubuntu"
+  },
+  {
+    "name": "up-core-plus-ubuntu-dotnet"
+  },
+  {
+    "name": "up-core-plus-ubuntu-golang"
+  },
+  {
+    "name": "up-core-plus-ubuntu-node"
+  },
+  {
+    "name": "up-core-plus-ubuntu-openjdk"
+  },
+  {
+    "name": "up-core-plus-ubuntu-python"
+  },
+  {
+    "name": "up-core-python"
+  },
+  {
+    "name": "up-core-ubuntu"
+  },
+  {
+    "name": "up-core-ubuntu-dotnet"
+  },
+  {
+    "name": "up-core-ubuntu-golang"
+  },
+  {
+    "name": "up-core-ubuntu-node"
+  },
+  {
+    "name": "up-core-ubuntu-openjdk"
+  },
+  {
+    "name": "up-core-ubuntu-python"
+  },
+  {
+    "name": "up-squared"
+  },
+  {
+    "name": "up-squared-alpine"
+  },
+  {
+    "name": "up-squared-alpine-dotnet"
+  },
+  {
+    "name": "up-squared-alpine-golang"
+  },
+  {
+    "name": "up-squared-alpine-node"
+  },
+  {
+    "name": "up-squared-alpine-openjdk"
+  },
+  {
+    "name": "up-squared-alpine-python"
+  },
+  {
+    "name": "up-squared-debian"
+  },
+  {
+    "name": "up-squared-debian-dotnet"
+  },
+  {
+    "name": "up-squared-debian-golang"
+  },
+  {
+    "name": "up-squared-debian-node"
+  },
+  {
+    "name": "up-squared-debian-openjdk"
+  },
+  {
+    "name": "up-squared-debian-python"
+  },
+  {
+    "name": "up-squared-dotnet"
+  },
+  {
+    "name": "up-squared-fedora"
+  },
+  {
+    "name": "up-squared-fedora-golang"
+  },
+  {
+    "name": "up-squared-fedora-node"
+  },
+  {
+    "name": "up-squared-fedora-openjdk"
+  },
+  {
+    "name": "up-squared-fedora-python"
+  },
+  {
+    "name": "up-squared-golang"
+  },
+  {
+    "name": "up-squared-node"
+  },
+  {
+    "name": "up-squared-openjdk"
+  },
+  {
+    "name": "up-squared-python"
+  },
+  {
+    "name": "up-squared-ubuntu"
+  },
+  {
+    "name": "up-squared-ubuntu-dotnet"
+  },
+  {
+    "name": "up-squared-ubuntu-golang"
+  },
+  {
+    "name": "up-squared-ubuntu-node"
+  },
+  {
+    "name": "up-squared-ubuntu-openjdk"
+  },
+  {
+    "name": "up-squared-ubuntu-python"
+  },
+  {
+    "name": "var-som-mx6"
+  },
+  {
+    "name": "var-som-mx6-alpine"
+  },
+  {
+    "name": "var-som-mx6-alpine-dotnet"
+  },
+  {
+    "name": "var-som-mx6-alpine-golang"
+  },
+  {
+    "name": "var-som-mx6-alpine-node"
+  },
+  {
+    "name": "var-som-mx6-alpine-openjdk"
+  },
+  {
+    "name": "var-som-mx6-alpine-python"
+  },
+  {
+    "name": "var-som-mx6-debian"
+  },
+  {
+    "name": "var-som-mx6-debian-dotnet"
+  },
+  {
+    "name": "var-som-mx6-debian-golang"
+  },
+  {
+    "name": "var-som-mx6-debian-node"
+  },
+  {
+    "name": "var-som-mx6-debian-openjdk"
+  },
+  {
+    "name": "var-som-mx6-debian-python"
+  },
+  {
+    "name": "var-som-mx6-dotnet"
+  },
+  {
+    "name": "var-som-mx6-fedora"
+  },
+  {
+    "name": "var-som-mx6-fedora-golang"
+  },
+  {
+    "name": "var-som-mx6-fedora-node"
+  },
+  {
+    "name": "var-som-mx6-fedora-openjdk"
+  },
+  {
+    "name": "var-som-mx6-fedora-python"
+  },
+  {
+    "name": "var-som-mx6-golang"
+  },
+  {
+    "name": "var-som-mx6-node"
+  },
+  {
+    "name": "var-som-mx6-openjdk"
+  },
+  {
+    "name": "var-som-mx6-python"
+  },
+  {
+    "name": "var-som-mx6-ubuntu"
+  },
+  {
+    "name": "var-som-mx6-ubuntu-dotnet"
+  },
+  {
+    "name": "var-som-mx6-ubuntu-golang"
+  },
+  {
+    "name": "var-som-mx6-ubuntu-node"
+  },
+  {
+    "name": "var-som-mx6-ubuntu-openjdk"
+  },
+  {
+    "name": "var-som-mx6-ubuntu-python"
+  },
+  {
+    "name": "via-vab820-quad"
+  },
+  {
+    "name": "via-vab820-quad-alpine"
+  },
+  {
+    "name": "via-vab820-quad-alpine-dotnet"
+  },
+  {
+    "name": "via-vab820-quad-alpine-golang"
+  },
+  {
+    "name": "via-vab820-quad-alpine-node"
+  },
+  {
+    "name": "via-vab820-quad-alpine-openjdk"
+  },
+  {
+    "name": "via-vab820-quad-alpine-python"
+  },
+  {
+    "name": "via-vab820-quad-debian"
+  },
+  {
+    "name": "via-vab820-quad-debian-dotnet"
+  },
+  {
+    "name": "via-vab820-quad-debian-golang"
+  },
+  {
+    "name": "via-vab820-quad-debian-node"
+  },
+  {
+    "name": "via-vab820-quad-debian-openjdk"
+  },
+  {
+    "name": "via-vab820-quad-debian-python"
+  },
+  {
+    "name": "via-vab820-quad-dotnet"
+  },
+  {
+    "name": "via-vab820-quad-fedora"
+  },
+  {
+    "name": "via-vab820-quad-fedora-golang"
+  },
+  {
+    "name": "via-vab820-quad-fedora-node"
+  },
+  {
+    "name": "via-vab820-quad-fedora-openjdk"
+  },
+  {
+    "name": "via-vab820-quad-fedora-python"
+  },
+  {
+    "name": "via-vab820-quad-golang"
+  },
+  {
+    "name": "via-vab820-quad-node"
+  },
+  {
+    "name": "via-vab820-quad-openjdk"
+  },
+  {
+    "name": "via-vab820-quad-python"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu-dotnet"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu-golang"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu-node"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu-openjdk"
+  },
+  {
+    "name": "via-vab820-quad-ubuntu-python"
+  },
+  {
+    "name": "zc702-zynq7"
+  },
+  {
+    "name": "zc702-zynq7-alpine"
+  },
+  {
+    "name": "zc702-zynq7-alpine-golang"
+  },
+  {
+    "name": "zc702-zynq7-alpine-node"
+  },
+  {
+    "name": "zc702-zynq7-alpine-openjdk"
+  },
+  {
+    "name": "zc702-zynq7-alpine-python"
+  },
+  {
+    "name": "zc702-zynq7-debian"
+  },
+  {
+    "name": "zc702-zynq7-debian-golang"
+  },
+  {
+    "name": "zc702-zynq7-debian-node"
+  },
+  {
+    "name": "zc702-zynq7-debian-openjdk"
+  },
+  {
+    "name": "zc702-zynq7-debian-python"
+  },
+  {
+    "name": "zc702-zynq7-fedora"
+  },
+  {
+    "name": "zc702-zynq7-fedora-golang"
+  },
+  {
+    "name": "zc702-zynq7-fedora-node"
+  },
+  {
+    "name": "zc702-zynq7-fedora-openjdk"
+  },
+  {
+    "name": "zc702-zynq7-fedora-python"
+  },
+  {
+    "name": "zc702-zynq7-golang"
+  },
+  {
+    "name": "zc702-zynq7-node"
+  },
+  {
+    "name": "zc702-zynq7-openjdk"
+  },
+  {
+    "name": "zc702-zynq7-python"
+  },
+  {
+    "name": "zc702-zynq7-ubuntu"
+  },
+  {
+    "name": "zc702-zynq7-ubuntu-golang"
+  },
+  {
+    "name": "zc702-zynq7-ubuntu-node"
+  },
+  {
+    "name": "zc702-zynq7-ubuntu-openjdk"
+  },
+  {
+    "name": "zc702-zynq7-ubuntu-python"
+  },
+  {
+    "name": "zynq-xz702"
+  },
+  {
+    "name": "zynq-xz702-alpine"
+  },
+  {
+    "name": "zynq-xz702-alpine-dotnet"
+  },
+  {
+    "name": "zynq-xz702-alpine-golang"
+  },
+  {
+    "name": "zynq-xz702-alpine-node"
+  },
+  {
+    "name": "zynq-xz702-alpine-openjdk"
+  },
+  {
+    "name": "zynq-xz702-alpine-python"
+  },
+  {
+    "name": "zynq-xz702-debian"
+  },
+  {
+    "name": "zynq-xz702-debian-dotnet"
+  },
+  {
+    "name": "zynq-xz702-debian-golang"
+  },
+  {
+    "name": "zynq-xz702-debian-node"
+  },
+  {
+    "name": "zynq-xz702-debian-openjdk"
+  },
+  {
+    "name": "zynq-xz702-debian-python"
+  },
+  {
+    "name": "zynq-xz702-dotnet"
+  },
+  {
+    "name": "zynq-xz702-fedora"
+  },
+  {
+    "name": "zynq-xz702-fedora-golang"
+  },
+  {
+    "name": "zynq-xz702-fedora-node"
+  },
+  {
+    "name": "zynq-xz702-fedora-openjdk"
+  },
+  {
+    "name": "zynq-xz702-fedora-python"
+  },
+  {
+    "name": "zynq-xz702-golang"
+  },
+  {
+    "name": "zynq-xz702-node"
+  },
+  {
+    "name": "zynq-xz702-openjdk"
+  },
+  {
+    "name": "zynq-xz702-python"
+  },
+  {
+    "name": "zynq-xz702-ubuntu"
+  },
+  {
+    "name": "zynq-xz702-ubuntu-dotnet"
+  },
+  {
+    "name": "zynq-xz702-ubuntu-golang"
+  },
+  {
+    "name": "zynq-xz702-ubuntu-node"
+  },
+  {
+    "name": "zynq-xz702-ubuntu-openjdk"
+  },
+  {
+    "name": "zynq-xz702-ubuntu-python"
+  }
+]
