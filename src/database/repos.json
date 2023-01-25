@@ -2871,6 +2871,87 @@
     "name": "floyd-nano-ubuntu-python"
   },
   {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-alpine"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-alpine-golang"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-alpine-node"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-alpine-openjdk"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-alpine-python"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian-dotnet"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian-golang"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian-node"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian-openjdk"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-debian-python"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-dotnet"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-fedora"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-fedora-golang"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-fedora-node"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-fedora-openjdk"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-fedora-python"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-golang"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-node"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-openjdk"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-python"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-ubuntu"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-ubuntu-golang"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-ubuntu-node"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-ubuntu-openjdk"
+  },
+  {
+    "name": "forecr-dsb-nx2-xavier-nx-emmc-ubuntu-python"
+  },
+  {
     "name": "generic"
   },
   {
@@ -8158,6 +8239,87 @@
   },
   {
     "name": "qemux86-ubuntu-python"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-alpine"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-alpine-golang"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-alpine-node"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-alpine-openjdk"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-alpine-python"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian-dotnet"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian-golang"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian-node"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian-openjdk"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-debian-python"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-dotnet"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-fedora"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-fedora-golang"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-fedora-node"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-fedora-openjdk"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-fedora-python"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-golang"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-node"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-openjdk"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-python"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-ubuntu"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-ubuntu-golang"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-ubuntu-node"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-ubuntu-openjdk"
+  },
+  {
+    "name": "radxa-cm3-rpicm4-ioboard-ubuntu-python"
   },
   {
     "name": "radxa-zero"
